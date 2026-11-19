@@ -1,0 +1,83 @@
+
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Hirakata</title>
+
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+</head>
+
+<body>
+    <div id="hira" data-kana="hiragana"></div>
+    <div class="min-h-screen flex justify-center items-center bg-gradient-to-r from-blue-800 to-purple-800 p-4">
+
+        <!-- KARTU -->
+        <div class="card hidden" ></div>
+
+        <!-- PILIHAN KATEGORI -->
+        <div class="p-6 text-center text-xl wadah w-full max-w-xl">
+
+            <h1 class="text-3xl md:text-4xl font-bold text-white text-center mb-6">
+                SILAHKAN PILIH KATEGORI HIRAGANA
+            </h1>
+
+            <!-- GOJUON -->
+            <div class="grid grid-cols-5 gap-2 mb-4 *:bg-white *:rounded *:p-3 *:cursor-pointer *:active:scale-110 *:transition-transform">
+
+                <div class="kelompok" data-category="basic" data-kelompok="a">あ</div>
+                <div class="kelompok" data-category="basic" data-kelompok="ka">か</div>
+                <div class="kelompok" data-category="basic" data-kelompok="sa">さ</div>
+                <div class="kelompok" data-category="basic" data-kelompok="ta">た</div>
+                <div class="kelompok" data-category="basic" data-kelompok="na">な</div>
+
+                <div class="kelompok" data-category="basic" data-kelompok="ha">は</div>
+                <div class="kelompok" data-category="basic" data-kelompok="ma">ま</div>
+                <div class="kelompok" data-category="basic" data-kelompok="ya">や</div>
+                <div class="kelompok" data-category="basic" data-kelompok="ra">ら</div>
+                <div class="kelompok" data-category="basic" data-kelompok="wa">わ</div>
+
+            </div>
+
+            <!-- DAKUTEN -->
+            <div class="grid grid-cols-5 gap-2 mb-4 *:bg-white *:rounded *:p-3 *:cursor-pointer *:active:scale-110 *:transition-transform">
+
+                <div class="kelompok" data-category="dakuten" data-kelompok="ga">が</div>
+                <div class="kelompok" data-category="dakuten" data-kelompok="za">ざ</div>
+                <div class="kelompok" data-category="dakuten" data-kelompok="da">だ</div>
+                <div class="kelompok" data-category="dakuten" data-kelompok="ba">ば</div>
+                <div class="kelompok" data-category="dakuten" data-kelompok="pa">ぱ</div>
+
+            </div>
+
+            <!-- YOUON -->
+            <div class="grid grid-cols-5 gap-2 *:bg-white *:rounded *:p-3 *:cursor-pointer *:active:scale-110 *:transition-transform">
+
+                <div class="kelompok" data-category="yoon" data-kelompok="ki">きゃ</div>
+                <div class="kelompok" data-category="yoon" data-kelompok="syi">しゃ</div>
+                <div class="kelompok" data-category="yoon" data-kelompok="chi">ちゃ</div>
+                <div class="kelompok" data-category="yoon" data-kelompok="ni">にゃ</div>
+                <div class="kelompok" data-category="yoon" data-kelompok="hi">ひゃ</div>
+
+                <div class="kelompok" data-category="yoon" data-kelompok="mi">みゃ</div>
+                <div class="kelompok" data-category="yoon" data-kelompok="ru">りゃ</div>
+                <div class="kelompok" data-category="yoon" data-kelompok="gi">ぎゃ</div>
+                <div class="kelompok" data-category="yoon" data-kelompok="ji">じゃ</div>
+                <div class="kelompok" data-category="yoon" data-kelompok="bi">びゃ</div>
+
+                <div class="kelompok" data-category="yoon" data-kelompok="pi">ぴゃ</div>
+                <div class="kelompok" data-category="" data-kelompok="">Acak</div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <script src="kana.js"></script>
+
+</body>
+</html>
