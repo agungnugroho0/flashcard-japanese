@@ -1,0 +1,8846 @@
+[
+    {
+        "kanji": "一",
+        "arti": "Satu"
+    },
+    {
+        "kanji": "七",
+        "arti": "Tujuh"
+    },
+    {
+        "kanji": "万",
+        "arti": "Sepuluh ribu"
+    },
+    {
+        "kanji": "三",
+        "arti": "Tiga"
+    },
+    {
+        "kanji": "上",
+        "arti": "Atas"
+    },
+    {
+        "kanji": "下",
+        "arti": "Bawah"
+    },
+    {
+        "kanji": "中",
+        "arti": "Tengah, dalam"
+    },
+    {
+        "kanji": "九",
+        "arti": "Sembilan"
+    },
+    {
+        "kanji": "二",
+        "arti": "Dua"
+    },
+    {
+        "kanji": "五",
+        "arti": "Lima"
+    },
+    {
+        "kanji": "人",
+        "arti": "Orang"
+    },
+    {
+        "kanji": "今",
+        "arti": "Sekarang"
+    },
+    {
+        "kanji": "休",
+        "arti": "Istirahat, libur"
+    },
+    {
+        "kanji": "何",
+        "arti": "Apa"
+    },
+    {
+        "kanji": "先",
+        "arti": "Sebelumnya, dahulu"
+    },
+    {
+        "kanji": "入",
+        "arti": "Masuk, memasukkan"
+    },
+    {
+        "kanji": "八",
+        "arti": "Delapan"
+    },
+    {
+        "kanji": "六",
+        "arti": "Enam"
+    },
+    {
+        "kanji": "円",
+        "arti": "Yen, lingkaran, bulat"
+    },
+    {
+        "kanji": "出",
+        "arti": "Keluar, mengeluarkan"
+    },
+    {
+        "kanji": "前",
+        "arti": "Depan, sebelum"
+    },
+    {
+        "kanji": "北",
+        "arti": "Utara"
+    },
+    {
+        "kanji": "十",
+        "arti": "Sepuluh"
+    },
+    {
+        "kanji": "千",
+        "arti": "Seribu"
+    },
+    {
+        "kanji": "午",
+        "arti": "Siang, tengah hari"
+    },
+    {
+        "kanji": "半",
+        "arti": "Setengah"
+    },
+    {
+        "kanji": "南",
+        "arti": "Selatan"
+    },
+    {
+        "kanji": "友",
+        "arti": "Teman"
+    },
+    {
+        "kanji": "右",
+        "arti": "Kanan"
+    },
+    {
+        "kanji": "名",
+        "arti": "Nama"
+    },
+    {
+        "kanji": "四",
+        "arti": "Empat"
+    },
+    {
+        "kanji": "国",
+        "arti": "Negara"
+    },
+    {
+        "kanji": "土",
+        "arti": "Tanah"
+    },
+    {
+        "kanji": "外",
+        "arti": "Luar"
+    },
+    {
+        "kanji": "大",
+        "arti": "Besar"
+    },
+    {
+        "kanji": "天",
+        "arti": "Langit, surga"
+    },
+    {
+        "kanji": "女",
+        "arti": "Perempuan, wanita"
+    },
+    {
+        "kanji": "子",
+        "arti": "Anak"
+    },
+    {
+        "kanji": "学",
+        "arti": "Belajar, ilmu"
+    },
+    {
+        "kanji": "小",
+        "arti": "Kecil"
+    },
+    {
+        "kanji": "山",
+        "arti": "Gunung"
+    },
+    {
+        "kanji": "川",
+        "arti": "Sungai"
+    },
+    {
+        "kanji": "左",
+        "arti": "Kiri"
+    },
+    {
+        "kanji": "年",
+        "arti": "Tahun"
+    },
+    {
+        "kanji": "後",
+        "arti": "Belakang, setelah, nanti"
+    },
+    {
+        "kanji": "日",
+        "arti": "Matahari, hari"
+    },
+    {
+        "kanji": "時",
+        "arti": "Waktu, jam"
+    },
+    {
+        "kanji": "書",
+        "arti": "Menulis"
+    },
+    {
+        "kanji": "月",
+        "arti": "Bulan"
+    },
+    {
+        "kanji": "木",
+        "arti": "Pohon, kayu"
+    },
+    {
+        "kanji": "本",
+        "arti": "Buku, asal"
+    },
+    {
+        "kanji": "来",
+        "arti": "Datang, berikutnya"
+    },
+    {
+        "kanji": "東",
+        "arti": "Timur"
+    },
+    {
+        "kanji": "校",
+        "arti": "Sekolah, ujian"
+    },
+    {
+        "kanji": "母",
+        "arti": "Ibu"
+    },
+    {
+        "kanji": "毎",
+        "arti": "Setiap"
+    },
+    {
+        "kanji": "気",
+        "arti": "Semangat, udara, perasaan"
+    },
+    {
+        "kanji": "水",
+        "arti": "Air"
+    },
+    {
+        "kanji": "火",
+        "arti": "Api"
+    },
+    {
+        "kanji": "父",
+        "arti": "Ayah"
+    },
+    {
+        "kanji": "生",
+        "arti": "Hidup, lahir"
+    },
+    {
+        "kanji": "男",
+        "arti": "Laki-laki, pria"
+    },
+    {
+        "kanji": "白",
+        "arti": "Putih"
+    },
+    {
+        "kanji": "百",
+        "arti": "Seratus"
+    },
+    {
+        "kanji": "聞",
+        "arti": "Mendengar, bertanya"
+    },
+    {
+        "kanji": "行",
+        "arti": "Pergi, baris"
+    },
+    {
+        "kanji": "西",
+        "arti": "Barat"
+    },
+    {
+        "kanji": "見",
+        "arti": "Melihat"
+    },
+    {
+        "kanji": "話",
+        "arti": "Berbicara, cerita"
+    },
+    {
+        "kanji": "語",
+        "arti": "Bahasa, kata"
+    },
+    {
+        "kanji": "読",
+        "arti": "Membaca"
+    },
+    {
+        "kanji": "車",
+        "arti": "Mobil, kendaraan"
+    },
+    {
+        "kanji": "金",
+        "arti": "Emas, uang"
+    },
+    {
+        "kanji": "長",
+        "arti": "Panjang, pemimpin"
+    },
+    {
+        "kanji": "間",
+        "arti": "Antara, waktu, ruang"
+    },
+    {
+        "kanji": "雨",
+        "arti": "Hujan"
+    },
+    {
+        "kanji": "電",
+        "arti": "Listrik"
+    },
+    {
+        "kanji": "食",
+        "arti": "Makan, makanan"
+    },
+    {
+        "kanji": "高",
+        "arti": "Tinggi, mahal"
+    },
+    {
+        "kanji": "不",
+        "arti": "Tidak, bukan, buruk"
+    },
+    {
+        "kanji": "世",
+        "arti": "Dunia, generasi, masyarakat"
+    },
+    {
+        "kanji": "主",
+        "arti": "Utama, tuan, pemilik"
+    },
+    {
+        "kanji": "事",
+        "arti": "Hal, urusan, kejadian"
+    },
+    {
+        "kanji": "京",
+        "arti": "Ibu kota"
+    },
+    {
+        "kanji": "仕",
+        "arti": "Melayani, bekerja, melakukan"
+    },
+    {
+        "kanji": "代",
+        "arti": "Mengganti, generasi, biaya"
+    },
+    {
+        "kanji": "以",
+        "arti": "Dengan, karena, dibandingkan"
+    },
+    {
+        "kanji": "会",
+        "arti": "Bertemu, pertemuan, perkumpulan"
+    },
+    {
+        "kanji": "住",
+        "arti": "Tinggal, menetap"
+    },
+    {
+        "kanji": "体",
+        "arti": "Tubuh, badan"
+    },
+    {
+        "kanji": "作",
+        "arti": "Membuat, memproduksi"
+    },
+    {
+        "kanji": "使",
+        "arti": "Menggunakan, memakai"
+    },
+    {
+        "kanji": "借",
+        "arti": "Meminjam, menyewa"
+    },
+    {
+        "kanji": "元",
+        "arti": "Asal, awal, sehat"
+    },
+    {
+        "kanji": "兄",
+        "arti": "Kakak laki-laki"
+    },
+    {
+        "kanji": "公",
+        "arti": "Publik, umum, resmi"
+    },
+    {
+        "kanji": "写",
+        "arti": "Menyalin, memotret"
+    },
+    {
+        "kanji": "冬",
+        "arti": "Musim dingin"
+    },
+    {
+        "kanji": "切",
+        "arti": "Memotong, tajam"
+    },
+    {
+        "kanji": "別",
+        "arti": "Berbeda, terpisah, lain"
+    },
+    {
+        "kanji": "力",
+        "arti": "Kekuatan, tenaga"
+    },
+    {
+        "kanji": "勉",
+        "arti": "Berusaha keras, rajin"
+    },
+    {
+        "kanji": "動",
+        "arti": "Bergerak, menggerakkan"
+    },
+    {
+        "kanji": "医",
+        "arti": "Dokter, medis, obat"
+    },
+    {
+        "kanji": "去",
+        "arti": "Pergi, lalu, berlalu"
+    },
+    {
+        "kanji": "口",
+        "arti": "Mulut"
+    },
+    {
+        "kanji": "古",
+        "arti": "Tua, lama, kuno"
+    },
+    {
+        "kanji": "台",
+        "arti": "Alas, panggung, satuan mesin/kendaraan"
+    },
+    {
+        "kanji": "同",
+        "arti": "Sama, setuju"
+    },
+    {
+        "kanji": "味",
+        "arti": "Rasa, mencicipi"
+    },
+    {
+        "kanji": "品",
+        "arti": "Barang, produk, kualitas"
+    },
+    {
+        "kanji": "員",
+        "arti": "Anggota, pegawai, petugas"
+    },
+    {
+        "kanji": "問",
+        "arti": "Pertanyaan, bertanya, masalah"
+    },
+    {
+        "kanji": "図",
+        "arti": "Peta, gambar, rencana"
+    },
+    {
+        "kanji": "地",
+        "arti": "Tanah, bumi, tempat"
+    },
+    {
+        "kanji": "堂",
+        "arti": "Aula, balai, ruang besar"
+    },
+    {
+        "kanji": "場",
+        "arti": "Tempat, lokasi"
+    },
+    {
+        "kanji": "売",
+        "arti": "Menjual"
+    },
+    {
+        "kanji": "夏",
+        "arti": "Musim panas"
+    },
+    {
+        "kanji": "夕",
+        "arti": "Sore, petang"
+    },
+    {
+        "kanji": "多",
+        "arti": "Banyak, sering"
+    },
+    {
+        "kanji": "夜",
+        "arti": "Malam"
+    },
+    {
+        "kanji": "妹",
+        "arti": "Adik perempuan"
+    },
+    {
+        "kanji": "姉",
+        "arti": "Kakak perempuan"
+    },
+    {
+        "kanji": "始",
+        "arti": "Mulai, memulai"
+    },
+    {
+        "kanji": "字",
+        "arti": "Huruf, karakter, kata"
+    },
+    {
+        "kanji": "安",
+        "arti": "Murah, tenang, aman"
+    },
+    {
+        "kanji": "室",
+        "arti": "Ruangan, kamar"
+    },
+    {
+        "kanji": "家",
+        "arti": "Rumah, keluarga"
+    },
+    {
+        "kanji": "少",
+        "arti": "Sedikit"
+    },
+    {
+        "kanji": "屋",
+        "arti": "Atap, toko, rumah"
+    },
+    {
+        "kanji": "工",
+        "arti": "Kerajinan, konstruksi, teknik"
+    },
+    {
+        "kanji": "帰",
+        "arti": "Pulang, kembali"
+    },
+    {
+        "kanji": "広",
+        "arti": "Luas, lebar"
+    },
+    {
+        "kanji": "店",
+        "arti": "Toko, kedai"
+    },
+    {
+        "kanji": "度",
+        "arti": "Derajat, kali, frekuensi"
+    },
+    {
+        "kanji": "建",
+        "arti": "Membangun, mendirikan"
+    },
+    {
+        "kanji": "弟",
+        "arti": "Adik laki-laki"
+    },
+    {
+        "kanji": "強",
+        "arti": "Kuat"
+    },
+    {
+        "kanji": "待",
+        "arti": "Menunggu"
+    },
+    {
+        "kanji": "心",
+        "arti": "Hati, pikiran, jiwa"
+    },
+    {
+        "kanji": "思",
+        "arti": "Berpikir, merasa"
+    },
+    {
+        "kanji": "急",
+        "arti": "Buru-buru, darurat, mendadak"
+    },
+    {
+        "kanji": "悪",
+        "arti": "Buruk, jahat, salah"
+    },
+    {
+        "kanji": "意",
+        "arti": "Ide, maksud, pikiran"
+    },
+    {
+        "kanji": "手",
+        "arti": "Tangan"
+    },
+    {
+        "kanji": "持",
+        "arti": "Memegang, membawa, memiliki"
+    },
+    {
+        "kanji": "教",
+        "arti": "Mengajar, ajaran"
+    },
+    {
+        "kanji": "文",
+        "arti": "Kalimat, tulisan, sastra"
+    },
+    {
+        "kanji": "料",
+        "arti": "Biaya, tarif, bahan"
+    },
+    {
+        "kanji": "新",
+        "arti": "Baru"
+    },
+    {
+        "kanji": "方",
+        "arti": "Arah, cara, orang"
+    },
+    {
+        "kanji": "旅",
+        "arti": "Perjalanan, wisata"
+    },
+    {
+        "kanji": "族",
+        "arti": "Keluarga, suku, klan"
+    },
+    {
+        "kanji": "早",
+        "arti": "Cepat, awal, pagi-pagi"
+    },
+    {
+        "kanji": "明",
+        "arti": "Terang, jelas, cerah"
+    },
+    {
+        "kanji": "映",
+        "arti": "Memantulkan, menayangkan"
+    },
+    {
+        "kanji": "春",
+        "arti": "Musim semi"
+    },
+    {
+        "kanji": "昼",
+        "arti": "Siang hari"
+    },
+    {
+        "kanji": "曜",
+        "arti": "Hari dalam seminggu"
+    },
+    {
+        "kanji": "有",
+        "arti": "Ada, memiliki"
+    },
+    {
+        "kanji": "服",
+        "arti": "Pakaian, baju"
+    },
+    {
+        "kanji": "朝",
+        "arti": "Pagi"
+    },
+    {
+        "kanji": "業",
+        "arti": "Bisnis, pekerjaan, industri"
+    },
+    {
+        "kanji": "楽",
+        "arti": "Musik, menyenangkan, nyaman"
+    },
+    {
+        "kanji": "歌",
+        "arti": "Lagu, menyanyi"
+    },
+    {
+        "kanji": "止",
+        "arti": "Berhenti, menghentikan"
+    },
+    {
+        "kanji": "正",
+        "arti": "Benar, tepat, adil"
+    },
+    {
+        "kanji": "歩",
+        "arti": "Berjalan, langkah"
+    },
+    {
+        "kanji": "死",
+        "arti": "Mati, kematian"
+    },
+    {
+        "kanji": "注",
+        "arti": "Menuang, memperhatikan, catatan"
+    },
+    {
+        "kanji": "洋",
+        "arti": "Samudra, Barat, luar negeri"
+    },
+    {
+        "kanji": "海",
+        "arti": "Laut, samudra"
+    },
+    {
+        "kanji": "漢",
+        "arti": "Tiongkok, aksara Han"
+    },
+    {
+        "kanji": "牛",
+        "arti": "Sapi"
+    },
+    {
+        "kanji": "物",
+        "arti": "Benda, barang, hal"
+    },
+    {
+        "kanji": "特",
+        "arti": "Khusus, spesial"
+    },
+    {
+        "kanji": "犬",
+        "arti": "Anjing"
+    },
+    {
+        "kanji": "理",
+        "arti": "Logika, alasan, kebenaran"
+    },
+    {
+        "kanji": "用",
+        "arti": "Menggunakan, keperluan, urusan"
+    },
+    {
+        "kanji": "田",
+        "arti": "Sawah"
+    },
+    {
+        "kanji": "町",
+        "arti": "Kota kecil, kelurahan"
+    },
+    {
+        "kanji": "画",
+        "arti": "Gambar, lukisan, goresan"
+    },
+    {
+        "kanji": "界",
+        "arti": "Dunia, batas"
+    },
+    {
+        "kanji": "病",
+        "arti": "Sakit, penyakit"
+    },
+    {
+        "kanji": "発",
+        "arti": "Berangkat, memancarkan, menerbitkan"
+    },
+    {
+        "kanji": "目",
+        "arti": "Mata"
+    },
+    {
+        "kanji": "真",
+        "arti": "Benar, nyata, sungguh"
+    },
+    {
+        "kanji": "着",
+        "arti": "Tiba, memakai (pakaian)"
+    },
+    {
+        "kanji": "知",
+        "arti": "Tahu, mengetahui, kebijaksanaan"
+    },
+    {
+        "kanji": "研",
+        "arti": "Mengasah, meneliti"
+    },
+    {
+        "kanji": "社",
+        "arti": "Perusahaan, kuil Shinto"
+    },
+    {
+        "kanji": "私",
+        "arti": "Saya, pribadi"
+    },
+    {
+        "kanji": "秋",
+        "arti": "Musim gugur"
+    },
+    {
+        "kanji": "究",
+        "arti": "Meneliti, mendalami"
+    },
+    {
+        "kanji": "空",
+        "arti": "Langit, kosong"
+    },
+    {
+        "kanji": "立",
+        "arti": "Berdiri, mendirikan"
+    },
+    {
+        "kanji": "答",
+        "arti": "Jawaban, menjawab"
+    },
+    {
+        "kanji": "紙",
+        "arti": "Kertas"
+    },
+    {
+        "kanji": "終",
+        "arti": "Selesai, berakhir"
+    },
+    {
+        "kanji": "習",
+        "arti": "Belajar, berlatih"
+    },
+    {
+        "kanji": "考",
+        "arti": "Mempertimbangkan, berpikir"
+    },
+    {
+        "kanji": "者",
+        "arti": "Orang, seseorang"
+    },
+    {
+        "kanji": "肉",
+        "arti": "Daging"
+    },
+    {
+        "kanji": "自",
+        "arti": "Diri sendiri"
+    },
+    {
+        "kanji": "色",
+        "arti": "Warna"
+    },
+    {
+        "kanji": "花",
+        "arti": "Bunga"
+    },
+    {
+        "kanji": "英",
+        "arti": "Inggris, pahlawan, unggul"
+    },
+    {
+        "kanji": "茶",
+        "arti": "Teh"
+    },
+    {
+        "kanji": "親",
+        "arti": "Orang tua, akrab, kerabat"
+    },
+    {
+        "kanji": "言",
+        "arti": "Berkata, kata"
+    },
+    {
+        "kanji": "計",
+        "arti": "Mengukur, rencana, menghitung"
+    },
+    {
+        "kanji": "試",
+        "arti": "Mencoba, menguji, ujian"
+    },
+    {
+        "kanji": "買",
+        "arti": "Membeli"
+    },
+    {
+        "kanji": "貸",
+        "arti": "Meminjamkan, menyewakan"
+    },
+    {
+        "kanji": "質",
+        "arti": "Kualitas, materi, sifat"
+    },
+    {
+        "kanji": "赤",
+        "arti": "Merah"
+    },
+    {
+        "kanji": "走",
+        "arti": "Berlari"
+    },
+    {
+        "kanji": "起",
+        "arti": "Bangun, terjadi, bangkit"
+    },
+    {
+        "kanji": "足",
+        "arti": "Kaki, cukup"
+    },
+    {
+        "kanji": "転",
+        "arti": "Berputar, berguling, berubah"
+    },
+    {
+        "kanji": "近",
+        "arti": "Dekat"
+    },
+    {
+        "kanji": "送",
+        "arti": "Mengirim, mengantar"
+    },
+    {
+        "kanji": "通",
+        "arti": "Melewati, lalu lintas, pulang-pergi"
+    },
+    {
+        "kanji": "週",
+        "arti": "Minggu (pekan)"
+    },
+    {
+        "kanji": "運",
+        "arti": "Mengangkut, keberuntungan, nasib"
+    },
+    {
+        "kanji": "道",
+        "arti": "Jalan, jalur, ajaran"
+    },
+    {
+        "kanji": "重",
+        "arti": "Berat, penting, menumpuk"
+    },
+    {
+        "kanji": "野",
+        "arti": "Lapangan, padang, dataran"
+    },
+    {
+        "kanji": "銀",
+        "arti": "Perak"
+    },
+    {
+        "kanji": "開",
+        "arti": "Membuka, terbuka"
+    },
+    {
+        "kanji": "院",
+        "arti": "Institusi, lembaga, gedung"
+    },
+    {
+        "kanji": "集",
+        "arti": "Berkumpul, mengumpulkan"
+    },
+    {
+        "kanji": "青",
+        "arti": "Biru, hijau"
+    },
+    {
+        "kanji": "音",
+        "arti": "Suara, bunyi"
+    },
+    {
+        "kanji": "題",
+        "arti": "Topik, judul, soal"
+    },
+    {
+        "kanji": "風",
+        "arti": "Angin, gaya"
+    },
+    {
+        "kanji": "飯",
+        "arti": "Nasi, makanan"
+    },
+    {
+        "kanji": "飲",
+        "arti": "Minum"
+    },
+    {
+        "kanji": "館",
+        "arti": "Gedung, bangunan besar"
+    },
+    {
+        "kanji": "駅",
+        "arti": "Stasiun"
+    },
+    {
+        "kanji": "験",
+        "arti": "Ujian, pengujian, bukti"
+    },
+    {
+        "kanji": "魚",
+        "arti": "Ikan"
+    },
+    {
+        "kanji": "鳥",
+        "arti": "Burung"
+    },
+    {
+        "kanji": "黒",
+        "arti": "Hitam"
+    },
+    {
+        "kanji": "与",
+        "arti": "Memberikan, menganugerahkan, berpartisipasi"
+    },
+    {
+        "kanji": "両",
+        "arti": "Keduanya, kedua belah pihak"
+    },
+    {
+        "kanji": "乗",
+        "arti": "Naik, mengendarai"
+    },
+    {
+        "kanji": "予",
+        "arti": "Sebelumnya, terlebih dahulu"
+    },
+    {
+        "kanji": "争",
+        "arti": "Bersaing, bertengkar, berdebat"
+    },
+    {
+        "kanji": "互",
+        "arti": "Saling, satu sama lain"
+    },
+    {
+        "kanji": "亡",
+        "arti": "Meninggal, almarhum, binasa"
+    },
+    {
+        "kanji": "交",
+        "arti": "Bergaul, bercampur, bertukar"
+    },
+    {
+        "kanji": "他",
+        "arti": "Lain, yang lain"
+    },
+    {
+        "kanji": "付",
+        "arti": "Menempel, melampirkan, memasang"
+    },
+    {
+        "kanji": "件",
+        "arti": "Kasus, perkara, hal"
+    },
+    {
+        "kanji": "任",
+        "arti": "Tanggung jawab, tugas, mempercayakan"
+    },
+    {
+        "kanji": "伝",
+        "arti": "Menyampaikan, mewariskan, legenda"
+    },
+    {
+        "kanji": "似",
+        "arti": "Mirip, menyerupai"
+    },
+    {
+        "kanji": "位",
+        "arti": "Peringkat, posisi, sekitar"
+    },
+    {
+        "kanji": "余",
+        "arti": "Sisa, kelebihan, terlalu"
+    },
+    {
+        "kanji": "例",
+        "arti": "Contoh, kebiasaan"
+    },
+    {
+        "kanji": "供",
+        "arti": "Menyajikan, mempersembahkan, menemani"
+    },
+    {
+        "kanji": "便",
+        "arti": "Kemudahan, praktis, surat"
+    },
+    {
+        "kanji": "係",
+        "arti": "Petugas, penanggung jawab, hubungan"
+    },
+    {
+        "kanji": "信",
+        "arti": "Percaya, keyakinan, kebenaran"
+    },
+    {
+        "kanji": "倒",
+        "arti": "Jatuh, roboh, menjatuhkan"
+    },
+    {
+        "kanji": "候",
+        "arti": "Iklim, cuaca, musim"
+    },
+    {
+        "kanji": "値",
+        "arti": "Harga, nilai"
+    },
+    {
+        "kanji": "偉",
+        "arti": "Hebat, agung, luar biasa"
+    },
+    {
+        "kanji": "側",
+        "arti": "Sisi, samping, sebelah"
+    },
+    {
+        "kanji": "偶",
+        "arti": "Kebetulan, bilangan genap, pasangan"
+    },
+    {
+        "kanji": "備",
+        "arti": "Mempersiapkan, melengkapi"
+    },
+    {
+        "kanji": "働",
+        "arti": "Bekerja"
+    },
+    {
+        "kanji": "優",
+        "arti": "Lembut, unggul, baik hati"
+    },
+    {
+        "kanji": "光",
+        "arti": "Cahaya, sinar"
+    },
+    {
+        "kanji": "全",
+        "arti": "Seluruh, semua, lengkap"
+    },
+    {
+        "kanji": "共",
+        "arti": "Bersama, kedua"
+    },
+    {
+        "kanji": "具",
+        "arti": "Alat, perkakas, bahan"
+    },
+    {
+        "kanji": "内",
+        "arti": "Dalam, bagian dalam"
+    },
+    {
+        "kanji": "冷",
+        "arti": "Dingin (benda/sikap), mendinginkan"
+    },
+    {
+        "kanji": "処",
+        "arti": "Menangani, mengelola, tempat"
+    },
+    {
+        "kanji": "列",
+        "arti": "Baris, deret, antrean"
+    },
+    {
+        "kanji": "初",
+        "arti": "Pertama kali, awal"
+    },
+    {
+        "kanji": "判",
+        "arti": "Keputusan, penilaian, stempel"
+    },
+    {
+        "kanji": "利",
+        "arti": "Keuntungan, manfaat"
+    },
+    {
+        "kanji": "到",
+        "arti": "Tiba, sampai, mencapai"
+    },
+    {
+        "kanji": "制",
+        "arti": "Sistem, aturan, hukum"
+    },
+    {
+        "kanji": "刻",
+        "arti": "Mengukir, memotong halus, waktu"
+    },
+    {
+        "kanji": "割",
+        "arti": "Membagi, memisahkan, proporsi"
+    },
+    {
+        "kanji": "加",
+        "arti": "Menambah, bergabung"
+    },
+    {
+        "kanji": "助",
+        "arti": "Menolong, membantu"
+    },
+    {
+        "kanji": "努",
+        "arti": "Berusaha keras, rajin"
+    },
+    {
+        "kanji": "労",
+        "arti": "Tenaga kerja, jerih payah"
+    },
+    {
+        "kanji": "務",
+        "arti": "Tugas, kewajiban"
+    },
+    {
+        "kanji": "勝",
+        "arti": "Menang, kemenangan, unggul"
+    },
+    {
+        "kanji": "勤",
+        "arti": "Bekerja (di kantor), rajin"
+    },
+    {
+        "kanji": "化",
+        "arti": "Berubah, perubahan, -isasi"
+    },
+    {
+        "kanji": "単",
+        "arti": "Sederhana, tunggal, satu"
+    },
+    {
+        "kanji": "危",
+        "arti": "Bahaya, berbahaya"
+    },
+    {
+        "kanji": "原",
+        "arti": "Padang rumput, asal, asli"
+    },
+    {
+        "kanji": "参",
+        "arti": "Berkunjung, berpartisipasi"
+    },
+    {
+        "kanji": "反",
+        "arti": "Anti, berlawanan, melengkung"
+    },
+    {
+        "kanji": "収",
+        "arti": "Pendapatan, memperoleh, menyimpan"
+    },
+    {
+        "kanji": "取",
+        "arti": "Mengambil"
+    },
+    {
+        "kanji": "受",
+        "arti": "Menerima, mengikuti (ujian)"
+    },
+    {
+        "kanji": "号",
+        "arti": "Nomor, edisi, sebutan"
+    },
+    {
+        "kanji": "合",
+        "arti": "Cocok, sesuai, bergabung"
+    },
+    {
+        "kanji": "向",
+        "arti": "Menghadap, menuju, seberang"
+    },
+    {
+        "kanji": "君",
+        "arti": "Kamu (akrab), tuan"
+    },
+    {
+        "kanji": "否",
+        "arti": "Menolak, menyangkal, tidak"
+    },
+    {
+        "kanji": "吸",
+        "arti": "Menghisap, menghirup"
+    },
+    {
+        "kanji": "吹",
+        "arti": "Meniup, berhembus"
+    },
+    {
+        "kanji": "告",
+        "arti": "Memberitahu, mengumumkan"
+    },
+    {
+        "kanji": "呼",
+        "arti": "Memanggil, mengundang"
+    },
+    {
+        "kanji": "命",
+        "arti": "Nyawa, kehidupan, takdir, perintah"
+    },
+    {
+        "kanji": "和",
+        "arti": "Harmoni, damai, ala Jepang"
+    },
+    {
+        "kanji": "商",
+        "arti": "Berdagang, bisnis, pedagang"
+    },
+    {
+        "kanji": "喜",
+        "arti": "Senang, bergembira"
+    },
+    {
+        "kanji": "回",
+        "arti": "Kali (frekuensi), berputar"
+    },
+    {
+        "kanji": "因",
+        "arti": "Penyebab, faktor"
+    },
+    {
+        "kanji": "困",
+        "arti": "Kesulitan, kesusahan, bingung"
+    },
+    {
+        "kanji": "園",
+        "arti": "Taman, kebun"
+    },
+    {
+        "kanji": "在",
+        "arti": "Ada, berada, terletak"
+    },
+    {
+        "kanji": "報",
+        "arti": "Laporan, berita, membalas"
+    },
+    {
+        "kanji": "増",
+        "arti": "Bertambah, meningkatkan"
+    },
+    {
+        "kanji": "声",
+        "arti": "Suara"
+    },
+    {
+        "kanji": "変",
+        "arti": "Aneh, berubah, mengubah"
+    },
+    {
+        "kanji": "夢",
+        "arti": "Mimpi"
+    },
+    {
+        "kanji": "太",
+        "arti": "Gemuk, tebal, besar"
+    },
+    {
+        "kanji": "夫",
+        "arti": "Suami"
+    },
+    {
+        "kanji": "失",
+        "arti": "Kehilangan, kesalahan"
+    },
+    {
+        "kanji": "好",
+        "arti": "Suka, menyukai, baik"
+    },
+    {
+        "kanji": "妻",
+        "arti": "Istri"
+    },
+    {
+        "kanji": "娘",
+        "arti": "Anak perempuan, gadis"
+    },
+    {
+        "kanji": "婚",
+        "arti": "Pernikahan"
+    },
+    {
+        "kanji": "婦",
+        "arti": "Wanita, nyonya, istri"
+    },
+    {
+        "kanji": "存",
+        "arti": "Ada, mengetahui (hormat)"
+    },
+    {
+        "kanji": "宅",
+        "arti": "Rumah, kediaman"
+    },
+    {
+        "kanji": "守",
+        "arti": "Melindungi, menjaga, mematuhi"
+    },
+    {
+        "kanji": "完",
+        "arti": "Sempurna, selesai"
+    },
+    {
+        "kanji": "官",
+        "arti": "Pejabat, pemerintah"
+    },
+    {
+        "kanji": "定",
+        "arti": "Menetapkan, memutuskan, pasti"
+    },
+    {
+        "kanji": "実",
+        "arti": "Kenyataan, kebenaran, buah"
+    },
+    {
+        "kanji": "客",
+        "arti": "Tamu, pelanggan"
+    },
+    {
+        "kanji": "害",
+        "arti": "Bahaya, kerugian, cedera"
+    },
+    {
+        "kanji": "容",
+        "arti": "Wadah, bentuk, penampilan"
+    },
+    {
+        "kanji": "宿",
+        "arti": "Penginapan, menginap"
+    },
+    {
+        "kanji": "寄",
+        "arti": "Mendekat, mampir, mengumpulkan"
+    },
+    {
+        "kanji": "富",
+        "arti": "Kekayaan, kaya, melimpah"
+    },
+    {
+        "kanji": "寒",
+        "arti": "Dingin (cuaca)"
+    },
+    {
+        "kanji": "寝",
+        "arti": "Tidur, berbaring"
+    },
+    {
+        "kanji": "察",
+        "arti": "Menduga, memeriksa, memahami"
+    },
+    {
+        "kanji": "対",
+        "arti": "Lawan, terhadap, berhadapan"
+    },
+    {
+        "kanji": "局",
+        "arti": "Biro, kantor, bagian"
+    },
+    {
+        "kanji": "居",
+        "arti": "Ada (makhluk hidup), tinggal"
+    },
+    {
+        "kanji": "差",
+        "arti": "Perbedaan, selisih"
+    },
+    {
+        "kanji": "市",
+        "arti": "Kota, pasar"
+    },
+    {
+        "kanji": "師",
+        "arti": "Guru, ahli, master"
+    },
+    {
+        "kanji": "席",
+        "arti": "Tempat duduk, kursi"
+    },
+    {
+        "kanji": "常",
+        "arti": "Biasa, selalu, normal"
+    },
+    {
+        "kanji": "平",
+        "arti": "Datar, rata, damai"
+    },
+    {
+        "kanji": "幸",
+        "arti": "Kebahagiaan, keberuntungan"
+    },
+    {
+        "kanji": "幾",
+        "arti": "Berapa banyak, beberapa"
+    },
+    {
+        "kanji": "座",
+        "arti": "Duduk, tempat duduk"
+    },
+    {
+        "kanji": "庭",
+        "arti": "Halaman, taman"
+    },
+    {
+        "kanji": "式",
+        "arti": "Upacara, gaya, rumus"
+    },
+    {
+        "kanji": "引",
+        "arti": "Menarik"
+    },
+    {
+        "kanji": "当",
+        "arti": "Tepat, mengenai, ini"
+    },
+    {
+        "kanji": "形",
+        "arti": "Bentuk, wujud"
+    },
+    {
+        "kanji": "役",
+        "arti": "Peran, tugas, dinas"
+    },
+    {
+        "kanji": "彼",
+        "arti": "Dia (laki-laki), itu"
+    },
+    {
+        "kanji": "徒",
+        "arti": "Murid, pengikut, berjalan kaki"
+    },
+    {
+        "kanji": "得",
+        "arti": "Memperoleh, mendapatkan, keuntungan"
+    },
+    {
+        "kanji": "御",
+        "arti": "Terhormat (awalan hormat), mengendalikan"
+    },
+    {
+        "kanji": "必",
+        "arti": "Pasti, harus, selalu"
+    },
+    {
+        "kanji": "忘",
+        "arti": "Lupa, melupakan"
+    },
+    {
+        "kanji": "忙",
+        "arti": "Sibuk"
+    },
+    {
+        "kanji": "念",
+        "arti": "Pikiran, perasaan, keinginan"
+    },
+    {
+        "kanji": "怒",
+        "arti": "Marah"
+    },
+    {
+        "kanji": "怖",
+        "arti": "Takut, menakutkan"
+    },
+    {
+        "kanji": "性",
+        "arti": "Jenis kelamin, sifat, karakter"
+    },
+    {
+        "kanji": "恐",
+        "arti": "Takut, khawatir"
+    },
+    {
+        "kanji": "恥",
+        "arti": "Malu, aib"
+    },
+    {
+        "kanji": "息",
+        "arti": "Napas, anak laki-laki"
+    },
+    {
+        "kanji": "悲",
+        "arti": "Sedih"
+    },
+    {
+        "kanji": "情",
+        "arti": "Perasaan, emosi, keadaan"
+    },
+    {
+        "kanji": "想",
+        "arti": "Pikiran, ide, membayangkan"
+    },
+    {
+        "kanji": "愛",
+        "arti": "Cinta, kasih sayang"
+    },
+    {
+        "kanji": "感",
+        "arti": "Perasaan, sensasi, kesan"
+    },
+    {
+        "kanji": "慣",
+        "arti": "Terbiasa, membiasakan"
+    },
+    {
+        "kanji": "成",
+        "arti": "Menjadi, berhasil"
+    },
+    {
+        "kanji": "戦",
+        "arti": "Perang, pertandingan"
+    },
+    {
+        "kanji": "戻",
+        "arti": "Kembali, mengembalikan"
+    },
+    {
+        "kanji": "所",
+        "arti": "Tempat"
+    },
+    {
+        "kanji": "才",
+        "arti": "Bakat, usia (tahun)"
+    },
+    {
+        "kanji": "打",
+        "arti": "Memukul"
+    },
+    {
+        "kanji": "払",
+        "arti": "Membayar"
+    },
+    {
+        "kanji": "投",
+        "arti": "Melempar"
+    },
+    {
+        "kanji": "折",
+        "arti": "Melipat, mematahkan"
+    },
+    {
+        "kanji": "抜",
+        "arti": "Mencabut, mengeluarkan, melewati"
+    },
+    {
+        "kanji": "抱",
+        "arti": "Memeluk, menggendong"
+    },
+    {
+        "kanji": "押",
+        "arti": "Mendorong, menekan"
+    },
+    {
+        "kanji": "招",
+        "arti": "Mengundang, memanggil"
+    },
+    {
+        "kanji": "指",
+        "arti": "Jari, menunjuk"
+    },
+    {
+        "kanji": "捕",
+        "arti": "Menangkap"
+    },
+    {
+        "kanji": "掛",
+        "arti": "Menggantung, memakan waktu/biaya"
+    },
+    {
+        "kanji": "探",
+        "arti": "Mencari"
+    },
+    {
+        "kanji": "支",
+        "arti": "Cabang, mendukung, menopang"
+    },
+    {
+        "kanji": "放",
+        "arti": "Melepaskan, memancarkan"
+    },
+    {
+        "kanji": "政",
+        "arti": "Politik, pemerintahan"
+    },
+    {
+        "kanji": "敗",
+        "arti": "Kalah, gagal"
+    },
+    {
+        "kanji": "散",
+        "arti": "Tersebar, berhamburan"
+    },
+    {
+        "kanji": "数",
+        "arti": "Angka, jumlah, menghitung"
+    },
+    {
+        "kanji": "断",
+        "arti": "Menolak, memutuskan, memotong"
+    },
+    {
+        "kanji": "易",
+        "arti": "Mudah, ramalan"
+    },
+    {
+        "kanji": "昔",
+        "arti": "Dahulu kala, masa lalu"
+    },
+    {
+        "kanji": "昨",
+        "arti": "Kemarin, sebelumnya"
+    },
+    {
+        "kanji": "晩",
+        "arti": "Malam"
+    },
+    {
+        "kanji": "景",
+        "arti": "Pemandangan, situasi"
+    },
+    {
+        "kanji": "晴",
+        "arti": "Cerah"
+    },
+    {
+        "kanji": "暗",
+        "arti": "Gelap"
+    },
+    {
+        "kanji": "暮",
+        "arti": "Senja, menjalani hidup"
+    },
+    {
+        "kanji": "曲",
+        "arti": "Lagu, melengkung, berbelok"
+    },
+    {
+        "kanji": "更",
+        "arti": "Lebih jauh, memperbarui, larut malam"
+    },
+    {
+        "kanji": "最",
+        "arti": "Paling, terutama"
+    },
+    {
+        "kanji": "望",
+        "arti": "Harapan, berharap, memandang"
+    },
+    {
+        "kanji": "期",
+        "arti": "Periode, masa, jangka waktu"
+    },
+    {
+        "kanji": "未",
+        "arti": "Belum"
+    },
+    {
+        "kanji": "末",
+        "arti": "Akhir, ujung"
+    },
+    {
+        "kanji": "束",
+        "arti": "Ikat, bundel, janji"
+    },
+    {
+        "kanji": "杯",
+        "arti": "Cangkir, gelas, satuan gelas"
+    },
+    {
+        "kanji": "果",
+        "arti": "Buah, hasil, mencapai"
+    },
+    {
+        "kanji": "格",
+        "arti": "Status, peringkat, karakter"
+    },
+    {
+        "kanji": "構",
+        "arti": "Membangun, struktur, peduli"
+    },
+    {
+        "kanji": "様",
+        "arti": "Cara, keadaan, Tuan/Nyonya (sapaan hormat)"
+    },
+    {
+        "kanji": "権",
+        "arti": "Hak, wewenang, kekuasaan"
+    },
+    {
+        "kanji": "横",
+        "arti": "Samping, mendatar, horizontal"
+    },
+    {
+        "kanji": "機",
+        "arti": "Mesin, kesempatan"
+    },
+    {
+        "kanji": "欠",
+        "arti": "Kekurangan, absen"
+    },
+    {
+        "kanji": "次",
+        "arti": "Berikutnya, selanjutnya"
+    },
+    {
+        "kanji": "欲",
+        "arti": "Ingin, keinginan, hasrat"
+    },
+    {
+        "kanji": "歯",
+        "arti": "Gigi"
+    },
+    {
+        "kanji": "歳",
+        "arti": "Usia, umur, akhir tahun"
+    },
+    {
+        "kanji": "残",
+        "arti": "Sisa, tersisa, meninggalkan"
+    },
+    {
+        "kanji": "段",
+        "arti": "Tingkat, tahap, anak tangga"
+    },
+    {
+        "kanji": "殺",
+        "arti": "Membunuh"
+    },
+    {
+        "kanji": "民",
+        "arti": "Rakyat, penduduk"
+    },
+    {
+        "kanji": "求",
+        "arti": "Meminta, menuntut, mencari"
+    },
+    {
+        "kanji": "決",
+        "arti": "Memutuskan"
+    },
+    {
+        "kanji": "治",
+        "arti": "Memerintah, menyembuhkan"
+    },
+    {
+        "kanji": "法",
+        "arti": "Hukum, metode, cara"
+    },
+    {
+        "kanji": "泳",
+        "arti": "Berenang"
+    },
+    {
+        "kanji": "洗",
+        "arti": "Mencuci"
+    },
+    {
+        "kanji": "活",
+        "arti": "Hidup, aktif, aktivitas"
+    },
+    {
+        "kanji": "流",
+        "arti": "Mengalir, aliran"
+    },
+    {
+        "kanji": "浮",
+        "arti": "Mengapung, melayang"
+    },
+    {
+        "kanji": "消",
+        "arti": "Memadamkan, menghapus, menghilang"
+    },
+    {
+        "kanji": "深",
+        "arti": "Dalam"
+    },
+    {
+        "kanji": "済",
+        "arti": "Selesai, melunasi"
+    },
+    {
+        "kanji": "渡",
+        "arti": "Menyeberang, menyerahkan"
+    },
+    {
+        "kanji": "港",
+        "arti": "Pelabuhan"
+    },
+    {
+        "kanji": "満",
+        "arti": "Penuh, memuaskan"
+    },
+    {
+        "kanji": "演",
+        "arti": "Pertunjukan, berakting, memainkan"
+    },
+    {
+        "kanji": "点",
+        "arti": "Titik, poin, nilai"
+    },
+    {
+        "kanji": "然",
+        "arti": "Alami, begitu"
+    },
+    {
+        "kanji": "煙",
+        "arti": "Asap"
+    },
+    {
+        "kanji": "熱",
+        "arti": "Panas, demam"
+    },
+    {
+        "kanji": "犯",
+        "arti": "Kejahatan, melanggar"
+    },
+    {
+        "kanji": "状",
+        "arti": "Keadaan, kondisi, bentuk"
+    },
+    {
+        "kanji": "猫",
+        "arti": "Kucing"
+    },
+    {
+        "kanji": "王",
+        "arti": "Raja"
+    },
+    {
+        "kanji": "現",
+        "arti": "Sekarang, muncul, nyata"
+    },
+    {
+        "kanji": "球",
+        "arti": "Bola, bulat"
+    },
+    {
+        "kanji": "産",
+        "arti": "Menghasilkan, melahirkan, produk"
+    },
+    {
+        "kanji": "由",
+        "arti": "Alasan, sebab"
+    },
+    {
+        "kanji": "申",
+        "arti": "Mengatakan (merendah), melapor"
+    },
+    {
+        "kanji": "留",
+        "arti": "Tinggal, menahan, menghentikan"
+    },
+    {
+        "kanji": "番",
+        "arti": "Nomor, giliran"
+    },
+    {
+        "kanji": "疑",
+        "arti": "Ragu, curiga, mempertanyakan"
+    },
+    {
+        "kanji": "疲",
+        "arti": "Lelah, capek"
+    },
+    {
+        "kanji": "痛",
+        "arti": "Sakit, nyeri"
+    },
+    {
+        "kanji": "登",
+        "arti": "Mendaki, memanjat"
+    },
+    {
+        "kanji": "皆",
+        "arti": "Semua, semuanya"
+    },
+    {
+        "kanji": "盗",
+        "arti": "Mencuri"
+    },
+    {
+        "kanji": "直",
+        "arti": "Lurus, langsung, memperbaiki"
+    },
+    {
+        "kanji": "相",
+        "arti": "Saling, pasangan, menteri"
+    },
+    {
+        "kanji": "眠",
+        "arti": "Tidur, mengantuk"
+    },
+    {
+        "kanji": "石",
+        "arti": "Batu"
+    },
+    {
+        "kanji": "破",
+        "arti": "Merobek, menghancurkan, pecah"
+    },
+    {
+        "kanji": "確",
+        "arti": "Pasti, memastikan, jelas"
+    },
+    {
+        "kanji": "示",
+        "arti": "Menunjukkan"
+    },
+    {
+        "kanji": "礼",
+        "arti": "Sopan santun, membungkuk, terima kasih"
+    },
+    {
+        "kanji": "祖",
+        "arti": "Leluhur, nenek moyang"
+    },
+    {
+        "kanji": "神",
+        "arti": "Dewa, Tuhan, roh"
+    },
+    {
+        "kanji": "福",
+        "arti": "Keberuntungan, berkah"
+    },
+    {
+        "kanji": "科",
+        "arti": "Jurusan, mata pelajaran, bagian"
+    },
+    {
+        "kanji": "程",
+        "arti": "Tingkat, batas, sejauh"
+    },
+    {
+        "kanji": "種",
+        "arti": "Jenis, macam, benih"
+    },
+    {
+        "kanji": "積",
+        "arti": "Menumpuk, memuat, volume"
+    },
+    {
+        "kanji": "突",
+        "arti": "Menusuk, tiba-tiba, menonjol"
+    },
+    {
+        "kanji": "窓",
+        "arti": "Jendela"
+    },
+    {
+        "kanji": "笑",
+        "arti": "Tertawa, tersenyum"
+    },
+    {
+        "kanji": "等",
+        "arti": "Dan lain-lain, setara, kelas"
+    },
+    {
+        "kanji": "箱",
+        "arti": "Kotak, peti"
+    },
+    {
+        "kanji": "米",
+        "arti": "Beras, Amerika"
+    },
+    {
+        "kanji": "精",
+        "arti": "Murni, teliti, semangat"
+    },
+    {
+        "kanji": "約",
+        "arti": "Janji, kira-kira"
+    },
+    {
+        "kanji": "組",
+        "arti": "Kelompok, merakit, menyusun"
+    },
+    {
+        "kanji": "経",
+        "arti": "Melewati, mengelola, sutra"
+    },
+    {
+        "kanji": "給",
+        "arti": "Gaji, memberikan"
+    },
+    {
+        "kanji": "絵",
+        "arti": "Gambar, lukisan"
+    },
+    {
+        "kanji": "絶",
+        "arti": "Putus, berhenti, tiada banding"
+    },
+    {
+        "kanji": "続",
+        "arti": "Berlanjut, melanjutkan"
+    },
+    {
+        "kanji": "緒",
+        "arti": "Bersama, awal, tali"
+    },
+    {
+        "kanji": "罪",
+        "arti": "Dosa, kejahatan, kesalahan"
+    },
+    {
+        "kanji": "置",
+        "arti": "Meletakkan, menaruh"
+    },
+    {
+        "kanji": "美",
+        "arti": "Indah, cantik"
+    },
+    {
+        "kanji": "老",
+        "arti": "Tua, menua"
+    },
+    {
+        "kanji": "耳",
+        "arti": "Telinga"
+    },
+    {
+        "kanji": "職",
+        "arti": "Pekerjaan, jabatan"
+    },
+    {
+        "kanji": "育",
+        "arti": "Membesarkan, mendidik"
+    },
+    {
+        "kanji": "背",
+        "arti": "Punggung, tinggi badan"
+    },
+    {
+        "kanji": "能",
+        "arti": "Kemampuan, bakat"
+    },
+    {
+        "kanji": "腹",
+        "arti": "Perut"
+    },
+    {
+        "kanji": "舞",
+        "arti": "Menari, tarian"
+    },
+    {
+        "kanji": "船",
+        "arti": "Kapal, perahu"
+    },
+    {
+        "kanji": "良",
+        "arti": "Baik, bagus"
+    },
+    {
+        "kanji": "若",
+        "arti": "Muda"
+    },
+    {
+        "kanji": "苦",
+        "arti": "Menderita, pahit, sulit"
+    },
+    {
+        "kanji": "草",
+        "arti": "Rumput"
+    },
+    {
+        "kanji": "落",
+        "arti": "Jatuh, menjatuhkan"
+    },
+    {
+        "kanji": "葉",
+        "arti": "Daun"
+    },
+    {
+        "kanji": "薬",
+        "arti": "Obat"
+    },
+    {
+        "kanji": "術",
+        "arti": "Seni, teknik, metode"
+    },
+    {
+        "kanji": "表",
+        "arti": "Permukaan, tabel, mengungkapkan"
+    },
+    {
+        "kanji": "要",
+        "arti": "Perlu, penting, poin utama"
+    },
+    {
+        "kanji": "規",
+        "arti": "Standar, aturan"
+    },
+    {
+        "kanji": "覚",
+        "arti": "Mengingat, menghafal, bangun"
+    },
+    {
+        "kanji": "観",
+        "arti": "Melihat, pandangan, pemandangan"
+    },
+    {
+        "kanji": "解",
+        "arti": "Memecahkan, menjelaskan, mengurai"
+    },
+    {
+        "kanji": "記",
+        "arti": "Mencatat, catatan"
+    },
+    {
+        "kanji": "訪",
+        "arti": "Mengunjungi"
+    },
+    {
+        "kanji": "許",
+        "arti": "Mengizinkan, memaafkan"
+    },
+    {
+        "kanji": "認",
+        "arti": "Mengakui, mengenali"
+    },
+    {
+        "kanji": "誤",
+        "arti": "Salah, keliru"
+    },
+    {
+        "kanji": "説",
+        "arti": "Penjelasan, teori, pendapat"
+    },
+    {
+        "kanji": "調",
+        "arti": "Memeriksa, nada, menyiapkan"
+    },
+    {
+        "kanji": "談",
+        "arti": "Berbicara, berdiskusi"
+    },
+    {
+        "kanji": "論",
+        "arti": "Argumen, teori, diskusi"
+    },
+    {
+        "kanji": "識",
+        "arti": "Pengetahuan, mengetahui"
+    },
+    {
+        "kanji": "警",
+        "arti": "Memperingatkan, polisi"
+    },
+    {
+        "kanji": "議",
+        "arti": "Musyawarah, perdebatan, rapat"
+    },
+    {
+        "kanji": "負",
+        "arti": "Kalah, negatif, menanggung"
+    },
+    {
+        "kanji": "財",
+        "arti": "Harta, kekayaan, keuangan"
+    },
+    {
+        "kanji": "貧",
+        "arti": "Miskin, kemiskinan"
+    },
+    {
+        "kanji": "責",
+        "arti": "Menyalahkan, tanggung jawab"
+    },
+    {
+        "kanji": "費",
+        "arti": "Biaya, pengeluaran"
+    },
+    {
+        "kanji": "資",
+        "arti": "Aset, modal, sumber daya"
+    },
+    {
+        "kanji": "賛",
+        "arti": "Setuju, memuji"
+    },
+    {
+        "kanji": "越",
+        "arti": "Melewati, melampaui"
+    },
+    {
+        "kanji": "路",
+        "arti": "Jalan, rute, jalur"
+    },
+    {
+        "kanji": "辞",
+        "arti": "Mengundurkan diri, kata"
+    },
+    {
+        "kanji": "込",
+        "arti": "Penuh sesak, termasuk"
+    },
+    {
+        "kanji": "迎",
+        "arti": "Menyambut, menjemput"
+    },
+    {
+        "kanji": "返",
+        "arti": "Mengembalikan, membalas"
+    },
+    {
+        "kanji": "迷",
+        "arti": "Tersesat, bingung, ragu"
+    },
+    {
+        "kanji": "追",
+        "arti": "Mengejar"
+    },
+    {
+        "kanji": "退",
+        "arti": "Mundur, mengundurkan diri"
+    },
+    {
+        "kanji": "逃",
+        "arti": "Melarikan diri, kabur"
+    },
+    {
+        "kanji": "途",
+        "arti": "Jalan, rute, tengah jalan"
+    },
+    {
+        "kanji": "速",
+        "arti": "Cepat"
+    },
+    {
+        "kanji": "連",
+        "arti": "Membawa serta, menghubungkan"
+    },
+    {
+        "kanji": "進",
+        "arti": "Maju, berkembang"
+    },
+    {
+        "kanji": "遅",
+        "arti": "Terlambat, lambat"
+    },
+    {
+        "kanji": "遊",
+        "arti": "Bermain"
+    },
+    {
+        "kanji": "過",
+        "arti": "Melewati, berlebihan"
+    },
+    {
+        "kanji": "達",
+        "arti": "Mencapai, tiba"
+    },
+    {
+        "kanji": "違",
+        "arti": "Berbeda, salah"
+    },
+    {
+        "kanji": "遠",
+        "arti": "Jauh"
+    },
+    {
+        "kanji": "適",
+        "arti": "Cocok, sesuai"
+    },
+    {
+        "kanji": "選",
+        "arti": "Memilih"
+    },
+    {
+        "kanji": "部",
+        "arti": "Bagian, departemen, klub"
+    },
+    {
+        "kanji": "都",
+        "arti": "Ibu kota, metropolis"
+    },
+    {
+        "kanji": "配",
+        "arti": "Membagikan, mendistribusikan"
+    },
+    {
+        "kanji": "酒",
+        "arti": "Sake, minuman keras"
+    },
+    {
+        "kanji": "閉",
+        "arti": "Menutup, tertutup"
+    },
+    {
+        "kanji": "関",
+        "arti": "Hubungan, berkaitan"
+    },
+    {
+        "kanji": "降",
+        "arti": "Turun (hujan/kendaraan)"
+    },
+    {
+        "kanji": "限",
+        "arti": "Batas, membatasi"
+    },
+    {
+        "kanji": "除",
+        "arti": "Menghapus, mengecualikan"
+    },
+    {
+        "kanji": "険",
+        "arti": "Curam, berbahaya"
+    },
+    {
+        "kanji": "陽",
+        "arti": "Sinar matahari, positif"
+    },
+    {
+        "kanji": "際",
+        "arti": "Kesempatan, saat, tepi"
+    },
+    {
+        "kanji": "雑",
+        "arti": "Bermacam-macam, kasar"
+    },
+    {
+        "kanji": "難",
+        "arti": "Sulit, susah"
+    },
+    {
+        "kanji": "雪",
+        "arti": "Salju"
+    },
+    {
+        "kanji": "静",
+        "arti": "Tenang, sepi"
+    },
+    {
+        "kanji": "非",
+        "arti": "Bukan, tidak, kesalahan"
+    },
+    {
+        "kanji": "面",
+        "arti": "Wajah, permukaan, topeng"
+    },
+    {
+        "kanji": "靴",
+        "arti": "Sepatu"
+    },
+    {
+        "kanji": "頂",
+        "arti": "Puncak, menerima (hormat)"
+    },
+    {
+        "kanji": "頭",
+        "arti": "Kepala"
+    },
+    {
+        "kanji": "頼",
+        "arti": "Meminta tolong, mengandalkan"
+    },
+    {
+        "kanji": "顔",
+        "arti": "Wajah, ekspresi"
+    },
+    {
+        "kanji": "願",
+        "arti": "Memohon, berharap"
+    },
+    {
+        "kanji": "類",
+        "arti": "Jenis, kategori"
+    },
+    {
+        "kanji": "飛",
+        "arti": "Terbang"
+    },
+    {
+        "kanji": "首",
+        "arti": "Leher"
+    },
+    {
+        "kanji": "馬",
+        "arti": "Kuda"
+    },
+    {
+        "kanji": "髪",
+        "arti": "Rambut"
+    },
+    {
+        "kanji": "鳴",
+        "arti": "Berkicau, berbunyi, menangis (hewan)"
+    },
+    {
+        "kanji": "並",
+        "arti": "Berbaris, sejajar, biasa"
+    },
+    {
+        "kanji": "丸",
+        "arti": "Bulat, lingkaran, penuh"
+    },
+    {
+        "kanji": "久",
+        "arti": "Lama, waktu yang lama"
+    },
+    {
+        "kanji": "乱",
+        "arti": "Kerusuhan, kacau, gangguan"
+    },
+    {
+        "kanji": "乳",
+        "arti": "Susu, payudara"
+    },
+    {
+        "kanji": "乾",
+        "arti": "Kering, kekeringan, mengeringkan"
+    },
+    {
+        "kanji": "了",
+        "arti": "Selesai, tamat, memahami"
+    },
+    {
+        "kanji": "介",
+        "arti": "Perantara, menengahi, kerang"
+    },
+    {
+        "kanji": "仏",
+        "arti": "Buddha, arwah, Prancis"
+    },
+    {
+        "kanji": "令",
+        "arti": "Perintah, aturan, dekrit"
+    },
+    {
+        "kanji": "仲",
+        "arti": "Hubungan, perantara, akrab"
+    },
+    {
+        "kanji": "伸",
+        "arti": "Memanjang, meregangkan, berkembang"
+    },
+    {
+        "kanji": "伺",
+        "arti": "Mengunjungi, bertanya (hormat)"
+    },
+    {
+        "kanji": "低",
+        "arti": "Rendah, pendek"
+    },
+    {
+        "kanji": "依",
+        "arti": "Bergantung pada, berdasarkan"
+    },
+    {
+        "kanji": "個",
+        "arti": "Individu, satuan barang"
+    },
+    {
+        "kanji": "倍",
+        "arti": "Ganda, dua kali lipat, kelipatan"
+    },
+    {
+        "kanji": "停",
+        "arti": "Berhenti, menghentikan"
+    },
+    {
+        "kanji": "傾",
+        "arti": "Miring, condong, kecenderungan"
+    },
+    {
+        "kanji": "像",
+        "arti": "Patung, gambar, citra"
+    },
+    {
+        "kanji": "億",
+        "arti": "Seratus juta"
+    },
+    {
+        "kanji": "兆",
+        "arti": "Triliun, pertanda, gejala"
+    },
+    {
+        "kanji": "児",
+        "arti": "Anak, bayi"
+    },
+    {
+        "kanji": "党",
+        "arti": "Partai, faksi, kelompok"
+    },
+    {
+        "kanji": "兵",
+        "arti": "Tentara, prajurit, pasukan"
+    },
+    {
+        "kanji": "冊",
+        "arti": "Jilid, satuan buku"
+    },
+    {
+        "kanji": "再",
+        "arti": "Lagi, kedua kalinya, mengulang"
+    },
+    {
+        "kanji": "凍",
+        "arti": "Beku, membeku, mendinginkan"
+    },
+    {
+        "kanji": "刊",
+        "arti": "Menerbitkan, edisi"
+    },
+    {
+        "kanji": "刷",
+        "arti": "Mencetak, percetakan"
+    },
+    {
+        "kanji": "券",
+        "arti": "Tiket, kupon, sertifikat"
+    },
+    {
+        "kanji": "刺",
+        "arti": "Duri, menusuk, kartu nama"
+    },
+    {
+        "kanji": "則",
+        "arti": "Aturan, hukum, mengikuti"
+    },
+    {
+        "kanji": "副",
+        "arti": "Wakil, asisten, salinan"
+    },
+    {
+        "kanji": "劇",
+        "arti": "Drama, pertunjukan teater"
+    },
+    {
+        "kanji": "効",
+        "arti": "Efek, manfaat, khasiat"
+    },
+    {
+        "kanji": "勇",
+        "arti": "Keberanian, berani"
+    },
+    {
+        "kanji": "募",
+        "arti": "Merekrut, menggalang, mengumpulkan"
+    },
+    {
+        "kanji": "勢",
+        "arti": "Kekuatan, energi, momentum"
+    },
+    {
+        "kanji": "包",
+        "arti": "Membungkus, mengemas"
+    },
+    {
+        "kanji": "匹",
+        "arti": "Satuan hewan kecil, setara"
+    },
+    {
+        "kanji": "区",
+        "arti": "Distrik, kawasan, bagian"
+    },
+    {
+        "kanji": "卒",
+        "arti": "Lulus, prajurit, selesai"
+    },
+    {
+        "kanji": "協",
+        "arti": "Kerja sama, kolaborasi"
+    },
+    {
+        "kanji": "占",
+        "arti": "Meramal, menempati, menguasai"
+    },
+    {
+        "kanji": "印",
+        "arti": "Stempel, cap, tanda, India"
+    },
+    {
+        "kanji": "卵",
+        "arti": "Telur"
+    },
+    {
+        "kanji": "厚",
+        "arti": "Tebal, ramah, tulus"
+    },
+    {
+        "kanji": "双",
+        "arti": "Pasangan, kembar, kedua"
+    },
+    {
+        "kanji": "叫",
+        "arti": "Berteriak, berseru"
+    },
+    {
+        "kanji": "召",
+        "arti": "Memanggil, mengenakan, menyantap (hormat)"
+    },
+    {
+        "kanji": "史",
+        "arti": "Sejarah, kronik"
+    },
+    {
+        "kanji": "各",
+        "arti": "Masing-masing, setiap"
+    },
+    {
+        "kanji": "含",
+        "arti": "Mengandung, mencakup, termasuk"
+    },
+    {
+        "kanji": "周",
+        "arti": "Keliling, putaran, sekitar"
+    },
+    {
+        "kanji": "咲",
+        "arti": "Mekar, berbunga"
+    },
+    {
+        "kanji": "喫",
+        "arti": "Mengonsumsi, makan, minum, merokok"
+    },
+    {
+        "kanji": "営",
+        "arti": "Mengelola bisnis, menjalankan, perkemahan"
+    },
+    {
+        "kanji": "団",
+        "arti": "Kelompok, asosiasi, rombongan"
+    },
+    {
+        "kanji": "囲",
+        "arti": "Mengelilingi, mengepung, pagar"
+    },
+    {
+        "kanji": "固",
+        "arti": "Keras, padat, mengeras"
+    },
+    {
+        "kanji": "圧",
+        "arti": "Tekanan, menekan, menindas"
+    },
+    {
+        "kanji": "坂",
+        "arti": "Lereng, tanjakan, bukit"
+    },
+    {
+        "kanji": "均",
+        "arti": "Rata, seimbang, meratakan"
+    },
+    {
+        "kanji": "型",
+        "arti": "Cetakan, tipe, model"
+    },
+    {
+        "kanji": "埋",
+        "arti": "Mengubur, menimbun, tertanam"
+    },
+    {
+        "kanji": "城",
+        "arti": "Kastil, benteng"
+    },
+    {
+        "kanji": "域",
+        "arti": "Wilayah, area, batas"
+    },
+    {
+        "kanji": "塔",
+        "arti": "Menara, pagoda"
+    },
+    {
+        "kanji": "塗",
+        "arti": "Mengecat, mengoles, melapisi"
+    },
+    {
+        "kanji": "塩",
+        "arti": "Garam"
+    },
+    {
+        "kanji": "境",
+        "arti": "Batas, perbatasan, wilayah"
+    },
+    {
+        "kanji": "央",
+        "arti": "Pusat, tengah"
+    },
+    {
+        "kanji": "奥",
+        "arti": "Bagian dalam, terdalam, inti"
+    },
+    {
+        "kanji": "姓",
+        "arti": "Nama keluarga, marga"
+    },
+    {
+        "kanji": "委",
+        "arti": "Komite, mempercayakan, menyerahkan"
+    },
+    {
+        "kanji": "季",
+        "arti": "Musim"
+    },
+    {
+        "kanji": "孫",
+        "arti": "Cucu, keturunan"
+    },
+    {
+        "kanji": "宇",
+        "arti": "Atap, langit, alam semesta"
+    },
+    {
+        "kanji": "宝",
+        "arti": "Harta karun, kekayaan, berharga"
+    },
+    {
+        "kanji": "寺",
+        "arti": "Kuil Buddha"
+    },
+    {
+        "kanji": "封",
+        "arti": "Segel, menyegel, menutup"
+    },
+    {
+        "kanji": "専",
+        "arti": "Khusus, eksklusif, terutama"
+    },
+    {
+        "kanji": "将",
+        "arti": "Pemimpin, jenderal, masa depan"
+    },
+    {
+        "kanji": "尊",
+        "arti": "Dihormati, mulia, berharga"
+    },
+    {
+        "kanji": "導",
+        "arti": "Membimbing, menuntun, mengarahkan"
+    },
+    {
+        "kanji": "届",
+        "arti": "Mengirimkan, sampai, melaporkan"
+    },
+    {
+        "kanji": "層",
+        "arti": "Lapisan, tingkat, strata"
+    },
+    {
+        "kanji": "岩",
+        "arti": "Batu besar, karang, tebing"
+    },
+    {
+        "kanji": "岸",
+        "arti": "Pantai, tepi sungai/laut"
+    },
+    {
+        "kanji": "島",
+        "arti": "Pulau"
+    },
+    {
+        "kanji": "州",
+        "arti": "Negara bagian, provinsi"
+    },
+    {
+        "kanji": "巨",
+        "arti": "Raksasa, sangat besar"
+    },
+    {
+        "kanji": "巻",
+        "arti": "Gulungan, jilid, menggulung"
+    },
+    {
+        "kanji": "布",
+        "arti": "Kain, menyebarkan"
+    },
+    {
+        "kanji": "希",
+        "arti": "Harapan, jarang, langka"
+    },
+    {
+        "kanji": "帯",
+        "arti": "Sabuk, obi, zona, wilayah"
+    },
+    {
+        "kanji": "帽",
+        "arti": "Topi, penutup kepala"
+    },
+    {
+        "kanji": "幅",
+        "arti": "Lebar, gulungan lukisan"
+    },
+    {
+        "kanji": "干",
+        "arti": "Mengeringkan, menjemur, surut"
+    },
+    {
+        "kanji": "幼",
+        "arti": "Masa kecil, kanak-kanak, muda"
+    },
+    {
+        "kanji": "庁",
+        "arti": "Kantor pemerintah, badan"
+    },
+    {
+        "kanji": "床",
+        "arti": "Lantai, tempat tidur"
+    },
+    {
+        "kanji": "底",
+        "arti": "Dasar, bagian bawah"
+    },
+    {
+        "kanji": "府",
+        "arti": "Prefektur perkotaan, kantor pemerintah"
+    },
+    {
+        "kanji": "庫",
+        "arti": "Gudang, tempat penyimpanan"
+    },
+    {
+        "kanji": "延",
+        "arti": "Memperpanjang, menunda"
+    },
+    {
+        "kanji": "弱",
+        "arti": "Lemah"
+    },
+    {
+        "kanji": "律",
+        "arti": "Ritme, hukum, aturan"
+    },
+    {
+        "kanji": "復",
+        "arti": "Memulihkan, kembali, mengulang"
+    },
+    {
+        "kanji": "快",
+        "arti": "Menyenangkan, nyaman, ceria"
+    },
+    {
+        "kanji": "恋",
+        "arti": "Cinta, asmara, merindukan"
+    },
+    {
+        "kanji": "患",
+        "arti": "Menderita (penyakit), pasien"
+    },
+    {
+        "kanji": "悩",
+        "arti": "Khawatir, cemas, bermasalah"
+    },
+    {
+        "kanji": "憎",
+        "arti": "Membenci, benci"
+    },
+    {
+        "kanji": "戸",
+        "arti": "Pintu, satuan rumah"
+    },
+    {
+        "kanji": "承",
+        "arti": "Setuju, menerima, mendengarkan"
+    },
+    {
+        "kanji": "技",
+        "arti": "Keterampilan, teknik, seni"
+    },
+    {
+        "kanji": "担",
+        "arti": "Memikul, menanggung, bertanggung jawab"
+    },
+    {
+        "kanji": "拝",
+        "arti": "Menyembah, berdoa, memuja"
+    },
+    {
+        "kanji": "拾",
+        "arti": "Memungut, mengambil, menemukan"
+    },
+    {
+        "kanji": "挟",
+        "arti": "Menjepit, di antara"
+    },
+    {
+        "kanji": "捜",
+        "arti": "Mencari, menyelidiki"
+    },
+    {
+        "kanji": "捨",
+        "arti": "Membuang, meninggalkan, mengabaikan"
+    },
+    {
+        "kanji": "掃",
+        "arti": "Menyapu, membersihkan"
+    },
+    {
+        "kanji": "掘",
+        "arti": "Menggali"
+    },
+    {
+        "kanji": "採",
+        "arti": "Memetik, mengambil, mengadopsi"
+    },
+    {
+        "kanji": "接",
+        "arti": "Menyentuh, menghubungi, menyambung"
+    },
+    {
+        "kanji": "換",
+        "arti": "Menukar, mengganti, mengubah"
+    },
+    {
+        "kanji": "損",
+        "arti": "Kerugian, kerusakan, merugikan"
+    },
+    {
+        "kanji": "改",
+        "arti": "Memperbarui, mengubah, memperbaiki"
+    },
+    {
+        "kanji": "敬",
+        "arti": "Menghormati, rasa hormat"
+    },
+    {
+        "kanji": "旧",
+        "arti": "Lama, bekas, mantan"
+    },
+    {
+        "kanji": "昇",
+        "arti": "Naik, terbit, meningkat"
+    },
+    {
+        "kanji": "星",
+        "arti": "Bintang"
+    },
+    {
+        "kanji": "普",
+        "arti": "Umum, universal, biasanya"
+    },
+    {
+        "kanji": "暴",
+        "arti": "Kekerasan, mengamuk, ledakan"
+    },
+    {
+        "kanji": "曇",
+        "arti": "Mendung, berawan"
+    },
+    {
+        "kanji": "替",
+        "arti": "Mengganti, menukar, cadangan"
+    },
+    {
+        "kanji": "札",
+        "arti": "Label, uang kertas, kartu"
+    },
+    {
+        "kanji": "机",
+        "arti": "Meja"
+    },
+    {
+        "kanji": "材",
+        "arti": "Bahan, kayu, bakat"
+    },
+    {
+        "kanji": "村",
+        "arti": "Desa"
+    },
+    {
+        "kanji": "板",
+        "arti": "Papan, pelat"
+    },
+    {
+        "kanji": "林",
+        "arti": "Hutan kecil, rumpun pohon"
+    },
+    {
+        "kanji": "枚",
+        "arti": "Lembar, helai (satuan benda tipis)"
+    },
+    {
+        "kanji": "枝",
+        "arti": "Cabang, dahan, ranting"
+    },
+    {
+        "kanji": "枯",
+        "arti": "Layu, kering, mati (tumbuhan)"
+    },
+    {
+        "kanji": "柔",
+        "arti": "Lembut, lunak, fleksibel"
+    },
+    {
+        "kanji": "柱",
+        "arti": "Pilar, tiang"
+    },
+    {
+        "kanji": "査",
+        "arti": "Menyelidiki, memeriksa"
+    },
+    {
+        "kanji": "栄",
+        "arti": "Makmur, kejayaan, berkembang"
+    },
+    {
+        "kanji": "根",
+        "arti": "Akar, dasar"
+    },
+    {
+        "kanji": "械",
+        "arti": "Mesin, alat, instrumen"
+    },
+    {
+        "kanji": "棒",
+        "arti": "Tongkat, batang, tiang"
+    },
+    {
+        "kanji": "森",
+        "arti": "Hutan lebat"
+    },
+    {
+        "kanji": "植",
+        "arti": "Menanam, tumbuhan"
+    },
+    {
+        "kanji": "極",
+        "arti": "Ekstrem, kutub, sangat"
+    },
+    {
+        "kanji": "橋",
+        "arti": "Jembatan"
+    },
+    {
+        "kanji": "欧",
+        "arti": "Eropa"
+    },
+    {
+        "kanji": "武",
+        "arti": "Prajurit, militer, bela diri"
+    },
+    {
+        "kanji": "歴",
+        "arti": "Sejarah, riwayat, berjalannya waktu"
+    },
+    {
+        "kanji": "殿",
+        "arti": "Tuan (sapaan hormat), istana, aula"
+    },
+    {
+        "kanji": "毒",
+        "arti": "Racun, bisa"
+    },
+    {
+        "kanji": "比",
+        "arti": "Membandingkan, rasio, Filipina"
+    },
+    {
+        "kanji": "毛",
+        "arti": "Bulu, rambut"
+    },
+    {
+        "kanji": "氷",
+        "arti": "Es, membeku"
+    },
+    {
+        "kanji": "永",
+        "arti": "Keabadian, abadi, lama"
+    },
+    {
+        "kanji": "汗",
+        "arti": "Keringat, berkeringat"
+    },
+    {
+        "kanji": "汚",
+        "arti": "Kotor, mencemari, mengotori"
+    },
+    {
+        "kanji": "池",
+        "arti": "Kolam"
+    },
+    {
+        "kanji": "沈",
+        "arti": "Tenggelam, terbenam, murung"
+    },
+    {
+        "kanji": "河",
+        "arti": "Sungai"
+    },
+    {
+        "kanji": "沸",
+        "arti": "Mendidih, merebus"
+    },
+    {
+        "kanji": "油",
+        "arti": "Minyak, lemak"
+    },
+    {
+        "kanji": "況",
+        "arti": "Kondisi, situasi, keadaan"
+    },
+    {
+        "kanji": "泉",
+        "arti": "Mata air, air mancur"
+    },
+    {
+        "kanji": "泊",
+        "arti": "Menginap, bermalam"
+    },
+    {
+        "kanji": "波",
+        "arti": "Ombak, gelombang, Polandia"
+    },
+    {
+        "kanji": "泥",
+        "arti": "Lumpur"
+    },
+    {
+        "kanji": "浅",
+        "arti": "Dangkal"
+    },
+    {
+        "kanji": "浴",
+        "arti": "Mandi, berjemur"
+    },
+    {
+        "kanji": "涙",
+        "arti": "Air mata"
+    },
+    {
+        "kanji": "液",
+        "arti": "Cairan, jus"
+    },
+    {
+        "kanji": "涼",
+        "arti": "Sejuk, segar"
+    },
+    {
+        "kanji": "混",
+        "arti": "Mencampur, bercampur"
+    },
+    {
+        "kanji": "清",
+        "arti": "Murni, bersih, jernih"
+    },
+    {
+        "kanji": "減",
+        "arti": "Berkurang, mengurangi, menurun"
+    },
+    {
+        "kanji": "温",
+        "arti": "Hangat"
+    },
+    {
+        "kanji": "測",
+        "arti": "Mengukur, memperkirakan"
+    },
+    {
+        "kanji": "湖",
+        "arti": "Danau"
+    },
+    {
+        "kanji": "湯",
+        "arti": "Air panas, pemandian air panas"
+    },
+    {
+        "kanji": "湾",
+        "arti": "Teluk"
+    },
+    {
+        "kanji": "湿",
+        "arti": "Lembap, basah"
+    },
+    {
+        "kanji": "準",
+        "arti": "Semi-, standar, sesuai"
+    },
+    {
+        "kanji": "溶",
+        "arti": "Meleleh, melarutkan, mencair"
+    },
+    {
+        "kanji": "滴",
+        "arti": "Tetes, menetes"
+    },
+    {
+        "kanji": "漁",
+        "arti": "Memancing, perikanan"
+    },
+    {
+        "kanji": "濃",
+        "arti": "Pekat, kental, gelap"
+    },
+    {
+        "kanji": "濯",
+        "arti": "Mencuci, membilas"
+    },
+    {
+        "kanji": "灯",
+        "arti": "Lampu, cahaya"
+    },
+    {
+        "kanji": "灰",
+        "arti": "Abu"
+    },
+    {
+        "kanji": "炭",
+        "arti": "Arang, batu bara"
+    },
+    {
+        "kanji": "焼",
+        "arti": "Membakar, memanggang"
+    },
+    {
+        "kanji": "照",
+        "arti": "Menerangi, bersinar"
+    },
+    {
+        "kanji": "燃",
+        "arti": "Membakar, terbakar, menyala"
+    },
+    {
+        "kanji": "燥",
+        "arti": "Kering, mengeringkan"
+    },
+    {
+        "kanji": "爆",
+        "arti": "Bom, meledak"
+    },
+    {
+        "kanji": "片",
+        "arti": "Satu sisi, serpihan, lembar"
+    },
+    {
+        "kanji": "版",
+        "arti": "Edisi, cetakan, pelat cetak"
+    },
+    {
+        "kanji": "玉",
+        "arti": "Permata, bola"
+    },
+    {
+        "kanji": "珍",
+        "arti": "Langka, unik, aneh"
+    },
+    {
+        "kanji": "瓶",
+        "arti": "Botol, guci, toples"
+    },
+    {
+        "kanji": "甘",
+        "arti": "Manis, memanjakan"
+    },
+    {
+        "kanji": "畜",
+        "arti": "Ternak, hewan peliharaan"
+    },
+    {
+        "kanji": "略",
+        "arti": "Singkatan, ringkasan, mempersingkat"
+    },
+    {
+        "kanji": "畳",
+        "arti": "Tikar tatami, melipat"
+    },
+    {
+        "kanji": "療",
+        "arti": "Menyembuhkan, pengobatan, terapi"
+    },
+    {
+        "kanji": "皮",
+        "arti": "Kulit"
+    },
+    {
+        "kanji": "皿",
+        "arti": "Piring"
+    },
+    {
+        "kanji": "省",
+        "arti": "Kementerian, menghemat, menghilangkan"
+    },
+    {
+        "kanji": "県",
+        "arti": "Prefektur"
+    },
+    {
+        "kanji": "短",
+        "arti": "Pendek, singkat, kekurangan"
+    },
+    {
+        "kanji": "砂",
+        "arti": "Pasir"
+    },
+    {
+        "kanji": "硬",
+        "arti": "Keras, kaku"
+    },
+    {
+        "kanji": "磨",
+        "arti": "Menggosok, memoles, mengasah"
+    },
+    {
+        "kanji": "祈",
+        "arti": "Berdoa, memohon"
+    },
+    {
+        "kanji": "祝",
+        "arti": "Merayakan, mengucapkan selamat"
+    },
+    {
+        "kanji": "祭",
+        "arti": "Festival, ritual, upacara"
+    },
+    {
+        "kanji": "禁",
+        "arti": "Larangan, melarang"
+    },
+    {
+        "kanji": "秒",
+        "arti": "Detik"
+    },
+    {
+        "kanji": "移",
+        "arti": "Pindah, bergeser, berubah"
+    },
+    {
+        "kanji": "税",
+        "arti": "Pajak"
+    },
+    {
+        "kanji": "章",
+        "arti": "Bab, lencana, karangan"
+    },
+    {
+        "kanji": "童",
+        "arti": "Anak-anak, remaja"
+    },
+    {
+        "kanji": "競",
+        "arti": "Bersaing, berlomba, bertanding"
+    },
+    {
+        "kanji": "竹",
+        "arti": "Bambu"
+    },
+    {
+        "kanji": "符",
+        "arti": "Tanda, simbol, jimat, tiket"
+    },
+    {
+        "kanji": "筆",
+        "arti": "Kuas tulis, tulisan"
+    },
+    {
+        "kanji": "筒",
+        "arti": "Tabung, silinder, pipa"
+    },
+    {
+        "kanji": "算",
+        "arti": "Menghitung, kalkulasi"
+    },
+    {
+        "kanji": "管",
+        "arti": "Pipa, tabung, mengelola"
+    },
+    {
+        "kanji": "築",
+        "arti": "Membangun, konstruksi"
+    },
+    {
+        "kanji": "簡",
+        "arti": "Sederhana, singkat"
+    },
+    {
+        "kanji": "籍",
+        "arti": "Mendaftar, keanggotaan, kewarganegaraan"
+    },
+    {
+        "kanji": "粉",
+        "arti": "Tepung, bubuk, debu"
+    },
+    {
+        "kanji": "粒",
+        "arti": "Butir, biji, tetes"
+    },
+    {
+        "kanji": "糸",
+        "arti": "Benang"
+    },
+    {
+        "kanji": "紅",
+        "arti": "Merah tua, merah crimson"
+    },
+    {
+        "kanji": "純",
+        "arti": "Murni, asli, polos"
+    },
+    {
+        "kanji": "細",
+        "arti": "Tipis, ramping, detail"
+    },
+    {
+        "kanji": "紹",
+        "arti": "Memperkenalkan, mewarisi"
+    },
+    {
+        "kanji": "絡",
+        "arti": "Melilit, terkait, menghubungi"
+    },
+    {
+        "kanji": "綿",
+        "arti": "Kapas, katun"
+    },
+    {
+        "kanji": "総",
+        "arti": "Umum, keseluruhan, total"
+    },
+    {
+        "kanji": "緑",
+        "arti": "Hijau"
+    },
+    {
+        "kanji": "線",
+        "arti": "Garis, jalur"
+    },
+    {
+        "kanji": "編",
+        "arti": "Menyusun, mengedit, merajut"
+    },
+    {
+        "kanji": "練",
+        "arti": "Berlatih, melatih"
+    },
+    {
+        "kanji": "績",
+        "arti": "Prestasi, pencapaian"
+    },
+    {
+        "kanji": "缶",
+        "arti": "Kaleng, wadah"
+    },
+    {
+        "kanji": "署",
+        "arti": "Tanda tangan, kantor pemerintah, kantor polisi"
+    },
+    {
+        "kanji": "群",
+        "arti": "Kelompok, kawanan, kerumunan"
+    },
+    {
+        "kanji": "羽",
+        "arti": "Bulu, sayap, satuan burung/kelinci"
+    },
+    {
+        "kanji": "翌",
+        "arti": "Berikutnya, keesokan"
+    },
+    {
+        "kanji": "耕",
+        "arti": "Membajak, mengolah tanah"
+    },
+    {
+        "kanji": "肌",
+        "arti": "Kulit, tekstur"
+    },
+    {
+        "kanji": "肩",
+        "arti": "Bahu, pundak"
+    },
+    {
+        "kanji": "肯",
+        "arti": "Setuju, menyetujui"
+    },
+    {
+        "kanji": "胃",
+        "arti": "Lambung, perut"
+    },
+    {
+        "kanji": "胸",
+        "arti": "Dada, hati, perasaan"
+    },
+    {
+        "kanji": "脂",
+        "arti": "Lemak, minyak"
+    },
+    {
+        "kanji": "脳",
+        "arti": "Otak, ingatan"
+    },
+    {
+        "kanji": "腕",
+        "arti": "Lengan, kemampuan"
+    },
+    {
+        "kanji": "腰",
+        "arti": "Pinggang, pinggul"
+    },
+    {
+        "kanji": "膚",
+        "arti": "Kulit, tubuh"
+    },
+    {
+        "kanji": "臓",
+        "arti": "Organ dalam, jeroan"
+    },
+    {
+        "kanji": "臣",
+        "arti": "Menteri, pengikut, rakyat"
+    },
+    {
+        "kanji": "舟",
+        "arti": "Perahu, kapal"
+    },
+    {
+        "kanji": "航",
+        "arti": "Berlayar, navigasi, terbang"
+    },
+    {
+        "kanji": "般",
+        "arti": "Umum, jenis, membawa"
+    },
+    {
+        "kanji": "芸",
+        "arti": "Seni, teknik, pertunjukan"
+    },
+    {
+        "kanji": "荒",
+        "arti": "Kasar, liar, terbengkalai"
+    },
+    {
+        "kanji": "荷",
+        "arti": "Bagasi, barang bawaan, beban"
+    },
+    {
+        "kanji": "菓",
+        "arti": "Permen, kue, camilan"
+    },
+    {
+        "kanji": "菜",
+        "arti": "Sayuran, lauk"
+    },
+    {
+        "kanji": "著",
+        "arti": "Terkenal, menulis, mengenakan"
+    },
+    {
+        "kanji": "蒸",
+        "arti": "Uap, mengukus"
+    },
+    {
+        "kanji": "蔵",
+        "arti": "Gudang, menyimpan, memiliki"
+    },
+    {
+        "kanji": "薄",
+        "arti": "Tipis, encer, pucat"
+    },
+    {
+        "kanji": "虫",
+        "arti": "Serangga"
+    },
+    {
+        "kanji": "血",
+        "arti": "Darah"
+    },
+    {
+        "kanji": "衣",
+        "arti": "Pakaian, busana"
+    },
+    {
+        "kanji": "袋",
+        "arti": "Kantong, tas, karung"
+    },
+    {
+        "kanji": "被",
+        "arti": "Menderita, menerima, menutupi"
+    },
+    {
+        "kanji": "装",
+        "arti": "Pakaian, berdandan, berpura-pura"
+    },
+    {
+        "kanji": "裏",
+        "arti": "Belakang, bagian dalam, sisi sebaliknya"
+    },
+    {
+        "kanji": "補",
+        "arti": "Melengkapi, tambahan, mengganti"
+    },
+    {
+        "kanji": "複",
+        "arti": "Ganda, majemuk, duplikat"
+    },
+    {
+        "kanji": "角",
+        "arti": "Sudut, tanduk, persegi"
+    },
+    {
+        "kanji": "触",
+        "arti": "Menyentuh, kontak, merasakan"
+    },
+    {
+        "kanji": "訓",
+        "arti": "Instruksi, pelajaran, cara baca Kun"
+    },
+    {
+        "kanji": "設",
+        "arti": "Mendirikan, menetapkan, menyediakan"
+    },
+    {
+        "kanji": "詞",
+        "arti": "Kata, bagian kalimat, puisi"
+    },
+    {
+        "kanji": "詰",
+        "arti": "Padat, penuh, menegur"
+    },
+    {
+        "kanji": "誌",
+        "arti": "Majalah, dokumen, catatan"
+    },
+    {
+        "kanji": "課",
+        "arti": "Pelajaran, bab, bagian, departemen"
+    },
+    {
+        "kanji": "諸",
+        "arti": "Berbagai, banyak, bersama"
+    },
+    {
+        "kanji": "講",
+        "arti": "Kuliah, ceramah, klub"
+    },
+    {
+        "kanji": "谷",
+        "arti": "Lembah"
+    },
+    {
+        "kanji": "豊",
+        "arti": "Berlimpah, kaya, makmur"
+    },
+    {
+        "kanji": "象",
+        "arti": "Gajah, fenomena, meniru"
+    },
+    {
+        "kanji": "貝",
+        "arti": "Kerang"
+    },
+    {
+        "kanji": "貨",
+        "arti": "Barang dagangan, kargo, uang"
+    },
+    {
+        "kanji": "販",
+        "arti": "Pemasaran, menjual, berdagang"
+    },
+    {
+        "kanji": "貯",
+        "arti": "Tabungan, menyimpan"
+    },
+    {
+        "kanji": "貿",
+        "arti": "Perdagangan, bertukar"
+    },
+    {
+        "kanji": "賞",
+        "arti": "Hadiah, penghargaan, pujian"
+    },
+    {
+        "kanji": "賢",
+        "arti": "Cerdas, bijaksana"
+    },
+    {
+        "kanji": "贈",
+        "arti": "Hadiah, mengirim, memberikan"
+    },
+    {
+        "kanji": "超",
+        "arti": "Melampaui, melebihi, super"
+    },
+    {
+        "kanji": "跡",
+        "arti": "Jejak, bekas, tanda"
+    },
+    {
+        "kanji": "踊",
+        "arti": "Menari, melompat"
+    },
+    {
+        "kanji": "軍",
+        "arti": "Tentara, militer, pasukan"
+    },
+    {
+        "kanji": "軒",
+        "arti": "Atap, satuan rumah"
+    },
+    {
+        "kanji": "軟",
+        "arti": "Lunak, lembut"
+    },
+    {
+        "kanji": "軽",
+        "arti": "Ringan"
+    },
+    {
+        "kanji": "輪",
+        "arti": "Roda, cincin, lingkaran"
+    },
+    {
+        "kanji": "輸",
+        "arti": "Mengangkut, mengirim, transportasi"
+    },
+    {
+        "kanji": "辛",
+        "arti": "Pedas, pahit, sulit"
+    },
+    {
+        "kanji": "農",
+        "arti": "Pertanian, petani"
+    },
+    {
+        "kanji": "辺",
+        "arti": "Sekitar, lingkungan, batas"
+    },
+    {
+        "kanji": "述",
+        "arti": "Menyebutkan, menyatakan, menceritakan"
+    },
+    {
+        "kanji": "逆",
+        "arti": "Terbalik, berlawanan, kebalikan"
+    },
+    {
+        "kanji": "造",
+        "arti": "Membuat, menciptakan, struktur"
+    },
+    {
+        "kanji": "郊",
+        "arti": "Pinggiran kota"
+    },
+    {
+        "kanji": "郵",
+        "arti": "Pos, surat"
+    },
+    {
+        "kanji": "量",
+        "arti": "Kuantitas, jumlah, mengukur"
+    },
+    {
+        "kanji": "針",
+        "arti": "Jarum, peniti"
+    },
+    {
+        "kanji": "鈍",
+        "arti": "Tumpul, lamban, bodoh"
+    },
+    {
+        "kanji": "鉄",
+        "arti": "Besi"
+    },
+    {
+        "kanji": "鉱",
+        "arti": "Mineral, bijih tambang"
+    },
+    {
+        "kanji": "銅",
+        "arti": "Tembaga"
+    },
+    {
+        "kanji": "鋭",
+        "arti": "Tajam, runcing"
+    },
+    {
+        "kanji": "録",
+        "arti": "Merekam, mencatat, catatan"
+    },
+    {
+        "kanji": "門",
+        "arti": "Gerbang"
+    },
+    {
+        "kanji": "防",
+        "arti": "Mencegah, melindungi, bertahan"
+    },
+    {
+        "kanji": "陸",
+        "arti": "Daratan, tanah"
+    },
+    {
+        "kanji": "隅",
+        "arti": "Sudut, pojok"
+    },
+    {
+        "kanji": "階",
+        "arti": "Lantai, tingkat, tangga"
+    },
+    {
+        "kanji": "隻",
+        "arti": "Satuan kapal, sebelah"
+    },
+    {
+        "kanji": "雇",
+        "arti": "Mempekerjakan, menyewa"
+    },
+    {
+        "kanji": "雲",
+        "arti": "Awan"
+    },
+    {
+        "kanji": "零",
+        "arti": "Nol, tumpah"
+    },
+    {
+        "kanji": "震",
+        "arti": "Gempa, bergetar, gemetar"
+    },
+    {
+        "kanji": "革",
+        "arti": "Kulit (bahan), reformasi"
+    },
+    {
+        "kanji": "順",
+        "arti": "Urutan, giliran, mematuhi"
+    },
+    {
+        "kanji": "預",
+        "arti": "Menitipkan, menyimpan, deposito"
+    },
+    {
+        "kanji": "領",
+        "arti": "Wilayah, kekuasaan, menguasai"
+    },
+    {
+        "kanji": "額",
+        "arti": "Dahi, bingkai, jumlah uang"
+    },
+    {
+        "kanji": "香",
+        "arti": "Aroma, wangi, dupa"
+    },
+    {
+        "kanji": "駐",
+        "arti": "Parkir, menetap, ditempatkan"
+    },
+    {
+        "kanji": "骨",
+        "arti": "Tulang, kerangka"
+    },
+    {
+        "kanji": "麦",
+        "arti": "Gandum, jelai"
+    },
+    {
+        "kanji": "黄",
+        "arti": "Kuning"
+    },
+    {
+        "kanji": "鼻",
+        "arti": "Hidung"
+    },
+    {
+        "kanji": "齢",
+        "arti": "Usia, umur"
+    },
+    {
+        "kanji": "丁",
+        "arti": "Jalan, Distrik, Kota, Kata bantu hitung untuk guns, tools, leaves or cakes of something, Bilangan genap, Tanda kalender ke-4"
+    },
+    {
+        "kanji": "丑",
+        "arti": "Shio sapi, 1-3am, Second sign of chinese zodiac"
+    },
+    {
+        "kanji": "且",
+        "arti": "Selain itu, Juga, Lebih lanjut"
+    },
+    {
+        "kanji": "丘",
+        "arti": "Bukit, Gundukan bukit"
+    },
+    {
+        "kanji": "丙",
+        "arti": "Kelas tiga, Ketiga, Tanda kalender ke-3"
+    },
+    {
+        "kanji": "丞",
+        "arti": "Help"
+    },
+    {
+        "kanji": "丹",
+        "arti": "Rust-colored, Merah, Red lead, Pills, Sincerity"
+    },
+    {
+        "kanji": "乃",
+        "arti": "From, Possessive particle, Whereupon, Accordingly"
+    },
+    {
+        "kanji": "之",
+        "arti": "Of, This"
+    },
+    {
+        "kanji": "乏",
+        "arti": "Destitution, Scarce, Limited"
+    },
+    {
+        "kanji": "乙",
+        "arti": "The latter, Duplicate, Strange, Witty, Fishhook radikal (no. 5)"
+    },
+    {
+        "kanji": "也",
+        "arti": "To be (kelasical)"
+    },
+    {
+        "kanji": "亀",
+        "arti": "Tortoise, Turtle"
+    },
+    {
+        "kanji": "井",
+        "arti": "Well, Well crib, Kota, Community"
+    },
+    {
+        "kanji": "亘",
+        "arti": "Span, Range, Extend over"
+    },
+    {
+        "kanji": "亜",
+        "arti": "Asia, Rank next, Come after, -ous"
+    },
+    {
+        "kanji": "亥",
+        "arti": "Shio hog, 9-11pm, Twelfth shio chinese zodiac"
+    },
+    {
+        "kanji": "亦",
+        "arti": "Juga, Again"
+    },
+    {
+        "kanji": "亨",
+        "arti": "Pass through, Go smoothly"
+    },
+    {
+        "kanji": "享",
+        "arti": "Enjoy, Menerima, Undergo, Answer (phone), Take, Get, Catch"
+    },
+    {
+        "kanji": "亭",
+        "arti": "Pavilion, Restaurant, Mansion, Arbor, Cottage, Vaudeville, Music hall, Stage name"
+    },
+    {
+        "kanji": "亮",
+        "arti": "Clear, Help"
+    },
+    {
+        "kanji": "仁",
+        "arti": "Humanity, Virtue, Benevolence, Charity, Pria, Kernel"
+    },
+    {
+        "kanji": "仙",
+        "arti": "Hermit, Wizard, Cent"
+    },
+    {
+        "kanji": "仮",
+        "arti": "Sham, Temporary, Interim, Assumed (name), Informal"
+    },
+    {
+        "kanji": "仰",
+        "arti": "Face-up, Look up, Depend, Seek, Respect, Revere, Minum, Take"
+    },
+    {
+        "kanji": "企",
+        "arti": "Undertake, Scheme, Design, Attempt, Plan"
+    },
+    {
+        "kanji": "伊",
+        "arti": "Italy, That one"
+    },
+    {
+        "kanji": "伍",
+        "arti": "Lima, Five-man squad, File, Line"
+    },
+    {
+        "kanji": "伎",
+        "arti": "Deed, Skill"
+    },
+    {
+        "kanji": "伏",
+        "arti": "Prostrated, Bend down, Bow, Cover, Lay (pipes)"
+    },
+    {
+        "kanji": "伐",
+        "arti": "Fell, Strike, Attack, Punish"
+    },
+    {
+        "kanji": "伯",
+        "arti": "Chief, Count, Earl, Uncle, Brazil"
+    },
+    {
+        "kanji": "伴",
+        "arti": "Consort, Accompany, Bring with, Companion"
+    },
+    {
+        "kanji": "伶",
+        "arti": "Actor"
+    },
+    {
+        "kanji": "伽",
+        "arti": "Nursing, Attending, Entertainer"
+    },
+    {
+        "kanji": "但",
+        "arti": "However, But"
+    },
+    {
+        "kanji": "佐",
+        "arti": "Assistant, Help"
+    },
+    {
+        "kanji": "佑",
+        "arti": "Help, Assist"
+    },
+    {
+        "kanji": "佳",
+        "arti": "Excellent, Beautiful, Baik, Pleasing, Skilled"
+    },
+    {
+        "kanji": "併",
+        "arti": "Join, Get together, Unite, Collective"
+    },
+    {
+        "kanji": "侃",
+        "arti": "Strong, Just, Righteous, Peace-loving"
+    },
+    {
+        "kanji": "侍",
+        "arti": "Waiter, Samurai, Wait upon, Serve"
+    },
+    {
+        "kanji": "侑",
+        "arti": "Urge to eat"
+    },
+    {
+        "kanji": "価",
+        "arti": "Value, Price"
+    },
+    {
+        "kanji": "侮",
+        "arti": "Scorn, Despise, Make light of, Contempt"
+    },
+    {
+        "kanji": "侯",
+        "arti": "Marquis, Lord, Daimyo"
+    },
+    {
+        "kanji": "侵",
+        "arti": "Encroach, Invade, Raid, Trespass, Violate"
+    },
+    {
+        "kanji": "促",
+        "arti": "Stimulate, Urge, Press, Demand, Incite"
+    },
+    {
+        "kanji": "俊",
+        "arti": "Sagacious, Genius, Excellence"
+    },
+    {
+        "kanji": "俗",
+        "arti": "Vulgar, Customs, Manners, Worldliness, Mundane things"
+    },
+    {
+        "kanji": "保",
+        "arti": "Protect, Guarantee, Keep, Preserve, Sustain, Support"
+    },
+    {
+        "kanji": "修",
+        "arti": "Discipline, Conduct oneself well, Belajar, Master"
+    },
+    {
+        "kanji": "俳",
+        "arti": "Haiku, Actor"
+    },
+    {
+        "kanji": "俵",
+        "arti": "Bag, Bale, Sack, Kata bantu hitung untuk bags"
+    },
+    {
+        "kanji": "俸",
+        "arti": "Stipend, Salary"
+    },
+    {
+        "kanji": "倉",
+        "arti": "Godown, Warehouse, Storehouse, Cellar, Treasury"
+    },
+    {
+        "kanji": "倖",
+        "arti": "Happiness, Luck"
+    },
+    {
+        "kanji": "倣",
+        "arti": "Emulate, Imitate"
+    },
+    {
+        "kanji": "倫",
+        "arti": "Ethics, Companion"
+    },
+    {
+        "kanji": "倭",
+        "arti": "Yamato, Ancient japan"
+    },
+    {
+        "kanji": "倹",
+        "arti": "Frugal, Economy, Thrifty"
+    },
+    {
+        "kanji": "偏",
+        "arti": "Partial, Side, Left-side radikal, Inclining, Biased"
+    },
+    {
+        "kanji": "健",
+        "arti": "Healthy, Health, Strength, Persistence"
+    },
+    {
+        "kanji": "偲",
+        "arti": "Recollect, Remember"
+    },
+    {
+        "kanji": "偵",
+        "arti": "Spy"
+    },
+    {
+        "kanji": "偽",
+        "arti": "Falsehood, Lie, Deceive, Pretend, Counterfeit, Forgery"
+    },
+    {
+        "kanji": "傍",
+        "arti": "Bystander, Side, Besides, While, Nearby, Third person"
+    },
+    {
+        "kanji": "傑",
+        "arti": "Greatness, Excellence"
+    },
+    {
+        "kanji": "傘",
+        "arti": "Umbrella"
+    },
+    {
+        "kanji": "催",
+        "arti": "Sponsor, Hold (a meeting), Give (a dinner)"
+    },
+    {
+        "kanji": "債",
+        "arti": "Bond, Loan, Debt"
+    },
+    {
+        "kanji": "傷",
+        "arti": "Wound, Hurt, Injure, Impair, Pain, Injury, Cut, Gash, Scar, Weak point"
+    },
+    {
+        "kanji": "僕",
+        "arti": "Me, I (male), Servant, Manservant"
+    },
+    {
+        "kanji": "僚",
+        "arti": "Colleague, Official, Companion"
+    },
+    {
+        "kanji": "僧",
+        "arti": "Buddhist priest, Monk"
+    },
+    {
+        "kanji": "儀",
+        "arti": "Ceremony, Rule, Affair, Case, A matter"
+    },
+    {
+        "kanji": "儒",
+        "arti": "Confucian"
+    },
+    {
+        "kanji": "償",
+        "arti": "Reparation, Make up for, Recompense, Redeem"
+    },
+    {
+        "kanji": "允",
+        "arti": "License, Sincerity, Permit"
+    },
+    {
+        "kanji": "充",
+        "arti": "Allot, Fill"
+    },
+    {
+        "kanji": "克",
+        "arti": "Overcome, Kindly, Skillfully"
+    },
+    {
+        "kanji": "免",
+        "arti": "Excuse, Dismissal"
+    },
+    {
+        "kanji": "典",
+        "arti": "Code, Ceremony, Law, Rule"
+    },
+    {
+        "kanji": "兼",
+        "arti": "Concurrently, And, Beforehand, In advance"
+    },
+    {
+        "kanji": "冒",
+        "arti": "Risk, Face, Defy, Dare, Damage, Assume (a name)"
+    },
+    {
+        "kanji": "冗",
+        "arti": "Superfluous, Uselessness"
+    },
+    {
+        "kanji": "冠",
+        "arti": "Crown, Best, Peerless"
+    },
+    {
+        "kanji": "冴",
+        "arti": "Be clear, Serene, Cold, Skilful"
+    },
+    {
+        "kanji": "冶",
+        "arti": "Melting, Smelting"
+    },
+    {
+        "kanji": "准",
+        "arti": "Quasi-, Semi-, Associate"
+    },
+    {
+        "kanji": "凌",
+        "arti": "Endure, Keep (rain)out, Stave off, Tide over, Defy, Slight, Surpass"
+    },
+    {
+        "kanji": "凜",
+        "arti": "Cold, Strict, Severe"
+    },
+    {
+        "kanji": "凝",
+        "arti": "Congeal, Freeze, Stiff, Be absorbed in"
+    },
+    {
+        "kanji": "凡",
+        "arti": "Commonplace, Ordinary, Mediocre"
+    },
+    {
+        "kanji": "凪",
+        "arti": "Lull, Calm, (kokuji)"
+    },
+    {
+        "kanji": "凱",
+        "arti": "Victory song"
+    },
+    {
+        "kanji": "凶",
+        "arti": "Villain, Evil, Bad luck, Disaster"
+    },
+    {
+        "kanji": "凸",
+        "arti": "Convex, Beetle brow, Uneven"
+    },
+    {
+        "kanji": "凹",
+        "arti": "Concave, Hollow, Sunken"
+    },
+    {
+        "kanji": "刀",
+        "arti": "Sword, Saber, Knife"
+    },
+    {
+        "kanji": "刃",
+        "arti": "Blade, Sword, Edge"
+    },
+    {
+        "kanji": "刈",
+        "arti": "Reap, Cut, Clip, Trim, Prune"
+    },
+    {
+        "kanji": "刑",
+        "arti": "Punish, Penalty, Sentence, Punishment"
+    },
+    {
+        "kanji": "削",
+        "arti": "Plane, Sharpen, Whittle, Pare, Shave"
+    },
+    {
+        "kanji": "剖",
+        "arti": "Divide"
+    },
+    {
+        "kanji": "剛",
+        "arti": "Sturdy, Strength"
+    },
+    {
+        "kanji": "剣",
+        "arti": "Sabre, Sword, Blade, Clock hand"
+    },
+    {
+        "kanji": "剤",
+        "arti": "Dose, Medicine, Drug"
+    },
+    {
+        "kanji": "剰",
+        "arti": "Surplus, Besides"
+    },
+    {
+        "kanji": "創",
+        "arti": "Genesis, Wound, Injury, Hurt, Start, Originate"
+    },
+    {
+        "kanji": "功",
+        "arti": "Achievement, Merits, Success, Honor, Credit"
+    },
+    {
+        "kanji": "劣",
+        "arti": "Inferiority, Be inferior to, Be worse"
+    },
+    {
+        "kanji": "励",
+        "arti": "Encourage, Be diligent, Inspire"
+    },
+    {
+        "kanji": "劾",
+        "arti": "Censure, Criminal investigation"
+    },
+    {
+        "kanji": "勁",
+        "arti": "Strong"
+    },
+    {
+        "kanji": "勅",
+        "arti": "Imperial order"
+    },
+    {
+        "kanji": "勘",
+        "arti": "Intuition, Perception, Check, Compare, Sixth sense"
+    },
+    {
+        "kanji": "勧",
+        "arti": "Persuade, Recommend, Advise, Encourage, Offer"
+    },
+    {
+        "kanji": "勲",
+        "arti": "Meritorious deed, Merit"
+    },
+    {
+        "kanji": "勺",
+        "arti": "Ladle, One tenth of a go, Dip"
+    },
+    {
+        "kanji": "匁",
+        "arti": "Monme, 3.75 grams, (kokuji)"
+    },
+    {
+        "kanji": "匠",
+        "arti": "Artisan, Workman, Carpenter"
+    },
+    {
+        "kanji": "匡",
+        "arti": "Correct, Save, Assist"
+    },
+    {
+        "kanji": "匿",
+        "arti": "Hide, Shelter, Shield"
+    },
+    {
+        "kanji": "升",
+        "arti": "Measuring box, 1.8 liter"
+    },
+    {
+        "kanji": "卑",
+        "arti": "Lowly, Base, Vile, Vulgar, Despise"
+    },
+    {
+        "kanji": "卓",
+        "arti": "Eminent, Table, Desk, Tinggi"
+    },
+    {
+        "kanji": "博",
+        "arti": "Dr., Command, Esteem, Win acclaim, Ph.d., Exposition, Fair"
+    },
+    {
+        "kanji": "卯",
+        "arti": "Shio hare or rabbit, Fourth sign of chinese zodiac, 5-7am, East"
+    },
+    {
+        "kanji": "即",
+        "arti": "Instant, Namely, As is, Conform, Agree, Adapt"
+    },
+    {
+        "kanji": "却",
+        "arti": "Instead, On the contrary, Rather, Step back, Withdraw, Retreat"
+    },
+    {
+        "kanji": "卸",
+        "arti": "Wholesale"
+    },
+    {
+        "kanji": "厄",
+        "arti": "Unlucky, Misfortune, Bad luck, Disaster"
+    },
+    {
+        "kanji": "厘",
+        "arti": "Rin, 1/10 sen, 1/10 bu"
+    },
+    {
+        "kanji": "厳",
+        "arti": "Stern, Strictness, Severity, Rigidity"
+    },
+    {
+        "kanji": "又",
+        "arti": "Or again, Lebih lanjut, On the other hand"
+    },
+    {
+        "kanji": "及",
+        "arti": "Reach out, Exert, Exercise, Cause"
+    },
+    {
+        "kanji": "叔",
+        "arti": "Uncle, Youth"
+    },
+    {
+        "kanji": "叙",
+        "arti": "Confer, Relate, Narrate, Describe"
+    },
+    {
+        "kanji": "叡",
+        "arti": "Intelligence, Imperial"
+    },
+    {
+        "kanji": "句",
+        "arti": "Phrase, Clause, Sentence, Passage, Paragraph, Kata bantu hitung untuk haiku"
+    },
+    {
+        "kanji": "只",
+        "arti": "Only, Free, In addition"
+    },
+    {
+        "kanji": "叶",
+        "arti": "Grant, Answer"
+    },
+    {
+        "kanji": "司",
+        "arti": "Director, Official, Govt office, Rule, Administer"
+    },
+    {
+        "kanji": "吉",
+        "arti": "Good luck, Joy, Congratulations"
+    },
+    {
+        "kanji": "后",
+        "arti": "Empress, Queen, Setelah, Behind, Back, Later"
+    },
+    {
+        "kanji": "吏",
+        "arti": "Officer, An official"
+    },
+    {
+        "kanji": "吐",
+        "arti": "Spit, Vomit, Belch, Confess, Tell (lies)"
+    },
+    {
+        "kanji": "吟",
+        "arti": "Versify, Singing, Recital"
+    },
+    {
+        "kanji": "呂",
+        "arti": "Spine, Backbone"
+    },
+    {
+        "kanji": "呈",
+        "arti": "Display, Offer, Present, Send, Exhibit"
+    },
+    {
+        "kanji": "呉",
+        "arti": "Memberi, Do something for, Kingdom of wu"
+    },
+    {
+        "kanji": "哀",
+        "arti": "Pathetic, Grief, Sorrow, Pathos, Pity, Sympathize"
+    },
+    {
+        "kanji": "哉",
+        "arti": "How, What, Alas, Question mark, Exclamation mark"
+    },
+    {
+        "kanji": "哲",
+        "arti": "Philosophy, Clear"
+    },
+    {
+        "kanji": "唄",
+        "arti": "Song, Ballad"
+    },
+    {
+        "kanji": "唆",
+        "arti": "Tempt, Seduce, Instigate, Promote"
+    },
+    {
+        "kanji": "唇",
+        "arti": "Lips"
+    },
+    {
+        "kanji": "唯",
+        "arti": "Solely, Only, Merely, Simply"
+    },
+    {
+        "kanji": "唱",
+        "arti": "Chant, Recite, Call upon, Yell"
+    },
+    {
+        "kanji": "啄",
+        "arti": "Peck, Pick up"
+    },
+    {
+        "kanji": "啓",
+        "arti": "Disclose, Membuka, Mengatakan"
+    },
+    {
+        "kanji": "善",
+        "arti": "Virtuous, Baik, Goodness"
+    },
+    {
+        "kanji": "喚",
+        "arti": "Yell, Cry, Call, Scream, Summon"
+    },
+    {
+        "kanji": "喝",
+        "arti": "Hoarse, Scold"
+    },
+    {
+        "kanji": "喪",
+        "arti": "Miss, Mourning"
+    },
+    {
+        "kanji": "喬",
+        "arti": "Tinggi, Boasting"
+    },
+    {
+        "kanji": "嗣",
+        "arti": "Heir, Succeed"
+    },
+    {
+        "kanji": "嘆",
+        "arti": "Sigh, Lament, Moan, Grieve, Sigh of admiration"
+    },
+    {
+        "kanji": "嘉",
+        "arti": "Applaud, Praise, Esteem, Happy, Auspicious"
+    },
+    {
+        "kanji": "嘱",
+        "arti": "Entrust, Request, Send a message"
+    },
+    {
+        "kanji": "器",
+        "arti": "Utensil, Vessel, Receptacle, Implement, Instrument, Ability, Container, Tool, Set"
+    },
+    {
+        "kanji": "噴",
+        "arti": "Erupt, Spout, Emit, Flush out"
+    },
+    {
+        "kanji": "嚇",
+        "arti": "Menacing, Dignity, Majesty, Threaten"
+    },
+    {
+        "kanji": "囚",
+        "arti": "Captured, Criminal, Arrest, Catch"
+    },
+    {
+        "kanji": "圏",
+        "arti": "Sphere, Circle, Radius, Range"
+    },
+    {
+        "kanji": "圭",
+        "arti": "Square jewel, Corner, Angle, Edge"
+    },
+    {
+        "kanji": "坑",
+        "arti": "Pit, Hole"
+    },
+    {
+        "kanji": "坪",
+        "arti": "Two-mat area, Approx. thirty-six sq ft"
+    },
+    {
+        "kanji": "垂",
+        "arti": "Droop, Suspend, Hang, Slouch"
+    },
+    {
+        "kanji": "垣",
+        "arti": "Hedge, Fence, Wall"
+    },
+    {
+        "kanji": "執",
+        "arti": "Tenacious, Take hold, Grasp, Take to heart"
+    },
+    {
+        "kanji": "培",
+        "arti": "Cultivate, Foster"
+    },
+    {
+        "kanji": "基",
+        "arti": "Fundamentals, Radikal (chem), Kata bantu hitung untuk machines, Foundation"
+    },
+    {
+        "kanji": "堀",
+        "arti": "Ditch, Moat, Canal"
+    },
+    {
+        "kanji": "堅",
+        "arti": "Strict, Hard, Solid, Tough, Tight, Reliable"
+    },
+    {
+        "kanji": "堕",
+        "arti": "Degenerate, Descend to, Lapse into"
+    },
+    {
+        "kanji": "堤",
+        "arti": "Dike, Bank, Embankment"
+    },
+    {
+        "kanji": "堪",
+        "arti": "Withstand, Endure, Support, Resist"
+    },
+    {
+        "kanji": "塀",
+        "arti": "Fence, Wall, (kokuji)"
+    },
+    {
+        "kanji": "塁",
+        "arti": "Bases, Fort, Rampart, Walls, Base(ball)"
+    },
+    {
+        "kanji": "塊",
+        "arti": "Clod, Lump, Chunk, Clot, Mass"
+    },
+    {
+        "kanji": "塑",
+        "arti": "Model, Molding"
+    },
+    {
+        "kanji": "塚",
+        "arti": "Hillock, Mound"
+    },
+    {
+        "kanji": "塾",
+        "arti": "Cram school, Private school"
+    },
+    {
+        "kanji": "墓",
+        "arti": "Grave, Tomb"
+    },
+    {
+        "kanji": "墜",
+        "arti": "Crash, Fall (down)"
+    },
+    {
+        "kanji": "墨",
+        "arti": "Black ink, India ink, Ink stick, Mexico"
+    },
+    {
+        "kanji": "墳",
+        "arti": "Tomb, Mound"
+    },
+    {
+        "kanji": "墾",
+        "arti": "Ground-breaking, Open up farmland"
+    },
+    {
+        "kanji": "壁",
+        "arti": "Wall, Lining (stomach), Fence"
+    },
+    {
+        "kanji": "壇",
+        "arti": "Podium, Stage, Rostrum, Terrace"
+    },
+    {
+        "kanji": "壊",
+        "arti": "Demolition, Break, Destroy"
+    },
+    {
+        "kanji": "壌",
+        "arti": "Lot, Tanah, Soil"
+    },
+    {
+        "kanji": "士",
+        "arti": "Gentleman, Scholar, Samurai, Samurai radikal (no. 33)"
+    },
+    {
+        "kanji": "壮",
+        "arti": "Robust, Manhood, Prosperity"
+    },
+    {
+        "kanji": "壱",
+        "arti": "One (in documents)"
+    },
+    {
+        "kanji": "奇",
+        "arti": "Strange, Strangeness, Curiosity"
+    },
+    {
+        "kanji": "奈",
+        "arti": "Nara, What?"
+    },
+    {
+        "kanji": "奉",
+        "arti": "Observance, Offer, Present, Dedicate"
+    },
+    {
+        "kanji": "奎",
+        "arti": "Star, God of literature"
+    },
+    {
+        "kanji": "奏",
+        "arti": "Play music, Speak to a ruler, Complete"
+    },
+    {
+        "kanji": "契",
+        "arti": "Pledge, Promise, Vow"
+    },
+    {
+        "kanji": "奔",
+        "arti": "Run, Bustle"
+    },
+    {
+        "kanji": "奨",
+        "arti": "Exhort, Urge, Encourage"
+    },
+    {
+        "kanji": "奪",
+        "arti": "Rob, Take by force, Snatch away, Dispossess, Plunder, Usurp"
+    },
+    {
+        "kanji": "奮",
+        "arti": "Stirred up, Be invigorated, Flourish"
+    },
+    {
+        "kanji": "奴",
+        "arti": "Guy, Slave, Manservant, Fellow"
+    },
+    {
+        "kanji": "如",
+        "arti": "Likeness, Like, Such as, As if, Better, Best, Equal"
+    },
+    {
+        "kanji": "妃",
+        "arti": "Queen, Princess"
+    },
+    {
+        "kanji": "妄",
+        "arti": "Delusion, Unnecessarily, Without authority, Reckless"
+    },
+    {
+        "kanji": "妊",
+        "arti": "Pregnancy"
+    },
+    {
+        "kanji": "妙",
+        "arti": "Exquisite, Strange, Queer, Mystery, Miracle, Excellent, Delicate, Charming"
+    },
+    {
+        "kanji": "妥",
+        "arti": "Gentle, Peace, Satisfactory, Appropriate"
+    },
+    {
+        "kanji": "妨",
+        "arti": "Disturb, Prevent, Hamper, Obstruct"
+    },
+    {
+        "kanji": "姫",
+        "arti": "Princess"
+    },
+    {
+        "kanji": "姻",
+        "arti": "Matrimony, Marry"
+    },
+    {
+        "kanji": "姿",
+        "arti": "Figure, Form, Shape"
+    },
+    {
+        "kanji": "威",
+        "arti": "Intimidate, Dignity, Majesty, Menace, Threaten"
+    },
+    {
+        "kanji": "娠",
+        "arti": "With child, Pregnancy"
+    },
+    {
+        "kanji": "娯",
+        "arti": "Recreation, Pleasure"
+    },
+    {
+        "kanji": "婆",
+        "arti": "Old woman, Grandma, Wet nurse"
+    },
+    {
+        "kanji": "婿",
+        "arti": "Bridegroom, Son-in-law"
+    },
+    {
+        "kanji": "媒",
+        "arti": "Mediator, Go-between"
+    },
+    {
+        "kanji": "媛",
+        "arti": "Beautiful woman, Princess"
+    },
+    {
+        "kanji": "嫁",
+        "arti": "Marry into, Bride"
+    },
+    {
+        "kanji": "嫌",
+        "arti": "Dislike, Detest, Hate"
+    },
+    {
+        "kanji": "嫡",
+        "arti": "Legitimate wife, Direct descent (non-bastard)"
+    },
+    {
+        "kanji": "嬉",
+        "arti": "Glad, Pleased, Rejoice"
+    },
+    {
+        "kanji": "嬢",
+        "arti": "Lass, Anak perempuan, Miss, Anak perempuan"
+    },
+    {
+        "kanji": "孔",
+        "arti": "Cavity, Hole, Slit, Very, Great, Exceedingly"
+    },
+    {
+        "kanji": "孟",
+        "arti": "Chief, Beginning"
+    },
+    {
+        "kanji": "孤",
+        "arti": "Orphan, Alone"
+    },
+    {
+        "kanji": "宏",
+        "arti": "Wide, Large"
+    },
+    {
+        "kanji": "宗",
+        "arti": "Religion, Sect, Denomination, Main point, Origin, Essence"
+    },
+    {
+        "kanji": "宙",
+        "arti": "Mid-air, Air, Space, Langit, Memorization, Interval of time"
+    },
+    {
+        "kanji": "宜",
+        "arti": "Best regards, Baik"
+    },
+    {
+        "kanji": "宣",
+        "arti": "Proclaim, Mengatakan, Announce"
+    },
+    {
+        "kanji": "宥",
+        "arti": "Soothe, Calm, Pacify"
+    },
+    {
+        "kanji": "宮",
+        "arti": "Shinto shrine, Constellations, Palace, Princess"
+    },
+    {
+        "kanji": "宰",
+        "arti": "Superintend, Manager, Rule"
+    },
+    {
+        "kanji": "宴",
+        "arti": "Banquet, Feast, Party"
+    },
+    {
+        "kanji": "宵",
+        "arti": "Wee hours, Sore, Early night"
+    },
+    {
+        "kanji": "寂",
+        "arti": "Loneliness, Quietly, Mellow, Mature, Death of a priest"
+    },
+    {
+        "kanji": "寅",
+        "arti": "Shio tiger, 3-5am, Third sign of chinese zodiac"
+    },
+    {
+        "kanji": "密",
+        "arti": "Secrecy, Density (pop), Minuteness, Carefulness"
+    },
+    {
+        "kanji": "寛",
+        "arti": "Tolerant, Leniency, Generosity, Relax, Feel at home, Be at ease, Broadminded"
+    },
+    {
+        "kanji": "寡",
+        "arti": "Widow, Minority, Sedikit"
+    },
+    {
+        "kanji": "寧",
+        "arti": "Rather, Preferably, Peaceful, Quiet, Tranquility"
+    },
+    {
+        "kanji": "審",
+        "arti": "Hearing, Judge, Trial"
+    },
+    {
+        "kanji": "寮",
+        "arti": "Dormitory, Hostel, Villa, Tea pavillion"
+    },
+    {
+        "kanji": "寸",
+        "arti": "Measurement, Tenth of a shaku, A little, Kecil"
+    },
+    {
+        "kanji": "射",
+        "arti": "Shoot, Shine into, Onto, Archery"
+    },
+    {
+        "kanji": "尉",
+        "arti": "Military officer, Jailer, Old man, Rank"
+    },
+    {
+        "kanji": "尋",
+        "arti": "Inquire, Fathom, Look for"
+    },
+    {
+        "kanji": "尚",
+        "arti": "Esteem, Lebih lanjut, Still, Yet"
+    },
+    {
+        "kanji": "尭",
+        "arti": "Tinggi, Far"
+    },
+    {
+        "kanji": "就",
+        "arti": "Concerning, Settle, Take position, Depart, Belajar, Per"
+    },
+    {
+        "kanji": "尺",
+        "arti": "Shaku, Japanese foot, Measure, Scale, Rule"
+    },
+    {
+        "kanji": "尼",
+        "arti": "Nun"
+    },
+    {
+        "kanji": "尽",
+        "arti": "Exhaust, Use up, Run out of, Deplete, Befriend, Serve"
+    },
+    {
+        "kanji": "尾",
+        "arti": "Tail, End, Kata bantu hitung untuk fish, Lower slope of mountain"
+    },
+    {
+        "kanji": "尿",
+        "arti": "Urine"
+    },
+    {
+        "kanji": "屈",
+        "arti": "Yield, Bend, Flinch, Submit"
+    },
+    {
+        "kanji": "展",
+        "arti": "Unfold, Expand"
+    },
+    {
+        "kanji": "属",
+        "arti": "Belong, Genus, Subordinate official, Affiliated"
+    },
+    {
+        "kanji": "履",
+        "arti": "Perform, Complete, Footgear, Shoes, Boots, Put on (the feet)"
+    },
+    {
+        "kanji": "屯",
+        "arti": "Barracks, Police station, Camp, Ton"
+    },
+    {
+        "kanji": "岐",
+        "arti": "Branch off, Fork in road, Scene, Arena, Theater"
+    },
+    {
+        "kanji": "岬",
+        "arti": "Headland, Cape, Spit, Promontory"
+    },
+    {
+        "kanji": "岳",
+        "arti": "Point, Peak, Gunung"
+    },
+    {
+        "kanji": "峠",
+        "arti": "Mountain peak, Mountain pass, Climax, Crest, (kokuji)"
+    },
+    {
+        "kanji": "峡",
+        "arti": "Gorge, Ravine"
+    },
+    {
+        "kanji": "峰",
+        "arti": "Summit, Peak"
+    },
+    {
+        "kanji": "峻",
+        "arti": "Tinggi, Steep"
+    },
+    {
+        "kanji": "崇",
+        "arti": "Adore, Respect, Revere, Worship"
+    },
+    {
+        "kanji": "崎",
+        "arti": "Promontory, Cape, Spit"
+    },
+    {
+        "kanji": "崚",
+        "arti": "Mountains towering in a row"
+    },
+    {
+        "kanji": "崩",
+        "arti": "Crumble, Meninggal, Demolish, Level"
+    },
+    {
+        "kanji": "嵐",
+        "arti": "Storm, Tempest"
+    },
+    {
+        "kanji": "嵩",
+        "arti": "Be aggravated, Grow worse, Grow bulky, Swell"
+    },
+    {
+        "kanji": "嵯",
+        "arti": "Steep, Craggy, Rugged"
+    },
+    {
+        "kanji": "嶺",
+        "arti": "Peak, Summit"
+    },
+    {
+        "kanji": "巌",
+        "arti": "Rock, Crag, Boulder"
+    },
+    {
+        "kanji": "巡",
+        "arti": "Patrol, Go around, Circumference"
+    },
+    {
+        "kanji": "巣",
+        "arti": "Nest, Rookery, Hive, Cobweb, Den"
+    },
+    {
+        "kanji": "巧",
+        "arti": "Adroit, Skilled, Ingenuity"
+    },
+    {
+        "kanji": "己",
+        "arti": "Self"
+    },
+    {
+        "kanji": "巳",
+        "arti": "Shio snake or serpent, 9-11am, Sixth sign of chinese zodiac"
+    },
+    {
+        "kanji": "巴",
+        "arti": "Comma-design"
+    },
+    {
+        "kanji": "巽",
+        "arti": "Southeast"
+    },
+    {
+        "kanji": "帆",
+        "arti": "Sail"
+    },
+    {
+        "kanji": "帝",
+        "arti": "Sovereign, The emperor, God, Creator"
+    },
+    {
+        "kanji": "帥",
+        "arti": "Commander, Leading troops, Governor"
+    },
+    {
+        "kanji": "帳",
+        "arti": "Notebook, Account book, Album, Curtain, Veil, Net, Tent"
+    },
+    {
+        "kanji": "幕",
+        "arti": "Curtain, Bunting, Act of play"
+    },
+    {
+        "kanji": "幣",
+        "arti": "Cash, Bad habit, Humble prefix, Gift, Shinto offerings of cloth, Rope, Cut paper"
+    },
+    {
+        "kanji": "幹",
+        "arti": "Tree trunk, Main part, Talent, Capability"
+    },
+    {
+        "kanji": "幻",
+        "arti": "Phantasm, Vision, Dream, Illusion, Apparition"
+    },
+    {
+        "kanji": "幽",
+        "arti": "Seclude, Confine to a room, Deep, Profound, Secluded, Faint, Dark, Tranquil, Calm"
+    },
+    {
+        "kanji": "庄",
+        "arti": "Level, In the country, Manor, Village, Hamlet"
+    },
+    {
+        "kanji": "序",
+        "arti": "Preface, Beginning, Order, Precedence, Occasion, Chance, Incidentally"
+    },
+    {
+        "kanji": "庶",
+        "arti": "Commoner, All, Bastard"
+    },
+    {
+        "kanji": "康",
+        "arti": "Ease, Peace"
+    },
+    {
+        "kanji": "庸",
+        "arti": "Commonplace, Ordinary, Employment"
+    },
+    {
+        "kanji": "廃",
+        "arti": "Abolish, Obsolete, Cessation, Discarding, Abandon"
+    },
+    {
+        "kanji": "廉",
+        "arti": "Bargain, Reason, Charge, Suspicion, Point, Account, Purity, Honest, Low price, Cheap, Rested, Contented, Peaceful"
+    },
+    {
+        "kanji": "廊",
+        "arti": "Corridor, Hall, Tower"
+    },
+    {
+        "kanji": "廷",
+        "arti": "Courts, Imperial court, Government office"
+    },
+    {
+        "kanji": "弁",
+        "arti": "Valve, Petal, Braid, Speech, Dialect, Discrimination, Dispose of, Distinguish, Conical cap"
+    },
+    {
+        "kanji": "弊",
+        "arti": "Abuse, Evil, Vice, Breakage"
+    },
+    {
+        "kanji": "弐",
+        "arti": "Ii, Dua, Second"
+    },
+    {
+        "kanji": "弓",
+        "arti": "Bow, Bow (archery, violin)"
+    },
+    {
+        "kanji": "弔",
+        "arti": "Condolences, Mourning, Funeral"
+    },
+    {
+        "kanji": "弘",
+        "arti": "Vast, Broad, Wide"
+    },
+    {
+        "kanji": "弥",
+        "arti": "All the more, Increasingly"
+    },
+    {
+        "kanji": "弦",
+        "arti": "Bowstring, Chord, Hypotenuse"
+    },
+    {
+        "kanji": "弧",
+        "arti": "Arc, Arch, Bow"
+    },
+    {
+        "kanji": "張",
+        "arti": "Kata bantu hitung untuk bows & stringed instruments, Stretch, Spread, Put up (tent)"
+    },
+    {
+        "kanji": "弾",
+        "arti": "Bullet, Twang, Flip, Snap"
+    },
+    {
+        "kanji": "彗",
+        "arti": "Comet, Broom"
+    },
+    {
+        "kanji": "彦",
+        "arti": "Lad, Anak laki-laki, Fine young man"
+    },
+    {
+        "kanji": "彩",
+        "arti": "Coloring, Paint, Makeup"
+    },
+    {
+        "kanji": "彪",
+        "arti": "Spotted, Mottled, Patterned, Small tiger"
+    },
+    {
+        "kanji": "彫",
+        "arti": "Carve, Engrave, Chisel"
+    },
+    {
+        "kanji": "彬",
+        "arti": "Refined, Gentle"
+    },
+    {
+        "kanji": "彰",
+        "arti": "Patent, Clear"
+    },
+    {
+        "kanji": "影",
+        "arti": "Shadow, Silhouette, Phantom"
+    },
+    {
+        "kanji": "往",
+        "arti": "Journey, Travel, Chase away, Let go, Going, Sebelum, Formerly"
+    },
+    {
+        "kanji": "征",
+        "arti": "Subjugate, Attack the rebellious, Collect taxes"
+    },
+    {
+        "kanji": "径",
+        "arti": "Diameter, Path, Method"
+    },
+    {
+        "kanji": "徐",
+        "arti": "Gradually, Slowly, Deliberately, Gently"
+    },
+    {
+        "kanji": "従",
+        "arti": "Accompany, Obey, Submit to, Comply, Follow, Secondary, Incidental, Subordinate"
+    },
+    {
+        "kanji": "循",
+        "arti": "Sequential, Follow"
+    },
+    {
+        "kanji": "微",
+        "arti": "Delicate, Minuteness, Insignificance"
+    },
+    {
+        "kanji": "徳",
+        "arti": "Benevolence, Virtue, Goodness, Commanding respect"
+    },
+    {
+        "kanji": "徴",
+        "arti": "Indications, Sign, Omen, Symptom, Collect, Seek, Refer to, Question"
+    },
+    {
+        "kanji": "徹",
+        "arti": "Penetrate, Clear, Pierce, Strike home, Sit up (all night)"
+    },
+    {
+        "kanji": "忌",
+        "arti": "Mourning, Abhor, Detestable, Death anniversary"
+    },
+    {
+        "kanji": "忍",
+        "arti": "Endure, Bear, Put up with, Conceal, Secrete, Spy, Sneak"
+    },
+    {
+        "kanji": "志",
+        "arti": "Intention, Plan, Resolve, Aspire, Motive, Hopes, Shilling"
+    },
+    {
+        "kanji": "応",
+        "arti": "Apply, Answer, Yes, Ok, Reply, Accept"
+    },
+    {
+        "kanji": "忠",
+        "arti": "Loyalty, Fidelity, Faithfulness"
+    },
+    {
+        "kanji": "怜",
+        "arti": "Wise"
+    },
+    {
+        "kanji": "怠",
+        "arti": "Neglect, Laziness"
+    },
+    {
+        "kanji": "怪",
+        "arti": "Suspicious, Mystery, Apparition"
+    },
+    {
+        "kanji": "恒",
+        "arti": "Constancy, Always"
+    },
+    {
+        "kanji": "恕",
+        "arti": "Excuse, Tolerate, Forgive"
+    },
+    {
+        "kanji": "恨",
+        "arti": "Regret, Bear a grudge, Resentment, Malice, Hatred"
+    },
+    {
+        "kanji": "恩",
+        "arti": "Grace, Kindness, Goodness, Favor, Mercy, Blessing, Benefit"
+    },
+    {
+        "kanji": "恭",
+        "arti": "Respect, Reverent"
+    },
+    {
+        "kanji": "恵",
+        "arti": "Favor, Blessing, Grace, Kindness"
+    },
+    {
+        "kanji": "悌",
+        "arti": "Serving our elders"
+    },
+    {
+        "kanji": "悔",
+        "arti": "Repent, Regret"
+    },
+    {
+        "kanji": "悟",
+        "arti": "Enlightenment, Perceive, Discern, Realize, Memahami"
+    },
+    {
+        "kanji": "悠",
+        "arti": "Permanence, Distant, Long time, Leisure"
+    },
+    {
+        "kanji": "悦",
+        "arti": "Ecstasy, Joy, Rapture"
+    },
+    {
+        "kanji": "悼",
+        "arti": "Lament, Grieve over"
+    },
+    {
+        "kanji": "惇",
+        "arti": "Sincere, Kind, Considerate"
+    },
+    {
+        "kanji": "惑",
+        "arti": "Beguile, Delusion, Perplexity"
+    },
+    {
+        "kanji": "惜",
+        "arti": "Pity, Be sparing of, Frugal, Stingy, Regret"
+    },
+    {
+        "kanji": "惟",
+        "arti": "Consider, Reflect, Berpikir"
+    },
+    {
+        "kanji": "惣",
+        "arti": "All"
+    },
+    {
+        "kanji": "惨",
+        "arti": "Wretched, Disaster, Cruelty, Harsh"
+    },
+    {
+        "kanji": "惰",
+        "arti": "Lazy, Laziness"
+    },
+    {
+        "kanji": "愁",
+        "arti": "Distress, Grieve, Lament, Be anxious"
+    },
+    {
+        "kanji": "愉",
+        "arti": "Pleasure, Happy, Rejoice"
+    },
+    {
+        "kanji": "愚",
+        "arti": "Foolish, Folly, Absurdity, Stupid"
+    },
+    {
+        "kanji": "慈",
+        "arti": "Mercy"
+    },
+    {
+        "kanji": "態",
+        "arti": "Attitude, Condition, Figure, Appearance, Voice (of verbs)"
+    },
+    {
+        "kanji": "慎",
+        "arti": "Humility, Be careful, Discreet, Prudent"
+    },
+    {
+        "kanji": "慕",
+        "arti": "Pining, Yearn for, Love dearly, Adore"
+    },
+    {
+        "kanji": "慢",
+        "arti": "Ridicule, Laziness"
+    },
+    {
+        "kanji": "慧",
+        "arti": "Wise"
+    },
+    {
+        "kanji": "慨",
+        "arti": "Rue, Be sad, Sigh, Lament"
+    },
+    {
+        "kanji": "慮",
+        "arti": "Prudence, Thought, Concern, Consider, Deliberate, Fear"
+    },
+    {
+        "kanji": "慰",
+        "arti": "Consolation, Amusement, Seduce, Cheer, Make sport of, Comfort, Console"
+    },
+    {
+        "kanji": "慶",
+        "arti": "Jubilation, Congratulate, Rejoice, Be happy"
+    },
+    {
+        "kanji": "憂",
+        "arti": "Melancholy, Grieve, Lament, Be anxious, Sad, Unhappy"
+    },
+    {
+        "kanji": "憤",
+        "arti": "Aroused, Resent, Be indignant, Anger"
+    },
+    {
+        "kanji": "憧",
+        "arti": "Yearn after, Long for, Aspire to, Admire, Adore"
+    },
+    {
+        "kanji": "憩",
+        "arti": "Recess, Rest, Relax, Repose"
+    },
+    {
+        "kanji": "憲",
+        "arti": "Constitution, Law"
+    },
+    {
+        "kanji": "憶",
+        "arti": "Recollection, Berpikir, Remember"
+    },
+    {
+        "kanji": "憾",
+        "arti": "Remorse, Regret, Be sorry"
+    },
+    {
+        "kanji": "懇",
+        "arti": "Sociable, Kind, Courteous, Hospitable, Cordial"
+    },
+    {
+        "kanji": "懐",
+        "arti": "Feelings, Hati, Yearn, Miss someone, Become attached to, Bosom, Breast, Pocket"
+    },
+    {
+        "kanji": "懲",
+        "arti": "Penal, Chastise, Punish, Discipline"
+    },
+    {
+        "kanji": "懸",
+        "arti": "State of suspension, Hang, Depend, Consult, Distant, Far apart"
+    },
+    {
+        "kanji": "我",
+        "arti": "Ego, I, Selfish, Our, Oneself"
+    },
+    {
+        "kanji": "戒",
+        "arti": "Commandment"
+    },
+    {
+        "kanji": "戯",
+        "arti": "Frolic, Play, Sport"
+    },
+    {
+        "kanji": "房",
+        "arti": "Tassel, Tuft, Fringe, Bunch, Lock (hair), Segment (orange), Rumah, Kamar"
+    },
+    {
+        "kanji": "扇",
+        "arti": "Fan, Folding fan"
+    },
+    {
+        "kanji": "扉",
+        "arti": "Front door, Title page, Front page"
+    },
+    {
+        "kanji": "扱",
+        "arti": "Handle, Entertain, Thresh, Strip"
+    },
+    {
+        "kanji": "扶",
+        "arti": "Aid, Help, Assist"
+    },
+    {
+        "kanji": "批",
+        "arti": "Criticism, Strike"
+    },
+    {
+        "kanji": "抄",
+        "arti": "Extract, Selection, Summary, Copy, Spread thin"
+    },
+    {
+        "kanji": "把",
+        "arti": "Grasp, Faggot, Bunch, Kata bantu hitung untuk bundles"
+    },
+    {
+        "kanji": "抑",
+        "arti": "Repress, Well, Now, In the first place, Push, Shove, Press, Seal, Do in spite of"
+    },
+    {
+        "kanji": "抗",
+        "arti": "Confront, Resist, Defy, Oppose"
+    },
+    {
+        "kanji": "択",
+        "arti": "Choose, Select, Elect, Prefer"
+    },
+    {
+        "kanji": "披",
+        "arti": "Expose, Membuka"
+    },
+    {
+        "kanji": "抵",
+        "arti": "Resist, Reach, Touch"
+    },
+    {
+        "kanji": "抹",
+        "arti": "Rub, Paint, Erase"
+    },
+    {
+        "kanji": "抽",
+        "arti": "Pluck, Pull, Extract, Excel"
+    },
+    {
+        "kanji": "拍",
+        "arti": "Clap, Beat (music)"
+    },
+    {
+        "kanji": "拐",
+        "arti": "Kidnap, Falsify"
+    },
+    {
+        "kanji": "拒",
+        "arti": "Repel, Refuse, Reject, Decline"
+    },
+    {
+        "kanji": "拓",
+        "arti": "Clear (the land), Membuka, Break up (land)"
+    },
+    {
+        "kanji": "拘",
+        "arti": "Arrest, Seize, Concerned, Adhere to, Despite"
+    },
+    {
+        "kanji": "拙",
+        "arti": "Bungling, Clumsy, Unskillful"
+    },
+    {
+        "kanji": "拠",
+        "arti": "Foothold, Based on, Follow, Therefore"
+    },
+    {
+        "kanji": "拡",
+        "arti": "Broaden, Extend, Expand, Enlarge"
+    },
+    {
+        "kanji": "括",
+        "arti": "Fasten, Tie up, Arrest, Constrict"
+    },
+    {
+        "kanji": "拳",
+        "arti": "Fist"
+    },
+    {
+        "kanji": "拷",
+        "arti": "Torture, Beat"
+    },
+    {
+        "kanji": "挑",
+        "arti": "Challenge, Contend for, Make love to"
+    },
+    {
+        "kanji": "挙",
+        "arti": "Raise, Plan, Project, Behavior, Actions"
+    },
+    {
+        "kanji": "振",
+        "arti": "Shake, Wave, Wag, Swing"
+    },
+    {
+        "kanji": "挿",
+        "arti": "Insert, Put in, Graft, Wear (sword)"
+    },
+    {
+        "kanji": "据",
+        "arti": "Set, Lay a foundation, Install, Equip, Squat down, Sit down"
+    },
+    {
+        "kanji": "捷",
+        "arti": "Victory, Fast"
+    },
+    {
+        "kanji": "捺",
+        "arti": "Press, Print, Affix a seal, Stamp"
+    },
+    {
+        "kanji": "授",
+        "arti": "Impart, Instruct, Grant, Confer"
+    },
+    {
+        "kanji": "掌",
+        "arti": "Palm of hand, Rule, Administer, Conduct"
+    },
+    {
+        "kanji": "排",
+        "arti": "Repudiate, Exclude, Expel, Reject, Line up, Arrange"
+    },
+    {
+        "kanji": "控",
+        "arti": "Withdraw, Draw in, Hold back, Refrain from, Be moderate"
+    },
+    {
+        "kanji": "推",
+        "arti": "Conjecture, Infer, Guess, Suppose, Support, Push (for)"
+    },
+    {
+        "kanji": "措",
+        "arti": "Set aside, Give up, Suspend, Discontinue, Lay aside, Except"
+    },
+    {
+        "kanji": "掲",
+        "arti": "Put up (a notice), Put up, Hoist, Display, Hang out, Publish, Describe"
+    },
+    {
+        "kanji": "描",
+        "arti": "Sketch, Compose, Menulis, Draw, Paint"
+    },
+    {
+        "kanji": "提",
+        "arti": "Propose, Take along, Carry in hand"
+    },
+    {
+        "kanji": "揚",
+        "arti": "Raise, Elevate, Hoist, Praise, Extol, Fry in deep fat"
+    },
+    {
+        "kanji": "握",
+        "arti": "Grip, Hold, Mould sushi, Bribe"
+    },
+    {
+        "kanji": "揮",
+        "arti": "Brandish, Wave, Wag, Swing, Shake"
+    },
+    {
+        "kanji": "援",
+        "arti": "Abet, Help, Save"
+    },
+    {
+        "kanji": "揺",
+        "arti": "Swing, Shake, Sway, Rock, Tremble, Vibrate"
+    },
+    {
+        "kanji": "搬",
+        "arti": "Conveyor, Carry, Transport"
+    },
+    {
+        "kanji": "搭",
+        "arti": "Board, Load (a vehicle), Ride"
+    },
+    {
+        "kanji": "携",
+        "arti": "Portable, Carry (in hand), Armed with, Bring along"
+    },
+    {
+        "kanji": "搾",
+        "arti": "Squeeze"
+    },
+    {
+        "kanji": "摂",
+        "arti": "Vicarious, Surrogate, Act in addition to, Take in, Absorb"
+    },
+    {
+        "kanji": "摘",
+        "arti": "Pinch, Pick, Pluck, Trim, Clip, Summarize"
+    },
+    {
+        "kanji": "摩",
+        "arti": "Chafe, Rub, Polish, Grind, Scrape"
+    },
+    {
+        "kanji": "撃",
+        "arti": "Beat, Attack, Defeat, Conquer"
+    },
+    {
+        "kanji": "撤",
+        "arti": "Remove, Withdraw, Disarm, Dismantle, Reject, Exclude"
+    },
+    {
+        "kanji": "撮",
+        "arti": "Snapshot, Take pictures"
+    },
+    {
+        "kanji": "撲",
+        "arti": "Slap, Strike, Hit, Beat, Tell, Berbicara"
+    },
+    {
+        "kanji": "擁",
+        "arti": "Hug, Embrace, Possess, Protect, Lead"
+    },
+    {
+        "kanji": "操",
+        "arti": "Maneuver, Manipulate, Operate, Steer, Chastity, Virginity, Fidelity"
+    },
+    {
+        "kanji": "擦",
+        "arti": "Grate, Rub, Scratch, Scrape, Chafe, Scour"
+    },
+    {
+        "kanji": "擬",
+        "arti": "Mimic, Aim (a gun) at, Nominate, Imitate"
+    },
+    {
+        "kanji": "攻",
+        "arti": "Aggression, Attack, Criticize, Polish"
+    },
+    {
+        "kanji": "故",
+        "arti": "Happenstance, Especially, Intentionally, Reason, Cause, Circumstances, The late, Therefore, Consequently"
+    },
+    {
+        "kanji": "敏",
+        "arti": "Cleverness, Agile, Alert"
+    },
+    {
+        "kanji": "救",
+        "arti": "Salvation, Save, Help, Rescue, Reclaim"
+    },
+    {
+        "kanji": "敢",
+        "arti": "Daring, Brave, Bold, Sad, Tragic, Pitiful"
+    },
+    {
+        "kanji": "敦",
+        "arti": "Industry, Kindliness"
+    },
+    {
+        "kanji": "整",
+        "arti": "Organize, Arranging, Tune, Tone, Meter, Key (music)"
+    },
+    {
+        "kanji": "敵",
+        "arti": "Enemy, Foe, Opponent"
+    },
+    {
+        "kanji": "敷",
+        "arti": "Spread, Pave, Sit, Promulgate"
+    },
+    {
+        "kanji": "斉",
+        "arti": "Adjusted, Alike, Equal, Similar variety of"
+    },
+    {
+        "kanji": "斎",
+        "arti": "Purification, Buddhist food, Kamar, Worship, Avoid, Alike"
+    },
+    {
+        "kanji": "斐",
+        "arti": "Beautiful, Patterned"
+    },
+    {
+        "kanji": "斗",
+        "arti": "Big dipper, Ten sho (vol), Sake dipper, Dots and cross radikal (no. 68)"
+    },
+    {
+        "kanji": "斜",
+        "arti": "Diagonal, Slanting, Oblique"
+    },
+    {
+        "kanji": "斤",
+        "arti": "Axe, 1.32 lb, Catty, Kata bantu hitung untuk loaves of bread, Axe radikal (no. 69)"
+    },
+    {
+        "kanji": "斥",
+        "arti": "Reject, Retreat, Recede, Withdraw, Repel, Repulse"
+    },
+    {
+        "kanji": "於",
+        "arti": "At, In, On, As for"
+    },
+    {
+        "kanji": "施",
+        "arti": "Memberi, Bestow, Perform, Alms"
+    },
+    {
+        "kanji": "旋",
+        "arti": "Rotation, Go around"
+    },
+    {
+        "kanji": "旗",
+        "arti": "Flag, Banner, Standard"
+    },
+    {
+        "kanji": "既",
+        "arti": "Previously, Already, Long ago"
+    },
+    {
+        "kanji": "旦",
+        "arti": "Daybreak, Dawn, Pagi"
+    },
+    {
+        "kanji": "旨",
+        "arti": "Delicious, Relish, Show a liking for, Purport, Will, Clever, Expert"
+    },
+    {
+        "kanji": "旬",
+        "arti": "Decameron, Ten-day period, Season (for specific products)"
+    },
+    {
+        "kanji": "旭",
+        "arti": "Rising sun, Morning sun"
+    },
+    {
+        "kanji": "旺",
+        "arti": "Flourishing, Successful, Beautiful, Vigorous"
+    },
+    {
+        "kanji": "昂",
+        "arti": "Rise"
+    },
+    {
+        "kanji": "昆",
+        "arti": "Descendants, Elder brother, Insect"
+    },
+    {
+        "kanji": "昌",
+        "arti": "Prosperous, Bright, Clear"
+    },
+    {
+        "kanji": "昭",
+        "arti": "Shining, Bright"
+    },
+    {
+        "kanji": "是",
+        "arti": "Just so, This, Kanan, Justice"
+    },
+    {
+        "kanji": "昴",
+        "arti": "The pleiades"
+    },
+    {
+        "kanji": "晃",
+        "arti": "Clear"
+    },
+    {
+        "kanji": "晋",
+        "arti": "Advance"
+    },
+    {
+        "kanji": "晏",
+        "arti": "Late, Quiet, Sets (sun)"
+    },
+    {
+        "kanji": "晟",
+        "arti": "Clear"
+    },
+    {
+        "kanji": "晨",
+        "arti": "Pagi, Early"
+    },
+    {
+        "kanji": "晶",
+        "arti": "Sparkle, Clear, Crystal"
+    },
+    {
+        "kanji": "智",
+        "arti": "Wisdom, Intellect, Reason"
+    },
+    {
+        "kanji": "暁",
+        "arti": "Daybreak, Dawn, In the event"
+    },
+    {
+        "kanji": "暇",
+        "arti": "Spare time, Rest, Leisure, Waktu, Leave of absence"
+    },
+    {
+        "kanji": "暉",
+        "arti": "Shine, Light"
+    },
+    {
+        "kanji": "暑",
+        "arti": "Sultry, Hot, Summer heat"
+    },
+    {
+        "kanji": "暖",
+        "arti": "Warmth"
+    },
+    {
+        "kanji": "暢",
+        "arti": "Stretch"
+    },
+    {
+        "kanji": "暦",
+        "arti": "Calendar, Almanac"
+    },
+    {
+        "kanji": "暫",
+        "arti": "Temporarily, A while, Moment, Long time"
+    },
+    {
+        "kanji": "曙",
+        "arti": "Dawn, Daybreak"
+    },
+    {
+        "kanji": "曹",
+        "arti": "Office, Official, Comrade, Fellow"
+    },
+    {
+        "kanji": "朋",
+        "arti": "Companion, Teman"
+    },
+    {
+        "kanji": "朔",
+        "arti": "Conjunction (astronomy), First day of month, North"
+    },
+    {
+        "kanji": "朕",
+        "arti": "Majestic plural, Imperial we"
+    },
+    {
+        "kanji": "朗",
+        "arti": "Melodious, Clear, Bright, Serene, Cheerful"
+    },
+    {
+        "kanji": "朱",
+        "arti": "Vermilion, Cinnabar, Scarlet, Merah, Bloody"
+    },
+    {
+        "kanji": "朴",
+        "arti": "Crude, Simple, Plain, Docile"
+    },
+    {
+        "kanji": "朽",
+        "arti": "Decay, Rot, Remain in seclusion"
+    },
+    {
+        "kanji": "杉",
+        "arti": "Cedar, Cryptomeria"
+    },
+    {
+        "kanji": "李",
+        "arti": "Plum"
+    },
+    {
+        "kanji": "杏",
+        "arti": "Apricot"
+    },
+    {
+        "kanji": "杜",
+        "arti": "Woods, Grove"
+    },
+    {
+        "kanji": "条",
+        "arti": "Article, Clause, Kata bantu hitung untuk articles, clauses, paragraphs, etc., Twig, Item, Stripe, Streak"
+    },
+    {
+        "kanji": "松",
+        "arti": "Pine tree"
+    },
+    {
+        "kanji": "析",
+        "arti": "Chop, Divide, Tear, Analyze"
+    },
+    {
+        "kanji": "枠",
+        "arti": "Frame, Framework, Spindle, Spool, Bounding-box, (kokuji)"
+    },
+    {
+        "kanji": "枢",
+        "arti": "Hinge, Pivot, Pintu, Center of things"
+    },
+    {
+        "kanji": "架",
+        "arti": "Erect, Frame, Mount, Support, Shelf, Construct"
+    },
+    {
+        "kanji": "柄",
+        "arti": "Design, Pattern, Build, Nature, Character, Handle, Crank, Grip, Knob, Shaft"
+    },
+    {
+        "kanji": "柊",
+        "arti": "Holly"
+    },
+    {
+        "kanji": "某",
+        "arti": "So-and-so, Satu, A certain, That person"
+    },
+    {
+        "kanji": "染",
+        "arti": "Dye, Color, Paint, Stain, Print"
+    },
+    {
+        "kanji": "柚",
+        "arti": "Citron"
+    },
+    {
+        "kanji": "柳",
+        "arti": "Willow"
+    },
+    {
+        "kanji": "柾",
+        "arti": "Straight grain, Spindle tree, (kokuji)"
+    },
+    {
+        "kanji": "栓",
+        "arti": "Plug, Bolt, Cork, Bung, Stopper"
+    },
+    {
+        "kanji": "栗",
+        "arti": "Chestnut"
+    },
+    {
+        "kanji": "栞",
+        "arti": "Bookmark, Guidebook"
+    },
+    {
+        "kanji": "株",
+        "arti": "Stocks, Stump, Shares, Stock, Kata bantu hitung untuk small plants"
+    },
+    {
+        "kanji": "核",
+        "arti": "Nucleus, Core, Kernel"
+    },
+    {
+        "kanji": "栽",
+        "arti": "Plantation, Planting"
+    },
+    {
+        "kanji": "桂",
+        "arti": "Japanese judas-tree, Cinnamon tree"
+    },
+    {
+        "kanji": "桃",
+        "arti": "Peach"
+    },
+    {
+        "kanji": "案",
+        "arti": "Plan, Suggestion, Draft, Ponder, Fear, Proposition, Idea, Expectation, Worry, Table, Bench"
+    },
+    {
+        "kanji": "桐",
+        "arti": "Paulownia"
+    },
+    {
+        "kanji": "桑",
+        "arti": "Mulberry"
+    },
+    {
+        "kanji": "桜",
+        "arti": "Cherry"
+    },
+    {
+        "kanji": "桟",
+        "arti": "Scaffold, Cleat, Frame, Jetty, Bolt (door)"
+    },
+    {
+        "kanji": "梅",
+        "arti": "Plum"
+    },
+    {
+        "kanji": "梓",
+        "arti": "Catalpa tree, Woodblock printing"
+    },
+    {
+        "kanji": "梢",
+        "arti": "Treetops, Twig"
+    },
+    {
+        "kanji": "梧",
+        "arti": "Chinese parasol tree, Phoenix tree"
+    },
+    {
+        "kanji": "梨",
+        "arti": "Pear tree"
+    },
+    {
+        "kanji": "棄",
+        "arti": "Abandon, Throw away, Discard, Resign, Reject, Sacrifice"
+    },
+    {
+        "kanji": "棋",
+        "arti": "Chess piece, Japanese chess, Shogi"
+    },
+    {
+        "kanji": "棚",
+        "arti": "Shelf, Ledge, Rack, Mount, Mantle, Trellis"
+    },
+    {
+        "kanji": "棟",
+        "arti": "Ridgepole, Ridge"
+    },
+    {
+        "kanji": "棺",
+        "arti": "Coffin, Casket"
+    },
+    {
+        "kanji": "椋",
+        "arti": "Type of deciduous tree, Grey starling"
+    },
+    {
+        "kanji": "椎",
+        "arti": "Chinquapin, Mallet, Spine"
+    },
+    {
+        "kanji": "検",
+        "arti": "Examination, Investigate"
+    },
+    {
+        "kanji": "椰",
+        "arti": "Coconut tree"
+    },
+    {
+        "kanji": "椿",
+        "arti": "Camellia"
+    },
+    {
+        "kanji": "楊",
+        "arti": "Willow"
+    },
+    {
+        "kanji": "楓",
+        "arti": "Maple"
+    },
+    {
+        "kanji": "楠",
+        "arti": "Camphor tree"
+    },
+    {
+        "kanji": "楼",
+        "arti": "Watchtower, Lookout, High building"
+    },
+    {
+        "kanji": "概",
+        "arti": "Outline, Condition, Approximation, Generally"
+    },
+    {
+        "kanji": "榛",
+        "arti": "Hazelnut, Filbert"
+    },
+    {
+        "kanji": "槙",
+        "arti": "Twig, Ornamental evergreen"
+    },
+    {
+        "kanji": "槻",
+        "arti": "Zelkova tree"
+    },
+    {
+        "kanji": "槽",
+        "arti": "Vat, Tub, Tank"
+    },
+    {
+        "kanji": "標",
+        "arti": "Signpost, Seal, Mark, Stamp, Imprint, Symbol, Emblem, Trademark, Evidence, Souvenir, Target"
+    },
+    {
+        "kanji": "模",
+        "arti": "Imitation, Copy, Mock"
+    },
+    {
+        "kanji": "樹",
+        "arti": "Timber, Trees, Kayu, Establish, Set up"
+    },
+    {
+        "kanji": "樺",
+        "arti": "Birch, Dark red"
+    },
+    {
+        "kanji": "橘",
+        "arti": "Mandarin orange"
+    },
+    {
+        "kanji": "檀",
+        "arti": "Cedar, Sandalwood, Spindle tree"
+    },
+    {
+        "kanji": "欄",
+        "arti": "Column, Handrail, Blank, Space"
+    },
+    {
+        "kanji": "欣",
+        "arti": "Take pleasure in, Rejoice"
+    },
+    {
+        "kanji": "欺",
+        "arti": "Deceit, Cheat, Delude"
+    },
+    {
+        "kanji": "欽",
+        "arti": "Respect, Revere, Long for"
+    },
+    {
+        "kanji": "款",
+        "arti": "Goodwill, Article, Section, Friendship, Collusion"
+    },
+    {
+        "kanji": "歓",
+        "arti": "Delight, Joy"
+    },
+    {
+        "kanji": "殉",
+        "arti": "Martyrdom, Follow by resigning"
+    },
+    {
+        "kanji": "殊",
+        "arti": "Particularly, Especially, Exceptionally"
+    },
+    {
+        "kanji": "殖",
+        "arti": "Augment, Increase, Multiply, Raise"
+    },
+    {
+        "kanji": "殴",
+        "arti": "Assault, Hit, Beat, Thrash"
+    },
+    {
+        "kanji": "殻",
+        "arti": "Husk, Nut shell"
+    },
+    {
+        "kanji": "毅",
+        "arti": "Strong"
+    },
+    {
+        "kanji": "毬",
+        "arti": "Burr, Ball"
+    },
+    {
+        "kanji": "氏",
+        "arti": "Family name, Surname, Clan"
+    },
+    {
+        "kanji": "汁",
+        "arti": "Soup, Juice, Broth, Sap, Gravy, Pus"
+    },
+    {
+        "kanji": "汐",
+        "arti": "Eventide, Tide, Salt water, Opportunity"
+    },
+    {
+        "kanji": "江",
+        "arti": "Creek, Inlet, Bay"
+    },
+    {
+        "kanji": "汰",
+        "arti": "Washing, Sieving, Filtering, Weeding out, Luxury"
+    },
+    {
+        "kanji": "汽",
+        "arti": "Vapor, Steam"
+    },
+    {
+        "kanji": "沖",
+        "arti": "Open sea, Offing, Rise high into sky"
+    },
+    {
+        "kanji": "沙",
+        "arti": "Sand"
+    },
+    {
+        "kanji": "没",
+        "arti": "Drown, Sink, Hide, Fall into, Disappear, Meninggal"
+    },
+    {
+        "kanji": "沢",
+        "arti": "Swamp, Marsh, Brilliance, Grace"
+    },
+    {
+        "kanji": "沼",
+        "arti": "Marsh, Lake, Bog, Swamp, Pond"
+    },
+    {
+        "kanji": "沿",
+        "arti": "Run alongside, Follow along, Run along, Lie along"
+    },
+    {
+        "kanji": "泌",
+        "arti": "Ooze, Flow, Soak in, Penetrate, Secrete"
+    },
+    {
+        "kanji": "泡",
+        "arti": "Bubbles, Foam, Suds, Froth"
+    },
+    {
+        "kanji": "泣",
+        "arti": "Cry, Weep, Moan"
+    },
+    {
+        "kanji": "泰",
+        "arti": "Peaceful, Calm, Peace, Easy, Thailand, Extreme, Excessive, Great"
+    },
+    {
+        "kanji": "洞",
+        "arti": "Den, Cave, Excavation"
+    },
+    {
+        "kanji": "津",
+        "arti": "Haven, Port, Harbor, Ferry"
+    },
+    {
+        "kanji": "洪",
+        "arti": "Deluge, Flood, Vast"
+    },
+    {
+        "kanji": "洲",
+        "arti": "Continent, Sandbar, Island, Negara"
+    },
+    {
+        "kanji": "洵",
+        "arti": "Alike, Truth"
+    },
+    {
+        "kanji": "洸",
+        "arti": "Sparkling water"
+    },
+    {
+        "kanji": "派",
+        "arti": "Faction, Group, Party, Clique, Sect, Sekolah"
+    },
+    {
+        "kanji": "浄",
+        "arti": "Clean, Purify, Cleanse, Exorcise, Manchu dynasty"
+    },
+    {
+        "kanji": "浜",
+        "arti": "Seacoast, Beach, Seashore"
+    },
+    {
+        "kanji": "浦",
+        "arti": "Bay, Creek, Inlet, Gulf, Beach, Seacoast"
+    },
+    {
+        "kanji": "浩",
+        "arti": "Wide expanse, Abundance, Vigorous"
+    },
+    {
+        "kanji": "浪",
+        "arti": "Wandering, Waves, Billows, Reckless, Unrestrained"
+    },
+    {
+        "kanji": "浸",
+        "arti": "Immersed, Soak, Dip, Steep, Moisten, Wet, Dunk"
+    },
+    {
+        "kanji": "涯",
+        "arti": "Horizon, Shore, Limit, Bound"
+    },
+    {
+        "kanji": "淑",
+        "arti": "Graceful, Gentle, Pure"
+    },
+    {
+        "kanji": "淡",
+        "arti": "Thin, Faint, Pale, Fleeting"
+    },
+    {
+        "kanji": "淳",
+        "arti": "Pure"
+    },
+    {
+        "kanji": "添",
+        "arti": "Annexed, Accompany, Marry, Suit, Bertemu, Satisfy, Attach, Append, Garnish, Imitate"
+    },
+    {
+        "kanji": "渇",
+        "arti": "Thirst, Dry up, Parch"
+    },
+    {
+        "kanji": "渉",
+        "arti": "Ford, Go cross, Transit, Ferry, Import, Involve"
+    },
+    {
+        "kanji": "渋",
+        "arti": "Astringent, Hesitate, Reluctant, Have diarrhea"
+    },
+    {
+        "kanji": "渓",
+        "arti": "Mountain stream, Valley"
+    },
+    {
+        "kanji": "渚",
+        "arti": "Strand, Beach, Shore"
+    },
+    {
+        "kanji": "渥",
+        "arti": "Kindness, Moisten"
+    },
+    {
+        "kanji": "渦",
+        "arti": "Whirlpool, Eddy, Vortex"
+    },
+    {
+        "kanji": "湧",
+        "arti": "Boil, Ferment, Seethe, Uproar, Breed"
+    },
+    {
+        "kanji": "源",
+        "arti": "Source, Origin"
+    },
+    {
+        "kanji": "溝",
+        "arti": "Gutter, Ditch, Sewer, Drain, 10**32"
+    },
+    {
+        "kanji": "滅",
+        "arti": "Destroy, Ruin, Overthrow, Perish"
+    },
+    {
+        "kanji": "滉",
+        "arti": "Deep and broad (water)"
+    },
+    {
+        "kanji": "滋",
+        "arti": "Nourishing, More & more, Be luxuriant, Planting, Turbidity"
+    },
+    {
+        "kanji": "滑",
+        "arti": "Slippery, Slide, Slip, Fail exam"
+    },
+    {
+        "kanji": "滝",
+        "arti": "Waterfall, Rapids, Cascade"
+    },
+    {
+        "kanji": "滞",
+        "arti": "Stagnate, Be delayed, Overdue, Arrears"
+    },
+    {
+        "kanji": "漂",
+        "arti": "Drift, Float (on liquid)"
+    },
+    {
+        "kanji": "漆",
+        "arti": "Lacquer, Varnish, Tujuh"
+    },
+    {
+        "kanji": "漏",
+        "arti": "Leak, Escape, Waktu"
+    },
+    {
+        "kanji": "漠",
+        "arti": "Vague, Obscure, Desert, Wide"
+    },
+    {
+        "kanji": "漫",
+        "arti": "Cartoon, Involuntarily, Unrestrained, In spite of oneself, Corrupt"
+    },
+    {
+        "kanji": "漬",
+        "arti": "Pickling, Soak, Moisten, Steep"
+    },
+    {
+        "kanji": "漱",
+        "arti": "Gargle, Rinse mouth"
+    },
+    {
+        "kanji": "漸",
+        "arti": "Steadily, Gradually advancing, Finally, Barely"
+    },
+    {
+        "kanji": "潔",
+        "arti": "Undefiled, Pure, Clean, Righteous, Gallant"
+    },
+    {
+        "kanji": "潜",
+        "arti": "Submerge, Conceal, Hide, Lower (voice), Hush"
+    },
+    {
+        "kanji": "潟",
+        "arti": "Lagoon"
+    },
+    {
+        "kanji": "潤",
+        "arti": "Wet, Be watered, Profit by, Receive benefits, Favor, Charm, Steep"
+    },
+    {
+        "kanji": "潮",
+        "arti": "Tide, Salt water, Opportunity"
+    },
+    {
+        "kanji": "澄",
+        "arti": "Lucidity, Be clear, Clear, Clarify, Settle, Strain, Look grave"
+    },
+    {
+        "kanji": "澪",
+        "arti": "Water route, Shipping channel"
+    },
+    {
+        "kanji": "激",
+        "arti": "Violent, Get excited, Enraged, Chafe, Incite"
+    },
+    {
+        "kanji": "濁",
+        "arti": "Voiced, Uncleanness, Wrong, Nigori, Impurity"
+    },
+    {
+        "kanji": "濫",
+        "arti": "Excessive, Overflow, Spread out"
+    },
+    {
+        "kanji": "瀬",
+        "arti": "Rapids, Current, Torrent, Shallows, Shoal"
+    },
+    {
+        "kanji": "災",
+        "arti": "Disaster, Calamity, Woe, Curse, Evil"
+    },
+    {
+        "kanji": "炉",
+        "arti": "Hearth, Furnace, Kiln, Reactor"
+    },
+    {
+        "kanji": "炊",
+        "arti": "Cook, Boil"
+    },
+    {
+        "kanji": "炎",
+        "arti": "Inflammation, Flame, Blaze"
+    },
+    {
+        "kanji": "為",
+        "arti": "Melakukan, Change, Membuat, Benefit, Welfare, Be of use, Reach to, Try, Practice, Cost, Serve as, Baik, Advantage, As a result of"
+    },
+    {
+        "kanji": "烈",
+        "arti": "Ardent, Violent, Vehement, Furious, Severe, Extreme"
+    },
+    {
+        "kanji": "焦",
+        "arti": "Char, Hurry, Impatient, Irritate, Burn, Scorch, Singe"
+    },
+    {
+        "kanji": "煩",
+        "arti": "Anxiety, Trouble, Worry, Pain, Ill, Annoy, Nuisance, Irksome"
+    },
+    {
+        "kanji": "煮",
+        "arti": "Boil, Cook"
+    },
+    {
+        "kanji": "熊",
+        "arti": "Bear"
+    },
+    {
+        "kanji": "熙",
+        "arti": "Bright, Sunny, Prosperous, Merry"
+    },
+    {
+        "kanji": "熟",
+        "arti": "Mellow, Ripen, Mature, Acquire skill"
+    },
+    {
+        "kanji": "燎",
+        "arti": "Burn, Bonfire"
+    },
+    {
+        "kanji": "燦",
+        "arti": "Brilliant"
+    },
+    {
+        "kanji": "燿",
+        "arti": "Shine"
+    },
+    {
+        "kanji": "爵",
+        "arti": "Baron, Peerage, Court rank"
+    },
+    {
+        "kanji": "爽",
+        "arti": "Refreshing, Bracing, Resonant, Sweet, Clear"
+    },
+    {
+        "kanji": "爾",
+        "arti": "You, Thou, Second person"
+    },
+    {
+        "kanji": "牧",
+        "arti": "Breed, Care for, Shepherd, Feed, Pasture"
+    },
+    {
+        "kanji": "牲",
+        "arti": "Animal sacrifice, Offering"
+    },
+    {
+        "kanji": "犠",
+        "arti": "Sacrifice"
+    },
+    {
+        "kanji": "狂",
+        "arti": "Lunatic, Insane, Crazy, Confuse"
+    },
+    {
+        "kanji": "狩",
+        "arti": "Hunt, Raid, Gather"
+    },
+    {
+        "kanji": "独",
+        "arti": "Single, Alone, Spontaneously, Germany"
+    },
+    {
+        "kanji": "狭",
+        "arti": "Cramped, Narrow, Contract, Tight"
+    },
+    {
+        "kanji": "猛",
+        "arti": "Fierce, Rave, Rush, Become furious, Wildness, Strength"
+    },
+    {
+        "kanji": "猟",
+        "arti": "Game-hunting, Shooting, Game, Bag"
+    },
+    {
+        "kanji": "猪",
+        "arti": "Boar"
+    },
+    {
+        "kanji": "献",
+        "arti": "Offering, Kata bantu hitung untuk drinks, Present, Offer"
+    },
+    {
+        "kanji": "猶",
+        "arti": "Lebih lanjut, Still, Yet"
+    },
+    {
+        "kanji": "猿",
+        "arti": "Monkey"
+    },
+    {
+        "kanji": "獄",
+        "arti": "Prison, Jail"
+    },
+    {
+        "kanji": "獣",
+        "arti": "Animal, Beast"
+    },
+    {
+        "kanji": "獲",
+        "arti": "Seize, Get, Find, Earn, Acquire, Can, May, Able to"
+    },
+    {
+        "kanji": "玄",
+        "arti": "Mysterious, Occultness, Hitam, Deep, Profound"
+    },
+    {
+        "kanji": "率",
+        "arti": "Ratio, Rate, Proportion, %, Factor, Lead, Spearhead, Command"
+    },
+    {
+        "kanji": "玖",
+        "arti": "Beautiful black jewel, Sembilan"
+    },
+    {
+        "kanji": "玲",
+        "arti": "Sound of jewels"
+    },
+    {
+        "kanji": "珠",
+        "arti": "Pearl, Gem, Jewel"
+    },
+    {
+        "kanji": "班",
+        "arti": "Squad, Corps, Unit, Group"
+    },
+    {
+        "kanji": "琉",
+        "arti": "Precious stone, Gem, Lapis lazuli"
+    },
+    {
+        "kanji": "琢",
+        "arti": "Polish"
+    },
+    {
+        "kanji": "琳",
+        "arti": "Jewel, Tinkling of jewelry"
+    },
+    {
+        "kanji": "琴",
+        "arti": "Harp, Koto"
+    },
+    {
+        "kanji": "瑚",
+        "arti": "Ancestral offering receptacle, Coral"
+    },
+    {
+        "kanji": "瑛",
+        "arti": "Sparkle of jewelry, Crystal"
+    },
+    {
+        "kanji": "瑞",
+        "arti": "Congratulations"
+    },
+    {
+        "kanji": "瑠",
+        "arti": "Lapis lazuli"
+    },
+    {
+        "kanji": "瑳",
+        "arti": "Polish, Brilliant white luster of a gem, Artful smile"
+    },
+    {
+        "kanji": "瑶",
+        "arti": "Beautiful as a jewel"
+    },
+    {
+        "kanji": "璃",
+        "arti": "Glassy, Lapis lazuli"
+    },
+    {
+        "kanji": "環",
+        "arti": "Ring, Circle, Loop"
+    },
+    {
+        "kanji": "甚",
+        "arti": "Tremendously, Very, Great, Exceedingly"
+    },
+    {
+        "kanji": "甫",
+        "arti": "For the first time, Not until"
+    },
+    {
+        "kanji": "甲",
+        "arti": "Armor, High (voice), A grade, First kelas, Former, Instep, Carapace"
+    },
+    {
+        "kanji": "畔",
+        "arti": "Paddy ridge, Levee"
+    },
+    {
+        "kanji": "畝",
+        "arti": "Furrow, Thirty tsubo, Ridge, Rib"
+    },
+    {
+        "kanji": "異",
+        "arti": "Uncommon, Berbeda, Queerness, Strangeness, Wonderful, Curious, Unusual"
+    },
+    {
+        "kanji": "疎",
+        "arti": "Alienate, Rough, Neglect, Shun, Sparse, Penetrate"
+    },
+    {
+        "kanji": "疫",
+        "arti": "Epidemic"
+    },
+    {
+        "kanji": "疾",
+        "arti": "Rapidly"
+    },
+    {
+        "kanji": "症",
+        "arti": "Symptoms, Illness"
+    },
+    {
+        "kanji": "痘",
+        "arti": "Pox, Smallpox"
+    },
+    {
+        "kanji": "痢",
+        "arti": "Diarrhea"
+    },
+    {
+        "kanji": "痴",
+        "arti": "Stupid, Foolish"
+    },
+    {
+        "kanji": "癒",
+        "arti": "Healing, Cure, Quench (thirst), Wreak"
+    },
+    {
+        "kanji": "癖",
+        "arti": "Mannerism, Habit, Vice, Trait, Fault, Kink"
+    },
+    {
+        "kanji": "皇",
+        "arti": "Emperor"
+    },
+    {
+        "kanji": "皐",
+        "arti": "Swamp, Shore, Fifth month"
+    },
+    {
+        "kanji": "皓",
+        "arti": "Putih, Clear"
+    },
+    {
+        "kanji": "盆",
+        "arti": "Basin, Lantern festival, Tray"
+    },
+    {
+        "kanji": "益",
+        "arti": "Benefit, Gain, Profit, Advantage"
+    },
+    {
+        "kanji": "盛",
+        "arti": "Boom, Prosper, Copulate"
+    },
+    {
+        "kanji": "盟",
+        "arti": "Alliance, Oath"
+    },
+    {
+        "kanji": "監",
+        "arti": "Oversee, Official, Govt office, Rule, Administer"
+    },
+    {
+        "kanji": "盤",
+        "arti": "Tray, Shallow bowl, Platter, Tub, Board, Phonograph record"
+    },
+    {
+        "kanji": "盲",
+        "arti": "Blind, Blind man, Ignoramus"
+    },
+    {
+        "kanji": "盾",
+        "arti": "Shield, Escutcheon, Pretext"
+    },
+    {
+        "kanji": "眉",
+        "arti": "Eyebrow"
+    },
+    {
+        "kanji": "看",
+        "arti": "Watch over, Melihat"
+    },
+    {
+        "kanji": "眸",
+        "arti": "Pupil of the eye"
+    },
+    {
+        "kanji": "眺",
+        "arti": "Stare, Watch, Look at, Melihat, Scrutinize"
+    },
+    {
+        "kanji": "眼",
+        "arti": "Eyeball"
+    },
+    {
+        "kanji": "睡",
+        "arti": "Drowsy, Sleep, Meninggal"
+    },
+    {
+        "kanji": "督",
+        "arti": "Coach, Command, Urge, Lead, Supervise"
+    },
+    {
+        "kanji": "睦",
+        "arti": "Intimate, Friendly, Harmonious"
+    },
+    {
+        "kanji": "瞬",
+        "arti": "Wink, Blink, Twinkle"
+    },
+    {
+        "kanji": "瞭",
+        "arti": "Clear"
+    },
+    {
+        "kanji": "瞳",
+        "arti": "Pupil (of eye)"
+    },
+    {
+        "kanji": "矛",
+        "arti": "Halberd, Arms, Festival float"
+    },
+    {
+        "kanji": "矢",
+        "arti": "Dart, Arrow"
+    },
+    {
+        "kanji": "矯",
+        "arti": "Rectify, Straighten, Correct, Reform, Cure, Control, Pretend, Falsify"
+    },
+    {
+        "kanji": "砕",
+        "arti": "Smash, Break, Crush, Familiar, Popular"
+    },
+    {
+        "kanji": "砲",
+        "arti": "Cannon, Gun"
+    },
+    {
+        "kanji": "硝",
+        "arti": "Nitrate, Saltpeter"
+    },
+    {
+        "kanji": "硫",
+        "arti": "Sulphur"
+    },
+    {
+        "kanji": "碁",
+        "arti": "Pergi"
+    },
+    {
+        "kanji": "碑",
+        "arti": "Tombstone, Monument"
+    },
+    {
+        "kanji": "碧",
+        "arti": "Biru, Hijau"
+    },
+    {
+        "kanji": "碩",
+        "arti": "Large, Great, Eminent"
+    },
+    {
+        "kanji": "磁",
+        "arti": "Magnet, Porcelain"
+    },
+    {
+        "kanji": "磯",
+        "arti": "Seashore, Beach"
+    },
+    {
+        "kanji": "礁",
+        "arti": "Reef, Sunken rock"
+    },
+    {
+        "kanji": "礎",
+        "arti": "Cornerstone, Foundation stone"
+    },
+    {
+        "kanji": "祉",
+        "arti": "Welfare, Happiness"
+    },
+    {
+        "kanji": "祐",
+        "arti": "Help"
+    },
+    {
+        "kanji": "祥",
+        "arti": "Auspicious, Happiness, Blessedness, Good omen, Good fortune"
+    },
+    {
+        "kanji": "票",
+        "arti": "Ballot, Label, Ticket, Sign"
+    },
+    {
+        "kanji": "禄",
+        "arti": "Fief, Allowance, Pension, Grant, Happiness"
+    },
+    {
+        "kanji": "禅",
+        "arti": "Zen, Silent meditation"
+    },
+    {
+        "kanji": "禍",
+        "arti": "Calamity, Misfortune, Evil, Curse"
+    },
+    {
+        "kanji": "禎",
+        "arti": "Happiness, Blessed, Good fortune, Auspicious"
+    },
+    {
+        "kanji": "秀",
+        "arti": "Excel, Excellence, Beauty, Surpass"
+    },
+    {
+        "kanji": "秘",
+        "arti": "Secret, Conceal"
+    },
+    {
+        "kanji": "租",
+        "arti": "Tariff, Crop tax, Borrowing"
+    },
+    {
+        "kanji": "秦",
+        "arti": "Qin dynasty, Name given to naturalized foreigners"
+    },
+    {
+        "kanji": "秩",
+        "arti": "Regularity, Salary, Order"
+    },
+    {
+        "kanji": "称",
+        "arti": "Appellation, Praise, Admire, Nama, Title, Fame"
+    },
+    {
+        "kanji": "稀",
+        "arti": "Rare, Phenomenal, Dilute (acid)"
+    },
+    {
+        "kanji": "稔",
+        "arti": "Harvest, Ripen"
+    },
+    {
+        "kanji": "稚",
+        "arti": "Immature, Young"
+    },
+    {
+        "kanji": "稜",
+        "arti": "Angle, Edge, Corner, Kekuatan, Majesty"
+    },
+    {
+        "kanji": "稲",
+        "arti": "Rice plant"
+    },
+    {
+        "kanji": "稼",
+        "arti": "Earnings, Pekerjaan, Earn money"
+    },
+    {
+        "kanji": "稿",
+        "arti": "Draft, Copy, Manuscript, Straw"
+    },
+    {
+        "kanji": "穀",
+        "arti": "Cereals, Grain"
+    },
+    {
+        "kanji": "穂",
+        "arti": "Telinga, Ear (grain), Kepala, Crest (wave)"
+    },
+    {
+        "kanji": "穏",
+        "arti": "Calm, Quiet, Moderation"
+    },
+    {
+        "kanji": "穣",
+        "arti": "Good crops, Prosperity, 10**28"
+    },
+    {
+        "kanji": "穫",
+        "arti": "Harvest, Reap"
+    },
+    {
+        "kanji": "穴",
+        "arti": "Hole, Aperture, Slit, Cave, Den"
+    },
+    {
+        "kanji": "窃",
+        "arti": "Stealth, Steal, Secret, Private, Hushed"
+    },
+    {
+        "kanji": "窒",
+        "arti": "Plug up, Obstruct"
+    },
+    {
+        "kanji": "窮",
+        "arti": "Hard up, Destitute, Suffer, Perplexed, Cornered"
+    },
+    {
+        "kanji": "窯",
+        "arti": "Kiln, Oven, Furnace"
+    },
+    {
+        "kanji": "竜",
+        "arti": "Dragon, Imperial"
+    },
+    {
+        "kanji": "竣",
+        "arti": "End, Finish"
+    },
+    {
+        "kanji": "端",
+        "arti": "Edge, Origin, End, Point, Border, Verge, Cape"
+    },
+    {
+        "kanji": "笙",
+        "arti": "A reed instrument"
+    },
+    {
+        "kanji": "笛",
+        "arti": "Flute, Clarinet, Pipe, Whistle, Bagpipe, Piccolo"
+    },
+    {
+        "kanji": "第",
+        "arti": "No., Residence"
+    },
+    {
+        "kanji": "笹",
+        "arti": "Bamboo grass, (kokuji)"
+    },
+    {
+        "kanji": "筋",
+        "arti": "Muscle, Sinew, Tendon, Fiber, Plot, Plan, Descent"
+    },
+    {
+        "kanji": "策",
+        "arti": "Scheme, Plan, Policy, Step, Means"
+    },
+    {
+        "kanji": "箇",
+        "arti": "Kata bantu hitung untuk articles"
+    },
+    {
+        "kanji": "節",
+        "arti": "Node, Season, Period, Occasion, Verse, Clause, Stanza, Honor, Joint, Knuckle, Knob, Knot, Tune, Melody"
+    },
+    {
+        "kanji": "範",
+        "arti": "Pattern, Example, Model"
+    },
+    {
+        "kanji": "篤",
+        "arti": "Fervent, Kind, Cordial, Serious, Deliberate"
+    },
+    {
+        "kanji": "簿",
+        "arti": "Register, Record book"
+    },
+    {
+        "kanji": "粋",
+        "arti": "Chic, Style, Purity, Essence, Pith, Cream, Elite, Choice"
+    },
+    {
+        "kanji": "粗",
+        "arti": "Coarse, Rough, Rugged"
+    },
+    {
+        "kanji": "粘",
+        "arti": "Sticky, Glutinous, Greasy, Persevere"
+    },
+    {
+        "kanji": "粛",
+        "arti": "Solemn, Quietly, Softly"
+    },
+    {
+        "kanji": "糖",
+        "arti": "Sugar"
+    },
+    {
+        "kanji": "糧",
+        "arti": "Provisions, Makanan, Bread"
+    },
+    {
+        "kanji": "系",
+        "arti": "Lineage, System"
+    },
+    {
+        "kanji": "糾",
+        "arti": "Twist, Ask, Investigate, Verify"
+    },
+    {
+        "kanji": "紀",
+        "arti": "Chronicle, Account, Narrative, History, Annals, Geologic period"
+    },
+    {
+        "kanji": "紋",
+        "arti": "Family crest, Figures"
+    },
+    {
+        "kanji": "納",
+        "arti": "Settlement, Obtain, Reap, Pay, Supply, Store"
+    },
+    {
+        "kanji": "紗",
+        "arti": "Gauze, Gossamer"
+    },
+    {
+        "kanji": "紘",
+        "arti": "Large"
+    },
+    {
+        "kanji": "級",
+        "arti": "Kelas, Rank, Grade"
+    },
+    {
+        "kanji": "紛",
+        "arti": "Distract, Be mistaken for, Go astray, Divert"
+    },
+    {
+        "kanji": "素",
+        "arti": "Elementary, Principle, Naked, Uncovered"
+    },
+    {
+        "kanji": "紡",
+        "arti": "Spinning"
+    },
+    {
+        "kanji": "索",
+        "arti": "Cord, Rope, Searching, Inquiring"
+    },
+    {
+        "kanji": "紫",
+        "arti": "Purple, Violet"
+    },
+    {
+        "kanji": "紬",
+        "arti": "Pongee (a knotted silk cloth)"
+    },
+    {
+        "kanji": "累",
+        "arti": "Accumulate, Involvement, Trouble, Tie up, Continually"
+    },
+    {
+        "kanji": "紳",
+        "arti": "Sire, Good belt, Gentleman"
+    },
+    {
+        "kanji": "紺",
+        "arti": "Dark blue, Navy"
+    },
+    {
+        "kanji": "絃",
+        "arti": "String, Cord, Samisen music"
+    },
+    {
+        "kanji": "結",
+        "arti": "Tie, Bind, Contract, Join, Organize, Do up hair, Fasten"
+    },
+    {
+        "kanji": "絞",
+        "arti": "Strangle, Constrict, Wring"
+    },
+    {
+        "kanji": "絢",
+        "arti": "Brilliant fabric design"
+    },
+    {
+        "kanji": "統",
+        "arti": "Overall, Relationship, Ruling, Governing"
+    },
+    {
+        "kanji": "絹",
+        "arti": "Silk"
+    },
+    {
+        "kanji": "継",
+        "arti": "Inherit, Succeed, Continue, Patch, Graft (tree)"
+    },
+    {
+        "kanji": "綜",
+        "arti": "Rule, Synthesize"
+    },
+    {
+        "kanji": "維",
+        "arti": "Fiber, Tie, Rope"
+    },
+    {
+        "kanji": "綱",
+        "arti": "Hawser, Kelas (genus), Rope, Cord, Cable"
+    },
+    {
+        "kanji": "網",
+        "arti": "Netting, Network"
+    },
+    {
+        "kanji": "綸",
+        "arti": "Thread, Silk cloth"
+    },
+    {
+        "kanji": "綺",
+        "arti": "Figured cloth, Beautiful"
+    },
+    {
+        "kanji": "綾",
+        "arti": "Design, Figured cloth, Twill"
+    },
+    {
+        "kanji": "緊",
+        "arti": "Tense, Solid, Hard, Reliable, Tight"
+    },
+    {
+        "kanji": "緋",
+        "arti": "Scarlet, Cardinal"
+    },
+    {
+        "kanji": "締",
+        "arti": "Tighten, Tie, Shut, Lock, Fasten"
+    },
+    {
+        "kanji": "緩",
+        "arti": "Slacken, Loosen, Relax, Lessen, Be moderate, Ease"
+    },
+    {
+        "kanji": "緯",
+        "arti": "Horizontal, Woof, Left & right, (parallels of) latitude, Prediction"
+    },
+    {
+        "kanji": "縁",
+        "arti": "Affinity, Relation, Connection, Edge, Border, Verge, Brink"
+    },
+    {
+        "kanji": "縄",
+        "arti": "Straw rope, Cord"
+    },
+    {
+        "kanji": "縛",
+        "arti": "Truss, Arrest, Bind, Tie, Restrain"
+    },
+    {
+        "kanji": "縦",
+        "arti": "Vertical, Length, Height, Self-indulgent, Wayward"
+    },
+    {
+        "kanji": "縫",
+        "arti": "Sew, Stitch, Embroider"
+    },
+    {
+        "kanji": "縮",
+        "arti": "Shrink, Contract, Shrivel, Wrinkle, Reduce"
+    },
+    {
+        "kanji": "繁",
+        "arti": "Luxuriant, Thick, Overgrown, Frequency, Complexity, Trouble"
+    },
+    {
+        "kanji": "繊",
+        "arti": "Slender, Fine, Thin kimono"
+    },
+    {
+        "kanji": "織",
+        "arti": "Weave, Fabric"
+    },
+    {
+        "kanji": "繕",
+        "arti": "Darning, Repair, Mend, Trim, Tidy up, Adjust"
+    },
+    {
+        "kanji": "繭",
+        "arti": "Cocoon"
+    },
+    {
+        "kanji": "繰",
+        "arti": "Winding, Reel, Spin, Turn (pages), Look up, Refer to"
+    },
+    {
+        "kanji": "罰",
+        "arti": "Penalty, Punishment"
+    },
+    {
+        "kanji": "罷",
+        "arti": "Quit, Stop, Leave, Withdraw, Pergi"
+    },
+    {
+        "kanji": "羅",
+        "arti": "Gauze, Thin silk, Rome, Arrange, Spread out"
+    },
+    {
+        "kanji": "羊",
+        "arti": "Sheep"
+    },
+    {
+        "kanji": "義",
+        "arti": "Righteousness, Justice, Morality, Honor, Loyalty, Meaning"
+    },
+    {
+        "kanji": "翁",
+        "arti": "Venerable old man"
+    },
+    {
+        "kanji": "翔",
+        "arti": "Soar, Fly"
+    },
+    {
+        "kanji": "翠",
+        "arti": "Hijau, Kingfisher"
+    },
+    {
+        "kanji": "翻",
+        "arti": "Flip, Turn over, Wave, Flutter, Change (mind)"
+    },
+    {
+        "kanji": "翼",
+        "arti": "Wing, Plane, Flank"
+    },
+    {
+        "kanji": "耀",
+        "arti": "Shine, Sparkle, Gleam, Twinkle"
+    },
+    {
+        "kanji": "耐",
+        "arti": "-proof, Enduring"
+    },
+    {
+        "kanji": "耗",
+        "arti": "Decrease"
+    },
+    {
+        "kanji": "耶",
+        "arti": "Question mark"
+    },
+    {
+        "kanji": "聖",
+        "arti": "Holy, Saint, Sage, Master, Priest"
+    },
+    {
+        "kanji": "聡",
+        "arti": "Wise, Fast learner"
+    },
+    {
+        "kanji": "聴",
+        "arti": "Listen, Headstrong, Naughty, Careful inquiry"
+    },
+    {
+        "kanji": "肇",
+        "arti": "Beginning"
+    },
+    {
+        "kanji": "肖",
+        "arti": "Resemblance"
+    },
+    {
+        "kanji": "肝",
+        "arti": "Liver, Pluck, Nerve, Chutzpah"
+    },
+    {
+        "kanji": "肢",
+        "arti": "Limb, Arms & legs"
+    },
+    {
+        "kanji": "肥",
+        "arti": "Fertilizer, Get fat, Fertile, Manure, Pamper"
+    },
+    {
+        "kanji": "肪",
+        "arti": "Obese, Fat"
+    },
+    {
+        "kanji": "肺",
+        "arti": "Lungs"
+    },
+    {
+        "kanji": "胆",
+        "arti": "Gall bladder, Courage, Pluck, Nerve"
+    },
+    {
+        "kanji": "胎",
+        "arti": "Womb, Uterus"
+    },
+    {
+        "kanji": "胞",
+        "arti": "Placenta, Sac, Sheath"
+    },
+    {
+        "kanji": "胡",
+        "arti": "Barbarian, Foreign"
+    },
+    {
+        "kanji": "胤",
+        "arti": "Descendent, Issue, Offspring"
+    },
+    {
+        "kanji": "胴",
+        "arti": "Trunk, Torso, Hull (ship), Hub of wheel"
+    },
+    {
+        "kanji": "脅",
+        "arti": "Threaten, Coerce"
+    },
+    {
+        "kanji": "脈",
+        "arti": "Vein, Pulse, Hope"
+    },
+    {
+        "kanji": "脚",
+        "arti": "Skids, Leg, Undercarriage, Lower part, Base"
+    },
+    {
+        "kanji": "脩",
+        "arti": "Dried meat"
+    },
+    {
+        "kanji": "脱",
+        "arti": "Undress, Removing, Escape from, Get rid of, Be left out, Take off"
+    },
+    {
+        "kanji": "脹",
+        "arti": "Dilate, Distend, Bulge, Fill out, Swell"
+    },
+    {
+        "kanji": "腐",
+        "arti": "Rot, Decay, Sour"
+    },
+    {
+        "kanji": "腸",
+        "arti": "Intestines, Guts, Bowels, Viscera"
+    },
+    {
+        "kanji": "膜",
+        "arti": "Membrane"
+    },
+    {
+        "kanji": "膨",
+        "arti": "Swell, Get fat, Thick"
+    },
+    {
+        "kanji": "臨",
+        "arti": "Look to, Face, Bertemu, Confront, Attend, Call on"
+    },
+    {
+        "kanji": "臭",
+        "arti": "Stinking, Ill-smelling, Suspicious looking, Odor, Savor, Fragrance, Be fragrant, Stink, Glow, Be bright"
+    },
+    {
+        "kanji": "至",
+        "arti": "Climax, Arrive, Proceed, Reach, Attain, Result in"
+    },
+    {
+        "kanji": "致",
+        "arti": "Doth, Melakukan, Send, Forward, Cause, Exert, Incur, Engage"
+    },
+    {
+        "kanji": "興",
+        "arti": "Entertain, Revive, Retrieve, Interest, Pleasure"
+    },
+    {
+        "kanji": "舌",
+        "arti": "Tongue, Reed, Clapper"
+    },
+    {
+        "kanji": "舎",
+        "arti": "Cottage, Inn, Hut, Rumah, Mansion"
+    },
+    {
+        "kanji": "舗",
+        "arti": "Shop, Store, Pave"
+    },
+    {
+        "kanji": "舜",
+        "arti": "Type of morning glory, Rose of sharon, Althea"
+    },
+    {
+        "kanji": "舶",
+        "arti": "Liner, Ship"
+    },
+    {
+        "kanji": "艇",
+        "arti": "Rowboat, Small boat"
+    },
+    {
+        "kanji": "艦",
+        "arti": "Warship"
+    },
+    {
+        "kanji": "艶",
+        "arti": "Glossy, Luster, Glaze, Polish, Charm, Colorful, Captivating"
+    },
+    {
+        "kanji": "芋",
+        "arti": "Taro, Yam, Tuber"
+    },
+    {
+        "kanji": "芙",
+        "arti": "Lotus, Mt fuji"
+    },
+    {
+        "kanji": "芝",
+        "arti": "Turf, Lawn"
+    },
+    {
+        "kanji": "芳",
+        "arti": "Perfume, Balmy, Favorable, Fragrant"
+    },
+    {
+        "kanji": "芹",
+        "arti": "Parsley"
+    },
+    {
+        "kanji": "芽",
+        "arti": "Bud, Sprout, Spear, Germ"
+    },
+    {
+        "kanji": "苑",
+        "arti": "Garden, Farm, Park"
+    },
+    {
+        "kanji": "苗",
+        "arti": "Seedling, Sapling, Shoot"
+    },
+    {
+        "kanji": "茂",
+        "arti": "Overgrown, Grow thick, Be luxuriant"
+    },
+    {
+        "kanji": "茄",
+        "arti": "Eggplant"
+    },
+    {
+        "kanji": "茅",
+        "arti": "Miscanthus reed"
+    },
+    {
+        "kanji": "茉",
+        "arti": "Jasmine"
+    },
+    {
+        "kanji": "茎",
+        "arti": "Stalk, Stem"
+    },
+    {
+        "kanji": "茜",
+        "arti": "Madder, Red dye, Turkey red"
+    },
+    {
+        "kanji": "荘",
+        "arti": "Villa, Inn, Cottage, Feudal manor, Solemn, Dignified"
+    },
+    {
+        "kanji": "莉",
+        "arti": "Jasmine"
+    },
+    {
+        "kanji": "莞",
+        "arti": "Smiling, Reed used to cover tatami"
+    },
+    {
+        "kanji": "菊",
+        "arti": "Chrysanthemum"
+    },
+    {
+        "kanji": "菌",
+        "arti": "Germ, Fungus, Bacteria"
+    },
+    {
+        "kanji": "菖",
+        "arti": "Iris"
+    },
+    {
+        "kanji": "菫",
+        "arti": "The violet"
+    },
+    {
+        "kanji": "華",
+        "arti": "Splendor, Flower, Petal, Shine, Luster, Ostentatious, Showy, Gay, Gorgeous"
+    },
+    {
+        "kanji": "萌",
+        "arti": "Show symptoms of, Sprout, Bud, Malt"
+    },
+    {
+        "kanji": "萩",
+        "arti": "Bush clover"
+    },
+    {
+        "kanji": "葬",
+        "arti": "Interment, Bury, Shelve"
+    },
+    {
+        "kanji": "葵",
+        "arti": "Hollyhock"
+    },
+    {
+        "kanji": "蒔",
+        "arti": "Sow (seeds)"
+    },
+    {
+        "kanji": "蒼",
+        "arti": "Biru, Pale"
+    },
+    {
+        "kanji": "蓄",
+        "arti": "Amass, Raise, Hoard, Store"
+    },
+    {
+        "kanji": "蓉",
+        "arti": "Lotus"
+    },
+    {
+        "kanji": "蓮",
+        "arti": "Lotus"
+    },
+    {
+        "kanji": "蔦",
+        "arti": "Vine, Ivy"
+    },
+    {
+        "kanji": "蕉",
+        "arti": "Banana, Plantain"
+    },
+    {
+        "kanji": "蕗",
+        "arti": "Butterbur, Bog rhubarb"
+    },
+    {
+        "kanji": "薦",
+        "arti": "Recommend, Mat, Advise, Encourage, Offer"
+    },
+    {
+        "kanji": "薪",
+        "arti": "Fuel, Firewood, Kindling"
+    },
+    {
+        "kanji": "薫",
+        "arti": "Send forth fragrance, Fragrant, Be scented, Smoke (tobacco)"
+    },
+    {
+        "kanji": "藍",
+        "arti": "Indigo"
+    },
+    {
+        "kanji": "藤",
+        "arti": "Wisteria"
+    },
+    {
+        "kanji": "藩",
+        "arti": "Clan, Enclosure"
+    },
+    {
+        "kanji": "藻",
+        "arti": "Seaweed, Duckweed"
+    },
+    {
+        "kanji": "蘭",
+        "arti": "Orchid, Holland"
+    },
+    {
+        "kanji": "虎",
+        "arti": "Tiger, Drunkard"
+    },
+    {
+        "kanji": "虐",
+        "arti": "Tyrannize, Oppress"
+    },
+    {
+        "kanji": "虚",
+        "arti": "Void, Emptiness, Unpreparedness, Crack, Fissure, Untruth"
+    },
+    {
+        "kanji": "虜",
+        "arti": "Captive, Barbarian, Low epithet for the enemy"
+    },
+    {
+        "kanji": "虞",
+        "arti": "Fear, Uneasiness, Anxiety, Concern, Expectation, Consideration"
+    },
+    {
+        "kanji": "虹",
+        "arti": "Rainbow"
+    },
+    {
+        "kanji": "蚊",
+        "arti": "Mosquito"
+    },
+    {
+        "kanji": "蚕",
+        "arti": "Silkworm"
+    },
+    {
+        "kanji": "蛇",
+        "arti": "Snake, Serpent, Hard drinker"
+    },
+    {
+        "kanji": "蛍",
+        "arti": "Lightning-bug, Firefly"
+    },
+    {
+        "kanji": "蛮",
+        "arti": "Barbarian"
+    },
+    {
+        "kanji": "蝶",
+        "arti": "Butterfly"
+    },
+    {
+        "kanji": "融",
+        "arti": "Dissolve, Melt"
+    },
+    {
+        "kanji": "衆",
+        "arti": "Masses, Great numbers, Multitude, Populace"
+    },
+    {
+        "kanji": "街",
+        "arti": "Boulevard, Jalan, Kota"
+    },
+    {
+        "kanji": "衛",
+        "arti": "Defense, Protection"
+    },
+    {
+        "kanji": "衝",
+        "arti": "Collide, Brunt, Highway, Opposition (astronomy), Thrust, Pierce, Stab, Prick"
+    },
+    {
+        "kanji": "衡",
+        "arti": "Equilibrium, Measuring rod, Scale"
+    },
+    {
+        "kanji": "衰",
+        "arti": "Decline, Wane, Weaken"
+    },
+    {
+        "kanji": "衷",
+        "arti": "Inmost, Hati, Mind, Dalam"
+    },
+    {
+        "kanji": "衿",
+        "arti": "Neck, Collar, Lapel"
+    },
+    {
+        "kanji": "袈",
+        "arti": "A coarse camlet"
+    },
+    {
+        "kanji": "裁",
+        "arti": "Tailor, Judge, Decision, Cut out (pattern)"
+    },
+    {
+        "kanji": "裂",
+        "arti": "Split, Rend, Tear"
+    },
+    {
+        "kanji": "裕",
+        "arti": "Abundant, Rich, Fertile"
+    },
+    {
+        "kanji": "裟",
+        "arti": "Buddhist surplice"
+    },
+    {
+        "kanji": "裸",
+        "arti": "Naked, Nude, Uncovered, Partially clothed"
+    },
+    {
+        "kanji": "製",
+        "arti": "Made in..., Manufacture"
+    },
+    {
+        "kanji": "褐",
+        "arti": "Brown, Woollen kimono"
+    },
+    {
+        "kanji": "褒",
+        "arti": "Praise, Extol"
+    },
+    {
+        "kanji": "襟",
+        "arti": "Collar, Neck, Lapel, One's inner feelings"
+    },
+    {
+        "kanji": "襲",
+        "arti": "Attack, Advance on, Succeed to, Pile, Heap"
+    },
+    {
+        "kanji": "覆",
+        "arti": "Capsize, Cover, Shade, Mantle, Be ruined"
+    },
+    {
+        "kanji": "覇",
+        "arti": "Hegemony, Supremacy, Leadership, Champion"
+    },
+    {
+        "kanji": "視",
+        "arti": "Inspection, Regard as, Melihat, Look at"
+    },
+    {
+        "kanji": "覧",
+        "arti": "Perusal, Melihat"
+    },
+    {
+        "kanji": "訂",
+        "arti": "Revise, Correct, Decide"
+    },
+    {
+        "kanji": "討",
+        "arti": "Chastise, Attack, Defeat, Destroy, Conquer"
+    },
+    {
+        "kanji": "託",
+        "arti": "Consign, Requesting, Entrusting with, Pretend, Hint"
+    },
+    {
+        "kanji": "訟",
+        "arti": "Sue, Accuse"
+    },
+    {
+        "kanji": "訳",
+        "arti": "Translate, Reason, Circumstance, Case"
+    },
+    {
+        "kanji": "訴",
+        "arti": "Accusation, Sue, Complain of pain, Appeal to"
+    },
+    {
+        "kanji": "診",
+        "arti": "Checkup, Seeing, Diagnose, Examine"
+    },
+    {
+        "kanji": "証",
+        "arti": "Evidence, Proof, Certificate"
+    },
+    {
+        "kanji": "詐",
+        "arti": "Lie, Falsehood, Deceive, Pretend"
+    },
+    {
+        "kanji": "詔",
+        "arti": "Imperial edict"
+    },
+    {
+        "kanji": "評",
+        "arti": "Evaluate, Criticism, Comment"
+    },
+    {
+        "kanji": "詠",
+        "arti": "Recitation, Poem, Song, Composing"
+    },
+    {
+        "kanji": "詢",
+        "arti": "Consult with"
+    },
+    {
+        "kanji": "詩",
+        "arti": "Poem, Poetry"
+    },
+    {
+        "kanji": "該",
+        "arti": "Above-stated, The said, That specific"
+    },
+    {
+        "kanji": "詳",
+        "arti": "Detailed, Full, Menit, Accurate, Well-informed"
+    },
+    {
+        "kanji": "誇",
+        "arti": "Boast, Be proud, Pride, Triumphantly"
+    },
+    {
+        "kanji": "誉",
+        "arti": "Reputation, Praise, Honor, Glory"
+    },
+    {
+        "kanji": "誓",
+        "arti": "Vow, Swear, Pledge"
+    },
+    {
+        "kanji": "誕",
+        "arti": "Nativity, Be born, Declension, Lie, Be arbitrary"
+    },
+    {
+        "kanji": "誘",
+        "arti": "Entice, Lead, Tempt, Invite, Ask, Call for, Seduce, Allure"
+    },
+    {
+        "kanji": "誠",
+        "arti": "Sincerity, Admonish, Warn, Prohibit, Truth, Fidelity"
+    },
+    {
+        "kanji": "誼",
+        "arti": "Friendship, Intimacy"
+    },
+    {
+        "kanji": "諄",
+        "arti": "Tedious"
+    },
+    {
+        "kanji": "請",
+        "arti": "Solicit, Invite, Ask"
+    },
+    {
+        "kanji": "諒",
+        "arti": "Fact, Reality, Memahami, Appreciate"
+    },
+    {
+        "kanji": "諭",
+        "arti": "Rebuke, Admonish, Charge, Warn, Persuade"
+    },
+    {
+        "kanji": "諮",
+        "arti": "Consult with"
+    },
+    {
+        "kanji": "諾",
+        "arti": "Consent, Assent, Agreement"
+    },
+    {
+        "kanji": "謀",
+        "arti": "Conspire, Cheat, Impose on, Plan, Devise, Scheme, Have in mind, Deceive"
+    },
+    {
+        "kanji": "謁",
+        "arti": "Audience, Audience (with king)"
+    },
+    {
+        "kanji": "謄",
+        "arti": "Mimeograph, Copy"
+    },
+    {
+        "kanji": "謙",
+        "arti": "Self-effacing, Humble oneself, Condescend, Be modest"
+    },
+    {
+        "kanji": "謝",
+        "arti": "Apologize, Thank, Refuse"
+    },
+    {
+        "kanji": "謡",
+        "arti": "Song, Sing, Ballad, Noh chanting"
+    },
+    {
+        "kanji": "謹",
+        "arti": "Discreet, Reverently, Humbly"
+    },
+    {
+        "kanji": "譜",
+        "arti": "Musical score, Music, Note, Staff, Table, Genealogy"
+    },
+    {
+        "kanji": "譲",
+        "arti": "Defer, Turnover, Transfer, Convey"
+    },
+    {
+        "kanji": "護",
+        "arti": "Safeguard, Protect"
+    },
+    {
+        "kanji": "豆",
+        "arti": "Beans, Pea, Midget"
+    },
+    {
+        "kanji": "豚",
+        "arti": "Pork, Pig"
+    },
+    {
+        "kanji": "豪",
+        "arti": "Overpowering, Great, Powerful, Excelling, Australia"
+    },
+    {
+        "kanji": "貞",
+        "arti": "Upright, Chastity, Constancy, Righteousness"
+    },
+    {
+        "kanji": "貢",
+        "arti": "Tribute, Support, Finance"
+    },
+    {
+        "kanji": "貫",
+        "arti": "Pierce, 8 1/3lbs, Penetrate, Brace"
+    },
+    {
+        "kanji": "貴",
+        "arti": "Precious, Value, Prize, Esteem, Honor"
+    },
+    {
+        "kanji": "賀",
+        "arti": "Congratulations, Joy"
+    },
+    {
+        "kanji": "賃",
+        "arti": "Fare, Fee, Hire, Rent, Wages, Charge"
+    },
+    {
+        "kanji": "賄",
+        "arti": "Bribe, Board, Supply, Finance"
+    },
+    {
+        "kanji": "賊",
+        "arti": "Burglar, Rebel, Traitor, Robber"
+    },
+    {
+        "kanji": "賓",
+        "arti": "V.i.p., Guest"
+    },
+    {
+        "kanji": "賜",
+        "arti": "Grant, Gift, Boon, Results"
+    },
+    {
+        "kanji": "賠",
+        "arti": "Compensation, Indemnify"
+    },
+    {
+        "kanji": "賦",
+        "arti": "Levy, Ode, Prose, Poem, Tribute, Installment"
+    },
+    {
+        "kanji": "購",
+        "arti": "Subscription, Membeli"
+    },
+    {
+        "kanji": "赦",
+        "arti": "Pardon, Forgiveness"
+    },
+    {
+        "kanji": "赳",
+        "arti": "Strong and brave"
+    },
+    {
+        "kanji": "赴",
+        "arti": "Proceed, Get, Become, Tend"
+    },
+    {
+        "kanji": "趣",
+        "arti": "Purport, Gist, Elegance, Interest, Proceed to, Tend, Become"
+    },
+    {
+        "kanji": "距",
+        "arti": "Long-distance, Spur, Fetlock"
+    },
+    {
+        "kanji": "跳",
+        "arti": "Hop, Leap up, Spring, Jerk, Prance, Buck, Splash, Sputter, Snap"
+    },
+    {
+        "kanji": "践",
+        "arti": "Tread, Step on, Trample, Practice, Carry through"
+    },
+    {
+        "kanji": "踏",
+        "arti": "Step, Trample, Carry through, Appraise, Evade payment"
+    },
+    {
+        "kanji": "躍",
+        "arti": "Leap, Dance, Skip"
+    },
+    {
+        "kanji": "軌",
+        "arti": "Rut, Wheel, Track, Model, Way of doing"
+    },
+    {
+        "kanji": "軸",
+        "arti": "Axis, Pivot, Stem, Stalk, Kata bantu hitung untuk book scrolls"
+    },
+    {
+        "kanji": "較",
+        "arti": "Contrast, Compare"
+    },
+    {
+        "kanji": "載",
+        "arti": "Ride, Board, Get on, Place, Spread, 10**44, Record, Publish"
+    },
+    {
+        "kanji": "輔",
+        "arti": "Help"
+    },
+    {
+        "kanji": "輝",
+        "arti": "Radiance, Shine, Sparkle, Gleam, Twinkle"
+    },
+    {
+        "kanji": "輩",
+        "arti": "Comrade, Fellow, Orang-orang, Companions"
+    },
+    {
+        "kanji": "轄",
+        "arti": "Control, Wedge"
+    },
+    {
+        "kanji": "辰",
+        "arti": "Shio dragon, 7-9am, Fifth sign of chinese zodiac, Shin dragon radikal (no. 161)"
+    },
+    {
+        "kanji": "辱",
+        "arti": "Embarrass, Humiliate, Shame"
+    },
+    {
+        "kanji": "迅",
+        "arti": "Swift, Fast"
+    },
+    {
+        "kanji": "迪",
+        "arti": "Edify, Way, Path"
+    },
+    {
+        "kanji": "迫",
+        "arti": "Urge, Kekuatan, Imminent, Spur on"
+    },
+    {
+        "kanji": "迭",
+        "arti": "Transfer, Alternation"
+    },
+    {
+        "kanji": "透",
+        "arti": "Transparent, Permeate, Filter, Penetrate"
+    },
+    {
+        "kanji": "逐",
+        "arti": "Pursue, Drive away, Chase, Accomplish, Attain, Commit"
+    },
+    {
+        "kanji": "逓",
+        "arti": "Relay, In turn, Sending"
+    },
+    {
+        "kanji": "逝",
+        "arti": "Departed, Meninggal"
+    },
+    {
+        "kanji": "逮",
+        "arti": "Apprehend, Chase"
+    },
+    {
+        "kanji": "逸",
+        "arti": "Deviate, Idleness, Leisure, Miss the mark, Evade, Elude, Parry, Diverge"
+    },
+    {
+        "kanji": "遂",
+        "arti": "Consummate, Accomplish, Attain, Commit (suicide)"
+    },
+    {
+        "kanji": "遇",
+        "arti": "Bertemu, Encounter, Interview, Treat, Entertain, Menerima, Deal with"
+    },
+    {
+        "kanji": "遍",
+        "arti": "Everywhere, Times, Widely, Generally"
+    },
+    {
+        "kanji": "遣",
+        "arti": "Dispatch, Despatch, Send, Memberi, Donate, Melakukan, Undertake"
+    },
+    {
+        "kanji": "遥",
+        "arti": "Far off, Distant, Long ago"
+    },
+    {
+        "kanji": "遭",
+        "arti": "Encounter, Bertemu, Party, Association, Interview, Join"
+    },
+    {
+        "kanji": "遮",
+        "arti": "Intercept, Interrupt, Obstruct"
+    },
+    {
+        "kanji": "遵",
+        "arti": "Abide by, Follow, Obey, Belajar"
+    },
+    {
+        "kanji": "遷",
+        "arti": "Transition, Move, Change"
+    },
+    {
+        "kanji": "遺",
+        "arti": "Bequeath, Leave behind, Reserve"
+    },
+    {
+        "kanji": "遼",
+        "arti": "Distant"
+    },
+    {
+        "kanji": "避",
+        "arti": "Evade, Avoid, Avert, Ward off, Shirk, Shun"
+    },
+    {
+        "kanji": "還",
+        "arti": "Send back, Kembali"
+    },
+    {
+        "kanji": "邑",
+        "arti": "Village, Rural community, Right village radikal (no. 163)"
+    },
+    {
+        "kanji": "那",
+        "arti": "What?"
+    },
+    {
+        "kanji": "邦",
+        "arti": "Home country, Negara, Japan"
+    },
+    {
+        "kanji": "邪",
+        "arti": "Wicked, Injustice, Wrong"
+    },
+    {
+        "kanji": "邸",
+        "arti": "Residence, Mansion"
+    },
+    {
+        "kanji": "郁",
+        "arti": "Cultural progress, Perfume"
+    },
+    {
+        "kanji": "郎",
+        "arti": "Anak laki-laki, Kata bantu hitung untuk sons"
+    },
+    {
+        "kanji": "郡",
+        "arti": "County, District"
+    },
+    {
+        "kanji": "郭",
+        "arti": "Enclosure, Quarters, Fortification, Red-light district"
+    },
+    {
+        "kanji": "郷",
+        "arti": "Home town, Village, Native place, District"
+    },
+    {
+        "kanji": "酉",
+        "arti": "West, Bird, Shio bird, 5-7pm, Tenth sign of chinese zodiac, Sake radikal (no. 164)"
+    },
+    {
+        "kanji": "酌",
+        "arti": "Bar-tending, Serving sake, The host, Draw (water), Ladle, Scoop, Pump"
+    },
+    {
+        "kanji": "酔",
+        "arti": "Drunk, Feel sick, Poisoned, Elated, Spellbound"
+    },
+    {
+        "kanji": "酢",
+        "arti": "Vinegar, Sour, Acid, Tart"
+    },
+    {
+        "kanji": "酪",
+        "arti": "Dairy products, Whey, Broth, Fruit juice"
+    },
+    {
+        "kanji": "酬",
+        "arti": "Repay, Reward, Retribution"
+    },
+    {
+        "kanji": "酵",
+        "arti": "Fermentation"
+    },
+    {
+        "kanji": "酷",
+        "arti": "Cruel, Severe, Atrocious, Unjust"
+    },
+    {
+        "kanji": "酸",
+        "arti": "Acid, Bitterness, Sour, Tart"
+    },
+    {
+        "kanji": "醜",
+        "arti": "Ugly, Unclean, Shame, Bad looking"
+    },
+    {
+        "kanji": "醸",
+        "arti": "Brew, Cause"
+    },
+    {
+        "kanji": "采",
+        "arti": "Dice, Form, Appearance, Take, Gather, Coloring"
+    },
+    {
+        "kanji": "釈",
+        "arti": "Explanation"
+    },
+    {
+        "kanji": "釣",
+        "arti": "Angling, Fish, Catch, Allure, Ensnare"
+    },
+    {
+        "kanji": "鈴",
+        "arti": "Small bell, Buzzer"
+    },
+    {
+        "kanji": "鉛",
+        "arti": "Lead"
+    },
+    {
+        "kanji": "鉢",
+        "arti": "Bowl, Rice tub, Pot, Crown"
+    },
+    {
+        "kanji": "銃",
+        "arti": "Gun, Arms"
+    },
+    {
+        "kanji": "銑",
+        "arti": "Pig iron"
+    },
+    {
+        "kanji": "銘",
+        "arti": "Inscription, Signature (of artisan)"
+    },
+    {
+        "kanji": "銭",
+        "arti": "Coin, .01 yen, Uang"
+    },
+    {
+        "kanji": "鋳",
+        "arti": "Casting, Mint"
+    },
+    {
+        "kanji": "鋼",
+        "arti": "Steel"
+    },
+    {
+        "kanji": "錘",
+        "arti": "Weight, Plumb bob, Sinker, Spindle"
+    },
+    {
+        "kanji": "錠",
+        "arti": "Lock, Fetters, Shackles"
+    },
+    {
+        "kanji": "錦",
+        "arti": "Brocade, Fine dress, Honors"
+    },
+    {
+        "kanji": "錬",
+        "arti": "Tempering, Refine, Drill, Kereta, Polish"
+    },
+    {
+        "kanji": "錯",
+        "arti": "Confused, Mix, Be in disorder"
+    },
+    {
+        "kanji": "鍛",
+        "arti": "Forge, Discipline, Kereta"
+    },
+    {
+        "kanji": "鎌",
+        "arti": "Sickle, Scythe, Trick"
+    },
+    {
+        "kanji": "鎖",
+        "arti": "Chain, Irons, Connection"
+    },
+    {
+        "kanji": "鎮",
+        "arti": "Tranquilize, Ancient peace-preservation centers"
+    },
+    {
+        "kanji": "鏡",
+        "arti": "Mirror, Speculum, Barrel-head, Round rice-cake offering"
+    },
+    {
+        "kanji": "鐘",
+        "arti": "Bell, Gong, Chimes"
+    },
+    {
+        "kanji": "鑑",
+        "arti": "Specimen, Take warning from, Learn from"
+    },
+    {
+        "kanji": "閑",
+        "arti": "Leisure"
+    },
+    {
+        "kanji": "閣",
+        "arti": "Tower, Tall building, Palace"
+    },
+    {
+        "kanji": "閥",
+        "arti": "Clique, Lineage, Pedigree, Faction, Clan"
+    },
+    {
+        "kanji": "閲",
+        "arti": "Review, Inspection, Revision"
+    },
+    {
+        "kanji": "闘",
+        "arti": "Fight, War"
+    },
+    {
+        "kanji": "阻",
+        "arti": "Thwart, Separate from, Prevent, Obstruct, Deter, Impede"
+    },
+    {
+        "kanji": "阿",
+        "arti": "Africa, Flatter, Fawn upon, Corner, Nook, Recess"
+    },
+    {
+        "kanji": "附",
+        "arti": "Affixed, Attach, Refer to, Append"
+    },
+    {
+        "kanji": "陛",
+        "arti": "Highness, Steps (of throne)"
+    },
+    {
+        "kanji": "陣",
+        "arti": "Camp, Battle array, Ranks, Position, Sudden, Brief time"
+    },
+    {
+        "kanji": "陥",
+        "arti": "Collapse, Fall into, Cave in, Fall (castle), Slide into"
+    },
+    {
+        "kanji": "陪",
+        "arti": "Obeisance, Follow, Accompany, Attend on"
+    },
+    {
+        "kanji": "陰",
+        "arti": "Shade, Yin, Negative, Sex organs, Secret, Shadow"
+    },
+    {
+        "kanji": "陳",
+        "arti": "Exhibit, State, Relate, Explain"
+    },
+    {
+        "kanji": "陵",
+        "arti": "Mausoleum, Imperial tomb, Mound, Bukit"
+    },
+    {
+        "kanji": "陶",
+        "arti": "Pottery, Porcelain"
+    },
+    {
+        "kanji": "隆",
+        "arti": "Hump, Tinggi, Noble, Prosperity"
+    },
+    {
+        "kanji": "隊",
+        "arti": "Regiment, Party, Perusahaan, Squad"
+    },
+    {
+        "kanji": "随",
+        "arti": "Follow, Though, Notwithstanding, While, During, Both, All, Obey, Submit to, Comply, At the mercy of (the waves)"
+    },
+    {
+        "kanji": "隔",
+        "arti": "Isolate, Alternate, Distance, Separate, Gulf"
+    },
+    {
+        "kanji": "障",
+        "arti": "Hinder, Hurt, Harm"
+    },
+    {
+        "kanji": "隠",
+        "arti": "Conceal, Hide, Cover"
+    },
+    {
+        "kanji": "隣",
+        "arti": "Neighboring"
+    },
+    {
+        "kanji": "隷",
+        "arti": "Slave, Servant, Prisoner, Criminal, Follower"
+    },
+    {
+        "kanji": "隼",
+        "arti": "Falcon"
+    },
+    {
+        "kanji": "雄",
+        "arti": "Masculine, Male, Hero, Leader, Superiority, Excellence"
+    },
+    {
+        "kanji": "雅",
+        "arti": "Gracious, Elegant, Graceful, Refined"
+    },
+    {
+        "kanji": "雌",
+        "arti": "Feminine, Female"
+    },
+    {
+        "kanji": "雛",
+        "arti": "Chick, Squab, Duckling, Doll"
+    },
+    {
+        "kanji": "離",
+        "arti": "Detach, Separation, Disjoin, Digress"
+    },
+    {
+        "kanji": "雰",
+        "arti": "Atmosphere, Fog"
+    },
+    {
+        "kanji": "雷",
+        "arti": "Thunder, Lightning bolt"
+    },
+    {
+        "kanji": "需",
+        "arti": "Demand, Request, Membutuhkan"
+    },
+    {
+        "kanji": "霊",
+        "arti": "Spirits, Soul"
+    },
+    {
+        "kanji": "霜",
+        "arti": "Frost"
+    },
+    {
+        "kanji": "霞",
+        "arti": "Be hazy, Grow dim, Blurred"
+    },
+    {
+        "kanji": "霧",
+        "arti": "Fog, Mist"
+    },
+    {
+        "kanji": "露",
+        "arti": "Dew, Tears, Expose, Russia"
+    },
+    {
+        "kanji": "靖",
+        "arti": "Peaceful"
+    },
+    {
+        "kanji": "鞠",
+        "arti": "Ball"
+    },
+    {
+        "kanji": "韻",
+        "arti": "Rhyme, Elegance, Tone"
+    },
+    {
+        "kanji": "響",
+        "arti": "Echo, Sound, Resound, Ring, Vibrate"
+    },
+    {
+        "kanji": "項",
+        "arti": "Paragraph, Nape of neck, Clause, Item, Term (expression)"
+    },
+    {
+        "kanji": "須",
+        "arti": "Ought, By all means, Necessarily"
+    },
+    {
+        "kanji": "頌",
+        "arti": "Eulogy"
+    },
+    {
+        "kanji": "頑",
+        "arti": "Stubborn, Foolish, Firmly"
+    },
+    {
+        "kanji": "頒",
+        "arti": "Distribute, Disseminate, Partition, Memahami"
+    },
+    {
+        "kanji": "頻",
+        "arti": "Repeatedly, Recur"
+    },
+    {
+        "kanji": "顕",
+        "arti": "Appear, Existing"
+    },
+    {
+        "kanji": "顧",
+        "arti": "Look back, Review, Examine oneself, Turn around"
+    },
+    {
+        "kanji": "颯",
+        "arti": "Sudden, Quick, Sound of the wind"
+    },
+    {
+        "kanji": "飢",
+        "arti": "Hungry, Starve"
+    },
+    {
+        "kanji": "飼",
+        "arti": "Domesticate, Raise, Keep, Feed"
+    },
+    {
+        "kanji": "飽",
+        "arti": "Sated, Tired of, Bored, Satiate"
+    },
+    {
+        "kanji": "飾",
+        "arti": "Decorate, Ornament, Adorn, Embellish"
+    },
+    {
+        "kanji": "養",
+        "arti": "Foster, Bring up, Rear, Develop, Nurture"
+    },
+    {
+        "kanji": "餓",
+        "arti": "Starve, Hungry, Thirst"
+    },
+    {
+        "kanji": "馨",
+        "arti": "Fragrant, Balmy, Favourable"
+    },
+    {
+        "kanji": "駄",
+        "arti": "Burdensome, Pack horse, Horse load, Send by horse, Trivial, Worthless"
+    },
+    {
+        "kanji": "駆",
+        "arti": "Drive, Run, Gallop, Advance, Inspire, Impel"
+    },
+    {
+        "kanji": "駒",
+        "arti": "Pony, Horse, Colt"
+    },
+    {
+        "kanji": "駿",
+        "arti": "A good horse, Speed, A fast person"
+    },
+    {
+        "kanji": "騎",
+        "arti": "Equestrian, Riding on horses, Kata bantu hitung untuk equestrians"
+    },
+    {
+        "kanji": "騒",
+        "arti": "Boisterous, Make noise, Clamor, Disturb, Excite"
+    },
+    {
+        "kanji": "騰",
+        "arti": "Leaping up, Jumping up, Rising, Advancing, Going"
+    },
+    {
+        "kanji": "驚",
+        "arti": "Wonder, Be surprised, Frightened, Amazed"
+    },
+    {
+        "kanji": "髄",
+        "arti": "Marrow, Pith, Essence"
+    },
+    {
+        "kanji": "鬼",
+        "arti": "Ghost, Devil"
+    },
+    {
+        "kanji": "魁",
+        "arti": "Charging ahead of others"
+    },
+    {
+        "kanji": "魂",
+        "arti": "Soul, Spirit"
+    },
+    {
+        "kanji": "魅",
+        "arti": "Fascination, Charm, Bewitch"
+    },
+    {
+        "kanji": "魔",
+        "arti": "Witch, Demon, Evil spirit"
+    },
+    {
+        "kanji": "鮎",
+        "arti": "Freshwater trout, Smelt"
+    },
+    {
+        "kanji": "鮮",
+        "arti": "Fresh, Vivid, Clear, Brilliant, Korea"
+    },
+    {
+        "kanji": "鯉",
+        "arti": "Carp"
+    },
+    {
+        "kanji": "鯛",
+        "arti": "Sea bream, Red snapper"
+    },
+    {
+        "kanji": "鯨",
+        "arti": "Whale"
+    },
+    {
+        "kanji": "鳩",
+        "arti": "Pigeon, Dove"
+    },
+    {
+        "kanji": "鳳",
+        "arti": "Male mythical bird"
+    },
+    {
+        "kanji": "鴻",
+        "arti": "Large bird, Wild goose, Large, Great, Powerful, Prosperous"
+    },
+    {
+        "kanji": "鵬",
+        "arti": "Phoenix"
+    },
+    {
+        "kanji": "鶏",
+        "arti": "Chicken"
+    },
+    {
+        "kanji": "鶴",
+        "arti": "Crane, Stork"
+    },
+    {
+        "kanji": "鷹",
+        "arti": "Hawk"
+    },
+    {
+        "kanji": "鹿",
+        "arti": "Deer"
+    },
+    {
+        "kanji": "麗",
+        "arti": "Lovely, Beautiful, Graceful, Resplendent"
+    },
+    {
+        "kanji": "麟",
+        "arti": "Chinese unicorn, Genius, Giraffe, Bright, Shining"
+    },
+    {
+        "kanji": "麻",
+        "arti": "Hemp, Flax, Numb"
+    },
+    {
+        "kanji": "麿",
+        "arti": "I, You, (kokuji)"
+    },
+    {
+        "kanji": "黎",
+        "arti": "Dark, Hitam, Banyak"
+    },
+    {
+        "kanji": "黙",
+        "arti": "Silence, Become silent, Stop speaking, Leave as is"
+    },
+    {
+        "kanji": "黛",
+        "arti": "Blackened eyebrows"
+    },
+    {
+        "kanji": "鼓",
+        "arti": "Drum, Beat, Rouse, Muster"
+    }
+]

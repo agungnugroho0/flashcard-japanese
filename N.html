@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <title>KANJI N5</title>
+</head>
+
+<body>
+    <div class="min-h-screen flex flex-col items-center
+                bg-gradient-to-r from-black to-gray-950
+                text-white p-4 sm:p-6">
+
+        <div class="w-full max-w-4xl">
+
+            <button
+                class="w-full p-3 bg-white rounded-lg font-bold
+                       text-[#111827] hover:scale-[1.02]
+                       active:scale-95 transition">
+                CEK HAFALAN KANJIMU
+            </button>
+
+            <div class="mt-4 w-full overflow-x-auto rounded-lg border border-gray-700">
+
+                <table class="w-full min-w-[450px] text-left border-collapse">
+
+                    <thead class="bg-gray-800">
+                        <tr class="*:p-3 text-sm sm:text-base">
+                            <th>No</th>
+                            <th>Kanji</th>
+                            <th>Furigana</th>
+                            <th>Arti</th>
+                        </tr>
+                    </thead>
+
+                    <tbody id="tbody" class="divide-y divide-gray-800">
+                        
+                    </tbody>
+
+                </table>
+
+            </div>
+
+        </div>
+    </div>
+</body>
+
+<script src="kanjiapi.js"></script>
+
+</html>
