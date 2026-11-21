@@ -51,7 +51,7 @@ function isitabel() {
                 </td>
 
                 <td class="p-3 text-sm sm:text-base whitespace-nowrap text-gray-400">
-                    ${e.kun_readings?.[0] || '-'}
+                    ${e.kun_readings?.[0] || '-'} / ${e.on_readings?.[0] || '-'}
                 </td>
 
                 <td class="p-3 text-sm sm:text-base">
